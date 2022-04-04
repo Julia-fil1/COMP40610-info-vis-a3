@@ -1,0 +1,1110 @@
+No,Location,No Spaces,Exact Location,Tariff,Hours of Operation,Clr-Way,X_Value,Y_Value,Zone
+0,Parnell Street,21 P&D (Total),At Jury's,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315763.7318,234926.3662,Yellow
+9,Collier's Avenue,21 P&D / DP,At Sandford Road,€1.60,Mon-Sat 07.00-24.00,FALSE,316675.5176,231715.2369,Green
+18,Ailesbury Road,169 P&D / DP (Total),At Number 14,€1.60,Mon-Fri 07.00-19.00,FALSE,318900.327,231476.843,Green
+19,Nottingham Street,55 P&D / DP,Off North Strand Road,€1.60,Mon-Sat 07.00-19.00,FALSE,317142.3951,235714.1051,Green
+20,St. Mary's Terrace (Arbour Hill),4 P&D + 4 DP,At Arbour Place,€1.60,Mon-Sat 07.00-24.00,FALSE,314370.5732,234718.6548,Green
+23,North Circular Road,20 P&D / DP,At Summerhill Parade & Russell St,€2.70,Mon-Fri 08.00-18.30,FALSE,316557.7629,235542.0091,Red
+24,Charles' Street Great,76 P&D / DP,North Side West of Emmet Street,€2.70,Mon-Sun 07.00-24.00,FALSE,316286.1704,235503.8143,Red
+25,Prussia Street,10 P&D / DP,Opposite Joseph's Road,€2.70,Mon-Sat 10.00 - 19.00,FALSE,314100.6669,235193.6974,Red
+26,Kenilworth Square West,71 P&D / DP,At Park,€1.60,Mon-Fri 08.00-18.30,FALSE,314859.9383,231165.2101,Green
+27,Cadogan Road,78 P&D / DP,Off Annesley Bridge Road,€1.00,Mon-Fri 07.00-19.00,FALSE,317320.69,236006.14,Orange
+28,Tyrconnell Street,30 P&D / DP,Junction of Tyrconnel Road,€1.00,Mon-Sat 07.00-24.00,FALSE,311729,233229,Orange
+31,Raymond Street,68 P&D / DP,At No 25,€2.70,Mon-Sat 07.00-24.00,FALSE,314848.5177,232888.8826,Red
+32,St. Alban's Road,44 P&D / DP,At South Circular Road,€1.60,Mon-Fri 08.00-18.30,FALSE,314773.8794,232648.8603,Green
+34,Greenville Terrace,71 P&D / DP,At SPAR,€1.60,Mon-Sat 07.00-24.00,FALSE,314712.9307,232626.494,Green
+35,South Dock Street,84 P&D / DP,Opposite Number 64,€2.70,Mon-Sat 07.00-24.00,FALSE,317761.5782,233697.3876,Red
+36,Kenilworth Square South,80 P&D / DP,At Park,€1.60,Mon-Fri 08.00-18.30,FALSE,314956.1346,231018.4844,Green
+37,Royse Road,28 P&D / DP,Off Phibsborough Road,€1.60,Mon-Fri 07.00-24.00,FALSE,315072.281,236121.9352,Green
+38,Washington Street,37 P&D / DP,Opposite No 12,€1.60,Mon-Sat 07.00-24.00,FALSE,314662.3277,232712.839,Green
+39,Garville Road,36 P&D / DP,Opposite Number 144,€1.00,Mon-Sat 07.00-19.00,FALSE,315263.5888,230862.3662,Orange
+48,The Coombe,16 P&D / DP,Near Reginald Street / At No 62,€2.70,Mon-Sat 07.00-24.00,FALSE,314660.9909,233514.8342,Red
+49,St. Philomena's Road,17 P&D / DP,Off Finglas Road,€1.00,Mon-Sat 07.00-24.00,FALSE,314998.3464,236636.6666,Orange
+51,Kenilworth Square East,84 P&D / DP,At Park,€1.60,Mon-Sat 07.00-19.00,FALSE,315034.5715,231141.1082,Green
+53,Rathmines Road Upper,43 P&D / DP (Total),Near junction York Rd,€1.60,Mon-Sun 07.00-24.00,FALSE,315692.3275,231268.6687,Green
+55,St. Brigid's Road (Artane),28 spaces 1 disabled spaced,Outside No. 48 St Brigid's Road,€0.60,Mon-Sat 07.00-19.00,FALSE,319480,238334,Blue
+57,Collin's Avenue East,22 P&D,Opposite Number 66,€1.00,Mon-Sat 07.00-19.00,FALSE,319184,237341,Orange
+63,Garville Avenue Upper,9 P&D,At Number 88,€1.00,Mon-Sat 07.00-24.00,FALSE,314795.416,230785.6921,Orange
+64,Fairview Avenue Upper,27 P&D,At Green,€1.00,Mon-Fri 08.00-18.30,FALSE,317539.1579,236441.6964,Orange
+70,Larch Grove,8 P&D / DP,Off Sandford Road,€2.70,Mon-Sat 07.00-24.00,FALSE,316902.9785,231560.5955,Red
+71,Dartry Road,28 P&D / DP,At Dodder Walk,€1.00,Mon-Sun 07.00-21.00,FALSE,316056.6107,230069.8862,Orange
+73,Ardagh Road,38 P&D / DP,Off Crumlin Road,€1.00,Mon-Sat 07.00-24.00,FALSE,313099.0292,232263.8129,Orange
+74,Bow Lane West,26 P&D / DP,Opposite Number 4 & East of Bow Bridge,€1.60,Mon-Sat 07.00-19.00,FALSE,313569,233837,Green
+75,Langrishe Place,22 P&D / DP,Off Summerhill,€2.70,Mon-Sun 07.00-24.00,FALSE,316173.479,235223.4558,Red
+76,Sandymount Avenue,43 P&D / DP (Total),At Number 53,€1.00,Mon-Fri 08.00-18.30,FALSE,318741.8447,232450.7449,Orange
+101,Golden Lane,30 P&D + 8 DP (Total),At flats,€3.20,Mon-Sat 07.00-19.00,FALSE,315411.5321,233641.6812,Yellow
+103,Edenvale Road,115 P&D / DP,At Church,€1.60,Mon-Sun 07.00-24.00,FALSE,316505.4511,231237.6599,Green
+109,Emmet Road,155 P&D / DP (Total),No 10,€1.00,Mon-Sat 07.00-19.00,FALSE,312720.4027,233564.232,Orange
+124,Aughrim Street,70 P&D / DP (Total),Opposite Chiropodist,€2.70,Mon-Fri 08.00-18.30,FALSE,314030.3085,235082.9066,Red
+125,Fergus Road,17 P&D / DP,Opposite Number 344,€1.00,Mon-Sat 07.00-24.00,FALSE,314410.6907,229997.0052,Orange
+128,Annadale Avenue,27 P&D / DP,Off Phillipsburgh Avenue,€1.00,Mon-Sat 07.00-24.00,FALSE,317196.9691,236586.1038,Orange
+130,Merrion View Avenue,25 P&D / DP,Opposite Number 1,€1.00,Mon-Sat 07.00-19.00,FALSE,319023.6016,231404.2329,Orange
+142,Albany Road (Rathmines),78 P&D / DP,Opposite Park,€1.60,Mon-Fri 08.00-18.30,FALSE,316527.6066,231189.2378,Green
+145,Kilbride Road,45 P&D / DP,"Off Collins Avenue, Killester",€1.00,Mon-Fri 08.00-18.30,FALSE,319339.6562,237354.6132,Orange
+146,Brighton Square,178 P&D / DP (Total),At ERCO,€1.00,Mon-Sat 07.00-24.00,FALSE,314661.0331,230953.6708,Orange
+153,Viking Place,18 P&D / DP,Opposite Number 11,€1.60,Mon-Sat 07.00-24.00,FALSE,314267,234672,Green
+154,Emmet Road,155 P&D / DP (Total),No 13 / West of N'side SCR,€1.00,Mon-Sat 07.00-19.00,FALSE,312620.1222,233577.4687,Orange
+155,Middle Third,20 P&D / DP,At Number 44,€1.00,Mon-Fri 08.00-18.30,FALSE,319482.93,237449.03,Orange
+158,Iona Road,98 in total length of Iona Road,Junction Of Botanic Road,€1.60,Mon-Sun 07.00-24.00,FALSE,315157.6752,236536.2172,Green
+161,Frankfort Avenue,96 P&D / DP,At Number 75,€1.00,Mon-Sat 07.00-24.00,FALSE,315413.44,230965.65,Orange
+162,Victoria Road,67 P&D / DP,Junction of Zion Road,€1.00,Mon-Fri 08.00-18.30,FALSE,315088,230116,Orange
+164,Ormond Road South,96 P&D / DP,House Number 2,€1.60,Mon-Sat 08.00-18.30,FALSE,316109.9375,231181.238,Green
+165,St. Agnes' Road,19 P&D,At Car Park Opposite AIB Crumlin,€1.00,Mon-Sat 07.00-19.00,FALSE,312214,230878,Orange
+166,Rathgar Road,6 P&D,At Number 9,€1.00,Mon-Sat 07.00-19.00,FALSE,315478.7897,231441.6677,Orange
+167,Terenure Road East,7 P&D,Opposite AIB,€1.00,Mon-Sat 07.00-19.00,FALSE,315013.5174,230428.602,Orange
+168,South Circular Road,22 P&D,"Rialto end, outside shops",€1.60,Mon-Sat 07.00-19.00,FALSE,313511.1793,233054.2358,Green
+169,Brunswick Place,10 P&D,Off Pearse Street,€2.70,Mon-Sat 07.00-19.00,FALSE,317011.9123,233881.6227,Red
+195,Eccles Street,36 P&D + 16 DP (Total),"Number 30, Entrance to public hospital",€2.70,Mon-Sat 07.00-19.00,FALSE,,,Red
+228,Charlemont Mall,70 P&D / DP (Total),At Light-Stand 12,€2.70,Mon-Fri  08.00-18.30,FALSE,315751.129,232497.3484,Red
+231,Cook Street,12 P&D + 29 DP,At church,€3.20,Mon-Sat 07.00-19.00,FALSE,315084.8567,234034.1518,Yellow
+244,Emmet Road,155 P&D / DP (Total),East of S'side St Vincent Street,€1.00,Mon-Sat 07.00-19.00,FALSE,312062.6389,233456.94,Orange
+260,Mary's Lane,8 P&D + 12 DP,"At flats, south side, west of Greek Street",€3.20,Mon-Sat 07.00-19.00,FALSE,314996.3002,234447.0512,Yellow
+273,St. Mary's Place North,14 P&D (Total),At Flats,€3.20,Mon-Sat 07.00-19.00,FALSE,315414.0202,235161.7756,Yellow
+298,Marlborough Road,64 P&D / DP,No 90,€2.70,Mon-Fri 08.00-18.30,FALSE,316957.691,231684.0124,Red
+306,Clontarf Road,29 P&D / DP (Total),At Number 10,€1.00,Mon-Fri 07.00-24.00,FALSE,318279,236272,Orange
+316,Longwood Avenue,71 P&D / DP,Junction Of South Circular Road,€2.70,Mon-Sat 07.00-24.00,FALSE,315070.8466,232666.7527,Red
+318,Kenilworth Square North,76 P&D / DP,Opposite Number 88A,€2.70,Mon-Fri 08.00-18.30,FALSE,315012.303,231298.1657,Red
+319,Beechwood Avenue Upper,104 P&D / DP,Junction Of Dunville Avenue,€1.60,Mon-Sun 07.00-24.00,FALSE,316430.8992,231304.9534,Green
+324,Richmond Street South,8 P&D + 4 DP,Opposite Number 59 (AIB),€2.70,Mon-Sat 07.00-19.00,FALSE,315657,232710,Red
+326,Wesley Road,30 P&D / DP,At Post Office,€1.00,Mon-Sun 07.00-24.00,FALSE,315147.0875,230626.9252,Orange
+336,Milltown Road,20 P&D / PP,Opposite No. 38,€1.00,Mon-Sat 07.00-19.00,FALSE,316311.288,230065.5513,Orange
+337,Effra Road,84 P&D / DP,Off Grosvenor Place,€2.70,Mon-Fri 07.00-19.00,FALSE,315022.669,231432.3019,Red
+338,Castlewood Terrace,15 P&D / DP,At Number 12,€2.70,Mon-Sun 07.00-24.00,FALSE,315791.9088,231732.0622,Red
+353,Amiens Street,58 P&D (Total),Local Employment Centre,€2.70,Mon-Sat 07.00-19.00,FALSE,316699.5188,235102.9021,Red
+354,Amiens Street,58 P&D (Total),Corner of Preston St,€2.70,Mon-Sat 07.00-19.00,FALSE,316706.9732,235078.4497,Red
+356,Amiens Street,58 P&D (Total),No 3,€2.70,Mon-Sat 07.00-19.00,FALSE,316757.1878,235198.0871,Red
+357,North Strand Road,32 P&D + 3 DP (Total),Number 76,€1.60,Mon-Sat 07.00-19.00,FALSE,317235.7126,235846.1849,Green
+358,North Strand Road,32 P&D + 3 DP (Total),Fire Brigade,€1.60,Mon-Sat 07.00-19.00,FALSE,317283.9387,235861.3572,Green
+359,Annesley Bridge Road,16 P&D + 1 DP (Total),Number 25 Laundrette,€1.00,Mon-Sat 07.00-19.00,FALSE,317402.6075,236099.7785,Orange
+360,Fairview,22 P&D,Corner of Merville Ave,€1.00,Mon-Sat 07.00-19.00,FALSE,317580.8816,236243.915,Orange
+361,Marino Mart,32 P&D / DP (Total),At Blue Leaf Art Gallery / Number 8-9,€1.00,Mon-Sat 07.00-19.00,FALSE,317717,236306,Orange
+367,North Strand Road,32 P&D + 3 DP (Total),Bayview Stores,€1.60,Mon-Sat 07.00-19.00,FALSE,317078.5712,235579.0446,Green
+368,Brookvale Road (Donnybrook),16 P&D / DP,Off Eglinton Road,€2.70,Mon-Fri 08.00-18.30,FALSE,317750.6214,231218.779,Red
+370,Merrion Road,17 P&D / DP,At Sony Centre / Ballsbridge Park Junction,€2.70,Mon-Sat 07.00-19.00,FALSE,317968,232388,Red
+379,St. Aidan's Park Road,8 P&D,At City Cycles / Junction Of Malahide Rd,€1.00,Mon-Sat 07.00-19.00,FALSE,317901,236369,Orange
+382,Mountjoy Square South,11 P&D + 8 DP (Total),No 36 Near Bus Garage,€2.70,Mon-Sat 07.00-19.00,FALSE,316172.6049,235399.5101,Red
+383,Mountjoy Square East,35 P&D / DP (Total),Park Side,€2.70,Mon-Sat 07.00-19.00,FALSE,316134.1148,235459.9382,Red
+385,Nutley Avenue,160 P&D / DP,Corner of Nutley Lane,€1.60,Mon-Sun 07.00-24.00,FALSE,318930.9424,231222.1657,Green
+388,Mountpleasant Avenue Lower,43 P&D / DP (Total),"Opposite No. 1, Junction of Canal Rd",€2.70,Mon-Fri 08.00-18.30,FALSE,315759,232446,Red
+389,Beechwood Road,31 P&D / DP,Junction of Ashfield Avenue,€2.70,Mon-Sun 07.00-24.00,FALSE,316457.4722,231485.428,Red
+394,Dominick Street Upper,18 P&D DP,Temporarily removed opposite Michael H,€3.20,Mon-Fri  08.00-18.30,FALSE,,,Yellow
+414,Charlemont Place,13 P&D (Total),Glennon,€3.20,Mon-Sat 07.00-19.00,FALSE,315986.15,232562.71,Yellow
+430,Amiens Street,58 P&D (Total),At Terry Rogers',€2.70,Mon-Sat 07.00-19.00,FALSE,316610.5906,234963.6176,Red
+431,Ranelagh,28 P&D + 32 DP (Total),No 1A,€2.70,Mon-Sat 07.00-19.00,FALSE,316253.6856,232047.8409,Red
+433,Aughrim Street,70 P&D / DP (Total),Opposite Sports Centre,€2.70,Mon-Fri 08.00-18.30,FALSE,313897.8535,235170.2529,Red
+434,Meath Street,15 P&D + 8 DP (Total),No 25,€2.70,Mon-Sat 07.00-19.00,FALSE,314701.5373,233689.4593,Red
+439,Manor Street,4 P&D + 64 DP (Total),No 75,€2.70,Mon-Sun 07.00-24.00,FALSE,314323.6907,234898.2184,Red
+443,Clonskeagh Road,78 P&D / DP (Total),Opp no 95 / Roebuck Rd,€1.00,Mon-Sat 07.00-19.00,FALSE,317455.1686,230789.7561,Orange
+451,Dartmouth Road,51 P&D / DP (Total),At side of no 11 Cambridge Tce,€3.20,Mon-Fri 08.00-18.30,FALSE,316205.4493,232434.8536,Yellow
+455,Ballyfermot Road,83 P&D (Total),At Kiely's Pharmacy (Number 280),€0.60,Mon-Sat 07.00-19.00,FALSE,309862,233683,Blue
+457,Pearse Street,90spaces in total,At 146 / Opposite 70,€2.70,Mon-Sat 07.00-19.00,FALSE,316890,233973,Red
+459,Pearse Street,90spaces in total on street,At new appartments,€3.20,Mon-Sat 07.00-19.00,FALSE,316800.3227,234020.907,Yellow
+464,Pembroke Park,76 P&D / DP,Number 27,€2.70,Mon-Fri 08.00-18.30,FALSE,317314.7934,232126.2699,Red
+467,Annamoe Road,4 P&D + 8 DP,Hanlon's Pub,€1.60,Mon-Sat 07.00-19.00,FALSE,314006.3651,235474.0881,Green
+474,North Wall Quay,31 P&D (Total),At Tilestyle,€1.60,Mon-Sat 07.00-19.00,FALSE,317785.0378,234417.6798,Green
+478,Belgrave Square North,13 P&D / DP,Opposite Number 49,€2.70,Mon-Fri 08.00-18.30,FALSE,315901.1854,231703.1773,Red
+482,Killester The Demense,12 P&D / PP,Opposite No.34,€1.00,Mon-Fri 08.00-18.30,FALSE,319533.34,237224.84,Orange
+487,Victoria Avenue,29 P&D / DP,At side of 126 Morehampton Rd,€2.70,Mon-Fri 08.00-18.30,FALSE,317468.5589,231736.5952,Red
+491,Collin's Avenue Extension,25 P&D / DP,"Opposite DCU Main Entrance, At Number 560",€1.00,Mon-Fri 08.00-18.30,FALSE,316150,238774,Orange
+492,Meath Place,26 P&D / DP,At Number 42,€2.70,Mon-Sat 07.00-24.00,FALSE,314639.5289,233660.938,Red
+493,Raheny Village,16 P&D/DP,At Number 17 / Opposite Raheny Carpets,€1.00,Mon-Sat 07.00-24.00,FALSE,321493,238128,Orange
+496,St. John's Road West,10 P&D,Opposite Heuston Station,€1.60,Mon-Sat 07.00-19.00,FALSE,313712,234184,Green
+510,North Strand Road,32 P&D + 3 DP (Total),At Number 54,€1.60,Mon-Sat 07.00-19.00,FALSE,317079,235604,Green
+512,Marino Mart,32 P&D / DP (Total),Opp Marino College,€1.00,Mon-Sat 07.00-19.00,FALSE,317845.8544,236323.0276,Orange
+513,Annesley Bridge Road,16 P&D + 1 DP (Total),At Fairview,€1.00,Mon-Sat 07.00-19.00,FALSE,317417.7798,236080.2713,Orange
+516,Connaught Street,62 P&D / DP (Total),Number 24,€1.60,Mon-Fri 08.00-18.30,FALSE,314929.6144,236099.3006,Green
+519,Munster Street,29 P&D / DP,No 36-37,€1.60,Mon-Fri 08.00-18.30,FALSE,314991.1737,236152.9721,Green
+521,Kirwan Street,23 P&D / DP,No 12-13,€2.70,Mon-Fri 08.00-18.30,FALSE,314391.588,234962.3436,Red
+523,Northbrook Avenue Lower,41 P&D / DP,Under The Bridge,€1.60,Mon-Sat 07.00-24.00,FALSE,317173.3979,235663.5758,Green
+531,Clonskeagh Road,17 P&D / DP (Total),No 53,€1.00,Mon-Fri 08.00-17.30,FALSE,317510.439,230911.4052,Orange
+534,Fairview Strand,2 P&D,Opp no 12,€1.00,Mon-Sat 07.00-19.00,FALSE,317482.8038,236162.0932,Orange
+535,Eglinton Road,80 P&D / DP (Total),At Number 77,€2.70,Mon-Fri 08.00-18.30,FALSE,317315.367,231224.875,Red
+543,Greenmount Road,60 P&D / DP (Total),"Opposite Number 7, at 'Cremorne'",€1.00,Mon-Sat 07.00-24.00,FALSE,314694.3579,230165.5257,Orange
+546,Anna Villa,75 P&D / DP (Total),Number 11,€2.70,Mon-Sun 07.00-24.00,FALSE,316539.673,231530.3531,Red
+547,Glengarriff Parade,82 P&D / DP,Opp no 9 Corner of NCRd,€1.60,Mon-Fri 08.00-18.30,FALSE,315490,235845,Green
+550,Brighton Square,178 P&D / DP (Total),Opposite Number 35,€1.00,Mon-Sat 07.00-24.00,FALSE,314672.4123,230820.9134,Orange
+551,St. Patrick's Close,6 P&D / DP,Corner Of Kevin Street,€3.20,Mon-Sat 07.00-19.00,FALSE,315248,233396,Yellow
+552,Finglas Village,96 P&D (Total),"On Main Street, Opposite Falcon Travel",€0.60,Mon-Sat 07.00-19.00,FALSE,313143,239037,Blue
+553,Finglas Vliiage,96 P&D (Total),"In The Car Park, Opposite Shamrock Lodge",€0.60,Mon-Sat 07.00-19.00,FALSE,313169,239091,Blue
+556,Watling Street,18 P&D,At Emmet Buildings,€2.70,Mon-Sat 07.00-19.00,FALSE,314278,234027,Red
+559,Finglas Village,96 P&D (Total),"On Seamus Ennis Road, At Superquinn",€0.60,Mon-Sat 07.00-19.00,FALSE,313211,239106,Blue
+561,Home Villas,96 P&D / DP,"At The Park, At The Northernmost Tip Of The Esatate",€2.70,Mon-Fri 07.00-19.00,FALSE,317643,231961,Red
+564,Finglas Village,96 P&D (Total),"In The Car Park, At Paddy Powers (Number 2/3)",€0.60,Mon-Sat 07.00-19.00,FALSE,313201,239094,Blue
+568,St. Anne's Road South,24 P&D / DP,Junction of South Circular Road,€1.60,Mon-Sat 08.00-18.30,FALSE,314240,232645,Green
+569,Conyngham Road,46 P&D + 12 DP (Total),At Parkgate (Sarsfields) Motors,€1.60,Mon-Fri 10.00-16.00 and Sat 08.00-19.00,TRUE,313320,234424,Green
+570,Usher's Quay / Usher's Street,50 P&D / DP,At flats,€2.70,Mon-Fri 08.00-18.30,FALSE,314700,234190,Red
+578,Drumcondra Road Upper,10 P&D (Total),"At Number 14, First Active Insurance",€1.00,Mon-Sat 07.00-19.00,FALSE,316233,236843,Orange
+584,Winton Avenue,66 P&D / DP,Off Rathgar Ave No 11,€1.00,Mon-Sun 07.00-24.00,FALSE,315057.6795,230708.2052,Orange
+589,Dufferin Avenue,73 P&D / DP,At South Circular Road / No 46,€1.60,Mon-Fri 08.00-18.30,FALSE,314618.9282,232717.123,Green
+590,Clonskeagh Road,6 P&D / DP (Total),No 5,€1.00,Mon-Sat 07.00-24.00,FALSE,317477.927,230993.498,Orange
+591,Rathfarnham Road,14 P&D,No 9,€1.00,Mon-Sat 07.00-19.00,FALSE,314436.1584,230120.0089,Orange
+592,Hanover Street East,77 P&D / DP,At Townsend Street Junction,€2.70,Mon-Fri 08.00-18.30,FALSE,316852.55,234164.12,Red
+600,James' Street,22 P&D + 9 DP (Total),At Guinness,€1.60,Mon-Sat 07.00-19.00,FALSE,314160.099,233922.117,Green
+601,James' Street,22 P&D + 9 DP (Total),Opposite Post Office,€1.60,Mon-Sat 07.00-19.00,FALSE,314120.422,233915.945,Green
+607,Grosvenor Place,89 P&D / DP (Total),At Number 13,€2.70,Mon-Fri 08.00-18.30,FALSE,315204.9434,231424.5755,Red
+609,Leinster Road,208 P&D / DP (Total),At Number 71,€2.70,Mon-Fri 08.00-18.30,FALSE,315125.5786,231635.7713,Red
+610,Leinster Road,208 P&D / DP (Total),At Number 153,€2.70,Mon-Fri 08.00-18.30,FALSE,315434.0006,231754.9634,Red
+617,Mount Brown,6 P&D + 33 DP (Total),At No 80,€1.60,Mon-Sat 07.00-19.00,FALSE,313113,233602,Green
+618,Mount Brown,6 P&D + 33 DP (Total),Between 25 & 26,€1.60,Mon-Sat 07.00-19.00,FALSE,313367,233680,Green
+619,Mount Brown,6 P&D + 33 DP (Total),"At Apartments, Opp entrance to Ceannt Fort",€1.60,Mon-Sat 07.00-19.00,FALSE,313538,233730,Green
+621,Pearse Square,28 P&D / DP,Opposite Number 57,€2.70,Mon-Sat 07.00-19.00,FALSE,317146.2022,233945.6427,Red
+626,Grand Canal Quay,12 P&D,Opposite Malt House,€2.70,Mon-Fri 07.00-19.00,FALSE,317323.0778,233703.9688,Red
+632,St. Patrick's Road,68 P&D / DP,Under Railway Bridge,€1.60,Mon-Sun 07.00-24.00,FALSE,315836.8838,236205.7134,Green
+633,St. Peter's Road (Phibsborough),60 P&D / DP,At Light-Stand 5,€1.60,Mon-Fri  08.00-18.30,FALSE,314771.0006,236022.9946,Green
+635,Windmill Lane,37 P&D / DP,Junction Of Creighton Street,€2.70,Mon-Sat 07.00-19.00,FALSE,,,Red
+636,Ringsend Road,23 P&D / DP,At Number 39,€2.70,Mon-Fri 08.00-18.30,FALSE,317694,233819,Red
+637,South Lotts Road,63 P&D / DP (Total),At ESB,€2.70,Mon-Sat 07.00-24.00,FALSE,317778.8863,233553.0018,Red
+638,Doris Street,39 P&D / DP,Junction Of South Lotts Road,€2.70,Mon-Sat 07.00-24.00,FALSE,317762.7642,233623.0706,Red
+639,Somerset Street,20 P&D / DP,Opposite Number 1,€2.70,Mon-Sat 07.00-24.00,FALSE,317724.7472,233570.8868,Red
+640,Penrose Street,48 P&D / DP,Junction Of South Lotts Road,€2.70,Mon-Sat 07.00-24.00,FALSE,317767.1125,233659.3068,Red
+641,Brunswick Street North,24 P&D / DP (Total),Opposite Kebry print,€2.70,Mon-Sat 07.00-19.00,FALSE,314608.1678,234719.988,Red
+642,Hastings Street,41 P&D,At Number 7,€2.70,Mon-Sat 07.00-24.00,FALSE,317824.4247,233761.3585,Red
+645,South Circular Road,17 P&D / DP,Outside number 448,€1.60,Mon-Sat 07.00-19.00,FALSE,313762,232944,Green
+646,Grosvenor Road,128 P&D / DP (Total),Opposite Number 34,€1.60,Mon-Fri 08.00-18.30,FALSE,315299.6461,231066.7301,Green
+650,Mayfield Road,17 P&D / DP,At South Circular Road,€1.60,Mon-Sat 07.00-19.00,FALSE,313164,233369,Green
+651,Mountshannon Road,68 P&D / DP,"Opposite number 5, corner of SCR",€1.60,Mon-Sat 07.00-19.00,FALSE,313308,233312,Green
+652,Emmet Road,155 P&D / DP (Total),At One Euro Plaza & Junction Spa Road,€1.00,Mon-Sat 07.00-19.00,FALSE,311980,233417,Orange
+655,Merrion Road,11 P&D / DP,At Number 180,€1.60,Mon-Sat 07.00-19.00,FALSE,319211.6294,231279.8745,Green
+656,Lansdowne Road,49 P&D / DP (Total),Outside Number 53,€2.70,Mon-Fri 08.00-18.30,FALSE,317915,232950,Red
+659,Sydenham Road,25 P&D / DP,Opposite Merrion Hall,€2.70,Mon-Sun 07.00-24.00,FALSE,318297.4723,232269.5174,Red
+660,Richmond Avenue,39 P&D / DP,At Number 2,€1.60,Mon-Fri 08.00-18.30,FALSE,316989.7051,236217.9054,Green
+664,Shrewsbury Road,133 P&D / DP (Total),At Number 18,€1.60,Mon-Fri 07.00-19.00,FALSE,318444.7404,231656.2795,Green
+665,Rathmore Villas,17 P&D / DP,Terenure,€1.00,Mon-Sat 07.00-19.00,FALSE,314516,230343,Orange
+667,Brookfield Road,30 P&D / DP,At number 41,€1.60,Mon-Sun 07.00-24.00,FALSE,313227,233456,Green
+670,Cabra Park,127 P&D / DP (Total),No 47 St Peters Road,€1.60,Mon-Sat 07.00-19.00,FALSE,314602.2699,236006.1901,Green
+671,Cabra Park,127 P&D / DP (Total),No 114 St. Peter's Road,€1.60,Mon-Sat 07.00-19.00,FALSE,314683.5488,235929.3696,Green
+672,Moyne Road,154 P&D / DP (Total),Ranelagh,€1.60,Mon-Sat 07.00-19.00,FALSE,316335.8025,231255.1291,Green
+674,Grosvenor Road,128 P&D / DP (Total),At the school,€1.60,Mon-Fri 08.00-18.30,FALSE,315239.0265,231264.914,Green
+675,Vernon Avenue,34 P&D + 20 DP,At Number 9,€1.00,Mon-Sat 07.00-19.00,FALSE,320161.5216,235868.6724,Orange
+677,Mulberry Lane (Donnybrook),5 P&D / DP,Behind garage at Victoria Avenue,€2.70,Mon-Fri 08.00-18.30,FALSE,317644.551,231791.9385,Red
+680,Lansdowne Park,41 P&D / DP,At Number 45,€3.20,Mon-Fri 08.00-18.30,FALSE,317651.5469,232925.8137,Yellow
+681,Ringsend road,23 P&D / DP,At Bus Station,€2.70,Mon-Sat 07.00-19.00,FALSE,317709.9121,233831.1952,Red
+687,Mountain View Road,95 P&D / DP (Total),At Side of Community Centre,€1.60,Mon-Sat 07.00-19.00,FALSE,316569.2843,231235.7124,Green
+688,Ferrard Road,16 P&D / DP,Off Rathgar Rd,€1.00,Mon-Sat 07.00-19.00,FALSE,314712.7814,230331.066,Orange
+694,Chester Road,27 P&D / DP,At Mount Pleasant Avenue,€2.70,Mon-Sat 07.00-19.00,FALSE,316131.8393,231932.4826,Red
+698,Windsor Road,97 P&D / DP,Harolds Cross,€1.60,Mon-Sat 07.00-19.00,FALSE,316334.944,231123.0774,Green
+701,Clanbrassil Street Upper,14 P&D / DP,Outside no 12,€2.70,Mon-Sat 07.00-19.00,FALSE,314950,232599,Red
+704,Swords Road,5 P&D,At Iveragh Road Junction,€1.00,Mon-Sat 07.00-19.00,FALSE,316792,238145,Orange
+706,Raheny Village,19 P&D + 16 DP (Total),At SuperValu,€0.60,Mon-Sat 07.00-19.00,FALSE,321294,238178,Blue
+707,Auburn Street,30 P&D / DP,At No. 13,€3.20,Mon-Fri 08.00-18.30,FALSE,315128.1297,235386.0112,Yellow
+712,St. Assam's Road West,8 P&D,Opposite BOI Car Park,€0.60,Mon-Fri 08.00-19.00,FALSE,321690,238267,Blue
+713,Garville Mews,6 P&D,Junction Rathgar Road,€1.00,Mon-Fri 08.00-18.30,FALSE,315196,230764,Orange
+717,Crane Street,3 P&D,At Rainsford Street junction,€2.70,Mon-Sat 07.00-19.00,FALSE,314350,233811,Red
+718,Raheny Village,19 P&D,Opposite Ladbrokes & 'The Inn',€0.60,Mon-Sat 07.00-19.00,FALSE,321540,238187,Blue
+723,Drumcondra Road Upper,10 P&D (Total),"At Number 108, Hession Hairdresser's",€1.00,Mon-Sat 07.00-19.00,FALSE,316348,237179,Orange
+725,Gulistan Terrace,12 P&D / DP,Opposite No. 23,€2.70,Mon-Sun 07.00-24.00,FALSE,315932.8033,231901.9273,Red
+729,Harold's Cross Road,58 P&D / DP (Total),Across from Century House,€1.60,Mon-Sat 07.00-19.00,FALSE,314744,231298,Green
+730,Sundrive Road,23 P&D,Kimmage opposite Superquinn,€1.00,Mon-Sat 07.00-19.00,FALSE,313911.4915,231313.0931,Orange
+731,Conyngham Road,46 P&D + 12 DP (Total),At Riverpark Apartments,€1.60,Mon-Frid 10-16.00 and Sat  08.00-19.00,TRUE,313064,234426,Green
+732,Tyrconnell Road,18 P&D / DP,At Balkanic Food & Opposite X-Tra Vision,€0.60,Mon-Sat 07.00-19.00,FALSE,311875,233403,Blue
+733,Beechlawn Way,10 P&D / DP,South of Rathfarnham Road,€1.00,Mon-Sat 07.00-19.00,FALSE,314451.6016,230088.5806,Orange
+734,Brighton Road,133 P&D / DP (Total),South of WestSide Brighton Square,€1.00,Mon-Sat 07.00-24.00,FALSE,314748.8155,230713.6238,Orange
+736,Palmerston Road,112 P&D / DP (Total),House Number 55,€1.60,Mon-Fri 07.00-16.00,FALSE,316088.5105,231068.0827,Green
+738,Leicester Avenue,78 P&D / DP,Opposite the Church/at side of church,€1.60,Mon-Sat 11- 17.00,FALSE,315293.9334,231041.7241,Green
+741,Maxwell Road,92 P&D / DP,Opposite Number 26,€1.60,Mon-Fri 08.00-18.30,FALSE,315605.2184,231094.4203,Green
+742,York Road,105 P&D / DP,At Number 51,€1.60,Mon-Sat 07.00-24.00,FALSE,315661.2177,231216.0811,Green
+747,Garville Avenue,70 P&D / DP (Total),No 35,€1.00,Mon-Fri 07.00-19.00,FALSE,314974.503,230832.8345,Orange
+748,Garville Avenue,70 P&D / DP (Total),At Flats,€1.00,Mon-Fri 07.00-19.00,FALSE,315224.5744,230872.1198,Orange
+749,Healthfield Road,60 P&D / DP,At Number 72,€1.00,Mon-Fri 08.00-18.30,FALSE,314649.9248,230296.3865,Orange
+750,Leinster Road West,90 P&D / DP (Total),Opposite Number 1,€2.70,Mon-Sun 07.00-24.00,FALSE,314943.2146,231489.8297,Red
+755,Belmont Gardens,35 P&D / DP,South of E'side Belmont Avenue,€2.70,Mon-Sat 07.00-24.00,FALSE,317197.7285,231390.3906,Red
+756,Ballyfermot Road,83 P&D (Total),At Bank Of Ireland / Opposite Number 301,€0.60,Mon-Sat 07.00-19.00,FALSE,309664,233694,Blue
+759,St. Catherine's Avenue,28 P&D / DP,"At Donore Avenue, Northside",€1.60,Mon-Sat 07.00-24.00,FALSE,314421,232705,Green
+760,Ailesbury Drive,40 P&D / DP,Near Anglesea Road,€1.60,Mon-Fri 08.00-18.30,FALSE,317954.8191,231510.057,Green
+767,Oaklands Park,82 P&D / DP,At Number 64 / 65,€1.00,Mon-Fri 08.00-18.30,FALSE,318470,232642,Orange
+768,Mount Temple Road,40 P&D,Opposite Number 29,€1.60,Mon-Fri 07.00-19.00,FALSE,314258,234834,Green
+769,Ailesbury Road,169 P&D / DP (Total),At Number 40A,€1.60,Mon-Fri 07.00-19.00,FALSE,318473.3195,231417.6942,Green
+770,New Wapping Street,14 P&D / DP + 1 disabled bay,At Number 2,€2.70,Mon-Sunday 07.00-24.00,FALSE,317578.3957,234625.1656,Red
+771,Sandymount Avenue,43 P&D / DP (Total),Opposite Embassy Court / Junction Of Spafield Terrace,€1.60,Mon-Fri 08.00-18.30,FALSE,318434,232181,Green
+773,Clanbrassil Terrace,7 P&D / DP,Junction Of Blackpitts,€1.60,Mon-Sat 07.00-24.00,FALSE,314972,233049,Green
+774,Le Fanu Road,32 P&D,At William Hill's / Opposite Number 212,€0.60,Mon-Sat 07.00-19.00,FALSE,309507,233621,Blue
+775,Ballyfermot Road,83 P&D (Total),At Sofiane's Pizza House (Number 353),€0.60,Mon-Sat 07.00-19.00,FALSE,309427,233696,Blue
+777,Clontarf Road,29 P&D / DP (Total),At Number 162,€1.00,Mon-Sat 07.00-19.00,FALSE,319818,235900,Orange
+778,Clontarf Road,29 P&D / DP (Total),At Number 201,€1.00,Mon-Sat 07.00-19.00,FALSE,320193,235778,Orange
+779,Windsor Terrace,33 P&D / DP,At Number 31,€2.70,Mon-Sun 07.00-24.00,FALSE,314960.1551,232427.5553,Red
+780,Hibernian Avenue,14 P&D / DP,East Wall,€1.60,Mon-Sat 07.00-19.00,FALSE,317012.4635,235435.9918,Green
+781,Nutley Road,48 P&D / DP,At Number 20,€1.60,Mon-Sat 07.00-19.00,FALSE,318680.6,230961.5278,Green
+782,Serpentine Road,23 P&D / DP,At AIB,€1.00,Mon-Fri 07.00-19.00,FALSE,318462.51,232754.6694,Orange
+786,Ailesbury Road,169 P&D / DP (Total),At Merrion Court,€1.60,Mon-Fri 07.00-19.00,FALSE,319054.0065,231498.9375,Green
+787,Rathmines Road Upper,43 P&D / DP (Total),At Park,€1.60,Mon-Sat 07.00-19.00,FALSE,315682.1808,231041.7241,Green
+788,Rathmines Road Upper,43 P&D / DP (Total),At Number 135,€1.60,Mon-Sat 07.00-19.00,FALSE,315656.2751,230952.487,Green
+789,Mayfield Road East (Terenure),12 P&D / DP,Side of #18 Terenure Park,€1.00,Mon-Sat 07.00-24.00,FALSE,314344,230361,Orange
+793,Tivoli Avenue,8 P&D / DP,At Number 1,€1.60,Mon-Sat 07.00-24.00,FALSE,314703.8342,231438.6735,Green
+794,Nutley Park,84 P&D / DP,Opposite Number 38,€1.60,Mon-Sat 07.00-19.00,FALSE,318597.9654,230777.5641,Green
+795,Ailesbury Grove,25 P&D / DP,At Number 2,€1.60,Mon-Fri 07.00-19.00,FALSE,318210.1052,231395.4954,Green
+796,Temple Street West,9  P&D,Junction with Parkgate Street,€1.00,Mon-Sat 07.00-19.00,FALSE,313937.12,234393.22,Orange
+797,Mountpleasant Avenue Lower,43 P&D / DP (Total),At Number 25,€2.70,Mon-Sun 07.00-24.00,FALSE,315855.538,232249.191,Red
+799,Terenure Road North,7 P&D (Total),Outside Paddy Powers bookies,€1.00,Mon-Sat 07.00-19.00,FALSE,314472.1926,230268.7513,Orange
+800,Bloomfield Avenue (Donnybrook),30 P&D / DP,At Westfield,€2.70,Mon-Fri 08.00-18.30,FALSE,317080.1376,232131.9372,Red
+802,Bond Street,12 P&D / DP,Junction Of Robert Street South,€1.60,Mon-Sat 07.00-19.00,FALSE,314184,233628,Green
+805,Fitzwilliam Street (Ringsend),6 P&D / DP,Behind Library,€0.60,Mon-Sat 07.00-19.00,FALSE,318170,233785,Blue
+810,Kilmore Road,14 P&D / DP,At Number 16,€0.60,Mon-Sat 07.00-19.00,FALSE,319083,238189,Blue
+811,Kilmainham Lane,5 P&D / DP,Between 4 & 5,€1.60,Mon-Sun 07.00-24.00,FALSE,312813,233704,Green
+812,Cowper Road,46 P&D / DP,At Number 61,€1.60,Mon-Fri 07.00-19.00,FALSE,315875.8836,230877.0546,Green
+813,Tower Avenue,13 P&D / DP,At Number 13,€1.00,Mon-Sat 07.00-24.00,FALSE,314736.3526,230495.5225,Orange
+814,Annesley Place,18 P&D / DP,At Number 11,€1.60,Mon-Fri 07.00-19.00,FALSE,317183.3011,235805.3937,Green
+816,Claremont Road,14 P&D / DP,At Oisín Court,€1.00,Mon-Fri 07.00-19.00,FALSE,318519.9622,232725.1173,Orange
+822,Vernon Grove,65 P&D / DP,Opposite No. 1,€1.00,Mon-Fri 07.00-19.00,FALSE,315597.3787,230819.8297,Orange
+823,Greenfield Park,25 P&D,At No. 14,€1.00,Mon-Fri 07.00-19.00,FALSE,318364,230605,Orange
+826,The Belfry (Inchicore),20 P&D / DP,Junction Of Inchicore Road,€1.00,Mon-Sat 07.00-19.00,FALSE,312254,233732,Orange
+827,Ard Rí Road,58 P&D / DP,Junction Of Arbour Hill / Side of Number 29,€1.60,Mon-Fri 07.00-19.00,FALSE,314265,234634,Green
+828,Merlyn Park,29 P&D / DP,At Merrion Road,€1.60,Mon-Fri 07.00-19.00,FALSE,318862.6672,231599.5758,Green
+829,Cowper Road East,53 P&D / DP,Opposite No. 45,€1.60,Mon-Sat 07.00-19.00,FALSE,316241.6582,230943.3753,Green
+831,Griffith Avenue,75 P&D / DP,At The School / Opposite Number 31,€1.00,Mon-Fri 12.00-17.00,TRUE,317697,236997,Orange
+833,Raheny Road,10 P&D / DP,Opposite Number 180,€1.00,Mon-Fri 08.00-18.30,FALSE,321397,238557,Orange
+834,Fairfield Park,30 P&D / DP,Jct Highfield Road,€1.00,Mon-Sun 07.00-24.00,FALSE,315276.8646,230523.4286,Orange
+835,Dolphin Avenue,34 P&D / DP,Junction of SCR,€1.60,Mon-Sat 07.00-24.00,FALSE,314137,232669,Green
+836,Killeen Road,67 P&D / DP,"Junction of Belgrave Road, Opposite Number 49",€1.60,Mon-Sat 07.00-19.00,FALSE,316098,231422,Green
+837,Drumcondra Road Lower,21 P&D (Total),"At Number 33/35, At the Railway Bridge",€1.60,Mon-Sat 07.00-19.00,FALSE,316013,236141,Green
+839,Pearse Street,90spaces in total,Opposite Unit 10 (Tocana Ltd),€2.70,Mon-Sat 07.00-19.00,FALSE,317259,233912,Red
+841,Price's Place,16 P&D / DP,Opposite Number 34,€2.70,Mon-Sat 07.00-24.00,FALSE,315888,232310,Red
+842,Airfield Park,37 P&D / DP,Junction Of Stillorgan Road / At Number 1,€1.00,Mon-Fri 07.00-19.00,FALSE,318244,230818,Orange
+844,Phibsborough Road,43 P&D / DP,McGowan's Pub,€2.70,Mon-Sat 07.00-19.00,FALSE,314989,235353,Red
+846,Merton Drive,44 P&D / DP,At Number 20,€1.60,Mon-Sun 07.00-19.00,FALSE,316421,230778,Green
+847,Liffey Street West,6 P&D / DP,"Exact middle of the street, Apartment side",€1.60,Mon-Sat 07.00-19.00,FALSE,314250,234367,Green
+848,Drumcondra Road Lower,21 P&D (Total),At Grattan Parade Junction,€1.60,Mon-Sun 07.00-24.00,FALSE,315954,236076,Green
+849,Arranmore Avenue,13 P&D,Junction N.C.R,€1.60,Mon-Sun 07.00-24.00,FALSE,315213,235875,Green
+851,Neville Road,73 P&D / DP,Side of No. 74 Highfield Road,€1.00,Mon-Fri  07.00-19.00,FALSE,315526,230608,Orange
+858,Newbridge Avenue,30 P&D / PP,O/s 11-13 Newbridge Avenue,€1.00,Mon-Fri 07.00-19.00,FALSE,318384,233132,Orange
+860,Ailesbury Gardens,50 P&D / DP,At the side of 39 St. Alban's Park,€1.00,Mon-Fri 07.00-19.00,FALSE,319386,231382,Orange
+861,Sandymount Castle Road,20 P&D / DP,Gilford Road Junction,€1.00,Mon-Sat 07.00-19.00,FALSE,318930,232644,Orange
+865,Milltown Road,5 P&D,At lamp standard 22A,€1.60,Mon-Sat 07.00-19.00,FALSE,316893,230622,Green
+866,Cullenswood Gardens,21 P&D / DP,Junction of Merton Drive,€1.60,Mon-Fri 07.00-19.00,FALSE,316722,231453,Green
+867,Ailesbury Park,72 P&D / DP,Opp LS 8,€1.60,Mon-Fri 08.00-19.00,FALSE,319195,231488,Green
+869,St. Vincent's Street South,25 P&D / DP,At Entrance to Flats Car Park,€2.70,Mon-Sat 07.00-19.00,FALSE,314975,232771,Red
+870,Manor Place,56 P&D / DP,Opposite No. 55,€1.60,Mon-Fri 07.00-19.00,FALSE,314279,234886,Green
+871,Fingal Place,20 P&D / DP,At No. 3,€2.70,Mon-Sun 07.00-24.00,FALSE,314182.69,235116.2,Red
+872,Belvedere Avenue,26 P&D,At No. 23,€1.60,Mon-Sat 07.00-19.00,FALSE,316052,235718,Green
+873,Emmet Street,37 P&D / DP,Opposite No. 9,€2.70,Mon-Sun 07.00-24.00,FALSE,316278,235599,Red
+878,Farney Park,52 P&D,Opposite Glenesk Court,€1.00,Mon-Fri 07.00-19.00,FALSE,318597,232748,Orange
+883,Northbrook Avenue,45 P&D / PP,At No. 5,€2.70,Mon-Fri 07.00-19.00,FALSE,316218,232248,Red
+886,Fairfield Road,49 P&D / DP,Junction of Daneswell Road,€1.60,Mon-Fri 07.00-19.00,FALSE,315388,236916,Green
+887,Reuben Street,73 P&D / DP,Opposite No. 38,€1.60,Mon-Fri 07.00-19.00,FALSE,313854,233034,Green
+889,St. Brigid's Road Upper,41 P&D / DP,At number 1,€1.60,Mon-Sun 07.00-24.00,FALSE,315807,236336,Green
+891,Eaton Square,108 P&D / DP,"Opposite #1, On The South-East Corner",€1.00,Mon-Sat 07.00-24.00,FALSE,314335,230442,Orange
+893,Darley Street,25 P&D,Opposite No. 19,€2.70,Mon-Fri 07.00-19.00,FALSE,315015,232200,Red
+894,Ivar Street,42 P&D,Opposite No. 16,€1.60,Mon-Fri 07.00-19.00,FALSE,314166,234877,Green
+896,Sunbury Gardens,22 P&D / PP,,€1.00,Mon-Sun 07.00-24.00,FALSE,315824,230490,Orange
+897,Holyrood Park,29 P&D/DP,At Dart Station,€1.00,Mon-Fri 07.00-19.00,FALSE,318522,232385,Orange
+898,Clontarf Road,25 P&D,At No. 186,€1.00,Mon-Sat 07.00-19.00,FALSE,320075,235845,Orange
+899,Dodderview Cottages,28 P&D,Opposite No. 37,€2.70,Mon-Fri  08.00-18.30,FALSE,317935,232577,Red
+901,Kilmainham Lane,43 P&D,At Royal Oak,€1.60,Mon-Sat  07.00-24.00,FALSE,313026,233699,Green
+902,Harold's Cross Cottages,11 P&D,Opposite No. 16,€2.70,Mon-Fri  07.00-19.00,FALSE,314989.74,232331.49,Red
+903,Park Drive,83 spaces,,€1.60,Mon-Fri  07.00-19.00,FALSE,316590,231031,Green
+904,Ashdale Road,25 spaces,Ashdale Road,€1.00,Mon-Fri  07.00-19.00,FALSE,314320,230679,Orange
+905,Ring Terrace,36 P&D / DP,,€1.00,Mon-Sat 07.00-19.00,FALSE,311514,233022,Orange
+906,Reuben Avenue,72 P/D,,€1.60,Mon-Fri  07.00-19.00,FALSE,313808,233032,Green
+907,Wilfield Park,47 P&D,Opposite Foxfield House,€1.00,Mon-Fri 07.00-19.00,FALSE,318708,232345,Orange
+908,Casimir Road,74 P&D,At No. 59,€1.60,Mon-Sun 07.00-24.00,FALSE,314480,231510,Green
+909,Charleston Avenue,41 P&D,At Trinity House,€2.70,Mon-Fri 07.00-19.00,FALSE,316075,231752,Red
+911,Claude Road,46 P&D/DP,At side of house no. 49A,€1.60,Mon-Sun 07.00-24.00,FALSE,315501,236183,Green
+912,Merton Ave,38 P&D,Opp. No. 4,€1.60,Mon-Sat 07.00-24.00,FALSE,314514,232772,Green
+913,Thomas Davis St. West,42 P&D,At No. 28,€1.00,Mon-Sat 07.00-24.00,FALSE,312011,233309,Orange
+914,Camac Court,13 P&D,At junction Inchicore Road,€1.00,Mon-Fri 07.00-19.00,FALSE,312237,233699,Orange
+915,St. Columba's Road Lower,53 P/D,Opposite No. 18,€1.60,Mon-Fri 07.00-19.00,FALSE,315666,236210,Green
+916,Wellington Street Upper,16 P&D / PP,,€3.20,Mon-Fri 07.00-19.00,FALSE,315220.62,235384.48,Yellow
+917,Wilfrid Road,36 P&D/PP,Outside No. 1,€1.60,Mon-Sun 07.00-24.00,FALSE,314591,231307,Green
+918,Villiers Road,55 P&D,Opposite No.25,€1.00,Mon-Sun 07.00-24.00,FALSE,315632,230650,Orange
+919,St. Annes Road,62 P&D,Junction St Patricks Road,€1.60,Mon-Sun 07.00-24.00,FALSE,315830,236162,Green
+920,Ashfield Park,31 P&D / P P,Junction Mount Tallant Avenue,€1.00,Mon-Sat 07.00-24.00,FALSE,314469,230836,Orange
+921,Iona Road,156 P&D,Junction Hollybank Road,€1.60,Mon-Sun 07.00-24.00,FALSE,315822,236648,Green
+922,Hollybank Road,156 P&D,At No. 57,€1.60,Mon-Sun 07.00-24.00,FALSE,315933,236639,Green
+925,Avondale Avenue,38 P&D / PP,Opposite No. 24,€2.70,Mon-Fri 07.00-19.00,FALSE,314809,235761,Red
+927,Synnot Row,29 P&D/DP,Opp. No. 24,€1.60,Mon-Sun 07.00-24.00,FALSE,315734,235909,Green
+928,Sherrard Avenue,24 P&D,Opposite No. 19,€1.60,Mon-Fri 07.00-19.00,FALSE,316015,235828,Green
+931,Carlisle Avenue,30 P&D,At No. 1,€2.70,Mon-Sat 07.00-19.00,FALSE,317006,231791,Red
+932,Daniel Street,53 P&D,Opposite No. 5,€2.70,Mon-Fri 07.00-19.00,FALSE,315076,232999,Red
+933,Sandford Avenue,49 P&D / PP,No 21,€1.60,Mon-Sun 07.00-24.00,FALSE,314474,232812,Green
+934,Shangan Ave,10 P&D,,€1.00,Mon-Sat 07.00-24.00,FALSE,316042,239547,Orange
+935,Hollybank Avenue,87 P&D,Junct. Sandford Avenue,€1.60,Mon-Sun 07.00-24.00,FALSE,316953,231477,Green
+936,Cherryfield Avenue,82 P&D/DP,Opposite no.1,€1.60,Mon-Sun 07.00-24.00,FALSE,316965,231399,Green
+937,Norwood Park,16 P&D,Junct. Sandford Road,€1.60,Mon-Sun 07.00-24.00,FALSE,317069,231362,Green
+955,Parkview Place,5 PD/Disc Parking,side of 14 St. Patricks Villas,€1.00,Mon-Fri  .07.00-19.00,FALSE,318184,233855,Orange
+957,Kimmage Road,13 P/D,on inset opposite no.100A,€1.60,Mon-Sat 07.00-19.00,FALSE,314298,231399,Green
+958,Palmerston Road,57 P&D,At side door 4B,€1.60,Mon-Fri 07.00-19.00,FALSE,316142,230697,Green
+959,Palmerston Park,40 P&D,Junction of Palmerston Road,€1.60,Mon-Fri 07.00-19.00,FALSE,316128,230633,Green
+960,Richview Ave,16 P&D,Junction Richmond Ave,€1.60,Mon-Fri 07.00-19.00,FALSE,316437,230606,Green
+962,Sheriff Street,150 P&D total,,€2.70,Mon-Fri 07.00-19.00,FALSE,317694.5,234756.54,Red
+963,Sheriff Street,150 P&D total,,€2.70,Mon-Fri 07.00-19.00,FALSE,317754,234740,Red
+964,Sheriff Street,150 P&D total,,€2.70,Mon-Fri 07.00-19.00,FALSE,317480,234773,Red
+965,Sheriff Street,150 P&D total,,€2.70,Mon-Fri 07.00-19.00,FALSE,317301,234789,Red
+966,Connaght Street,30 P/D & PP,,€1.60,Mon-Fri 07.00-19.00,FALSE,314589.14,236132.51,Green
+967,Murtagh Road,48 P&D / PP,,€1.60,Mon-Fri 07.00-19.00,FALSE,314102,234803,Green
+968,Grangegorman Upper (Orchard Tce),51 P&D / PP,opposite no.63,€2.70,Mon-Sat 07.00-19.00,FALSE,314521,235482,Red
+973,Main St Chapelizod,30 P&D /PP,o/s Mulberry House,€1.00,Mon-Sun 07.00-24.00,FALSE,310339,234477,Orange
+975,Merlyn Rd,21 P&D / PP,Junction with Merrion Road,€1.60,Mon-Fri 07.00-19.00,FALSE,318815,231667,Green
+976,Alma court,18 P&D / PP,,€2.70,Mon-Fri 07.00-19.00,FALSE,315993,232017,Red
+977,St. Peters Close,9 P&D / PP,,€3.20,Mon-Fri 07.00-19.00,FALSE,315089,235635,Yellow
+979,Sandford Gardens,13 P%D / PP,,€1.60,Mon-Sun 07.00-24.00,FALSE,314565,232915,Green
+981,Rathdown Park,24P&D/DP,o/s no.6,€1.00,Mon-Fri 07.00-19.00,FALSE,314354,229802,Orange
+982,Rathdown Ave,47 P&D/ DP,0/s no. 16,€1.00,Mon-Sun 07.00-24.00,FALSE,313949,229401,Orange
+983,Shrewsbury Park,19 P&D / PP,Junction of Merrion Road,€1.60,Mon-Sat  07.00-19.00,FALSE,318618,231897,Green
+984,Fitgerald St,45 P/D & PP,at no 16,€2.70,Mon-Sun 07.00-19.00,FALSE,315049,232141,Red
+985,Wesley Place,6 P&D / PP,,€2.70,Mon-Sat 07.00-19.00,FALSE,314858,232592,Red
+988,Glendalough Road,20 P/D &  PP,side of no 7 at lane end,€1.60,Mon-Sun 07.00-24.00,FALSE,315885,236699,Green
+992,Sandymount Castle Drive,13 P&D / PP,,€1.00,Mon-Fri 07.00-19.00,FALSE,318963,232557,Orange
+998,Ostman Place,42 P&D / PP,,€1.60,Mon-Fri 07.00-19.00,FALSE,314142,234960,Green
+999,St..Agnes Road,18 P & D,Centra Car Park,€1.00,Mon-Sat 07.00-19.00,FALSE,312137,231390,Orange
+1000,Lisle Road,9 spaces,outside Cosgrove Butchers,€1.00,Mon-Sat 07.00-19.00,FALSE,312196,231311,Orange
+1001,St Agnes Road,7 spaces,Outside Tesco Express,€1.00,Mon-Sat 07.00-19.00,FALSE,312254,231293,Orange
+1002,Fairview,6 Spaces,"At Footbridge, parkside",€1.00,Mon-Sat07.00-19.00,FALSE,317595,236219,Orange
+1003,North Wall Quay,10 Spaces,Pole 26.Junc.with Castleforbes Rd,€2.70,Mon-Sat0.700-19.00,FALSE,317647,234429,Red
+1004,Rathgar Avenue,20 Spaces,O/S Auto factors,€1.00,Mon-Fri 07.00-19.00,FALSE,315026,230540,Orange
+1006,Botanic Ave,45 P/D  + 2 disabled bays,0/s no.88,€1.60,Mon-Sun 07.00-24.00,FALSE,315828.92,236756.08,Green
+1007,Inchicore Road,33 Spaces,Outside no 117,€1.00,Mon-Sat 07.00-19.00,FALSE,312159,233690,Orange
+1008,Clontarf Road Car Park,34 Spaces,,€0.60,Mon-Fri  08.00-18.00,FALSE,320472,235720,Blue
+1009,Addison Road,50 P&D/DP,,€1.00,Mon-Sun 07.00-24.00,FALSE,317321.43,236078.1,Orange
+1013,St. Albans Park,70 P & D/DP total,No. 86,€1.00,Mon-Fri 07.00-19.00,FALSE,319485,231414,Orange
+1014,Margaret Place,28 P&D/PP,,€2.70,Mon - Sun 7.00 - 24.00,FALSE,317804,233366,Red
+1016,Oxmantown Road,180 Spaces,,€1.60,Mon-Fri  07.00-19.00,FALSE,313712.36,235143.45,Green
+1017,Oxmantown Rd/Cowper Street,177 Spaces,,€1.60,Mon-Fri  07.00-19.00,FALSE,313839.43,235056.94,Green
+1018,Niall Street/Moira Road,10 Spaces,,€1.60,Mon-Fri  07.00-19.00,FALSE,313960.12,234988.77,Green
+1019,Halliday Road/Oxmantown Road,21 P&D / PP,,€1.60,Mon-Fri 07.00-19.00,FALSE,313993.91,234908.63,Green
+1020,Mount Prospect Lawns,35 Spaces,opposite no. 27,€1.00,Mon -Sun 07.00-24.00,FALSE,320488.8,236729.28,Orange
+1021,Palmerston Villas,23 Spaces,,€1.60,Mon-Fri 07.00-19.00,FALSE,315764.3,230655.98,Green
+1025,Lindsay Road,170 P&D / PP,side of 73 Lindsay Road,€1.60,Mon-Sun 07.00-24.00,FALSE,315459.38,236408.23,Green
+1026,Lindsay Road/Gartan Ave,170 P&D / PP,0/s 9 Gartan Ave,€1.60,Mon-Sun 07.00-24.00,FALSE,315554.22,236385.13,Green
+1027,Rathmines Road Upper,43P&D/DP,,€1.60,Mon-Sat 07.00-19.00,FALSE,315653.46,231410.15,Green
+1028,Belmont Villas,16 Spaces,,€2.70,Mon-Sat 07.00-24.00,FALSE,317318.04,231475.23,Red
+1029,Newgrove Avenue,21 P&D / PP,,€1.00,,FALSE,319129.99,232737.19,Orange
+1030,Grosvenor Square,50 North Side Only,opp 27 Grosvenor Sq,€2.70,Mon-Fri 08.00-18.30,FALSE,315128.87,231882.85,Red
+1031,Temple Cottages,20 Spaces,,€3.20,Mon-Sun 07.00-24.00,FALSE,315091.03,235171.8,Yellow
+1032,Prospect Avenue,48 P&D / DP,Opp 66 Prospect Ave,€1.00,Mon-Sat 07.00-19.00,FALSE,315116.57,236689.53,Orange
+1033,Emmet Road,155 Spaces,opp Croughs Pub,€1.00,Mon-Fri 07.00-19.00,FALSE,312036.78,233457.46,Orange
+1035,Milltown Road,7 P&D,outside Alexandra College,€1.00,Mon-Sat 11.00 - 16.00,FALSE,316789.34,230266.77,orange
+1036,Enniskerry Road,30 Spaces,,€1.60,Mon-Sun 07.00 - 24.00,FALSE,315098.91,236190.44,Green
+1037,Botanic Avenue,43 Spaces,outside no 26,€1.60,Mon-Sun 07.00-24.00,FALSE,316038.18,236681.97,Green
+1038,Albert College Drive,42 Spaces,side of church,€1.00,Mon-Sat 11.00-17.00,FALSE,315510.84,238850.3,Orange
+1039,Morehampton Terrace,13 P&D / PP,wall near no 40,€2.70,Mon-Sat 07.00 -19.00,FALSE,317197.82,231955.72,Red
+1041,Emorville Avenue,55 Spaces,side of no 64 SCRd,€2.70,Mon-Fri 08.00-18.30,FALSE,315138.61,232721.05,Red
+1043,Finn Street,38 spaces,Junct. Finn St/Moira St,€1.60,Mon-Fri 07.00-19.00,FALSE,313909.04,234935.61,Green
+1044,Carnew Street,46 Spaces,48 Carnew Street,€1.60,Mon-Fri 07.00-19.00,FALSE,313769.36,235163.75,Green
+1047,Iona Road,98 spaces total this side Iona Rd. 10sps Gartan Av,at number 64,€1.60,Mon-Sun 07.00-24.00,FALSE,315450.32,236465.74,Green
+1048,Iona Road,82 sp total this side Iona,at number 33,€1.60,Mon-Sun 07.00-24.00,FALSE,315421.02,236485.03,Green
+1050,Saint Laurence Road Chapelizod,24 Spaces,,€1.00,Mon-Sun 07.00-24.00,FALSE,310256.42,234233.07,orange
+1054,St. Agnes Road,4 Spaces,outside Boyle Sports,€1.00,Mon-Sat 07.00-19.00,FALSE,312294.63,231275.75,Orange
+1055,Iona Crescent,60 P&D / DP,Junction Iona Drive,€1.60,Mon-Sun 07.00-24.00,FALSE,,,Green
+1057,Iona Crescent,60 P&D / DP,,€1.60,Mon-Sun 07.00-24.00,FALSE,315585.32,236634.62,Green
+1058,Charlemont Mall,70 P&D / DP (Total),Near no 20,€2.70,Mon-Fri 08.00-18.30,FALSE,315846.8475,232507.0963,Red
+1060,May Street,26 P&D/DP,corner of Russell Avenue and May Street,€1.60,Mon-Fri 07.00-19.00,FALSE,316149.8,236002.21,Green
+1062,Marlborough Road,64 P&D/ DP,Opposite 47,€2.70,Mon - Fri 08.00 - 18.30,FALSE,317124.57,231787.51,Red
+1063,Coultry Road,14 P&D,Image Barbers,€1.00,Mon - Sat 07.00 - 19.00,FALSE,315634.95,239836.52,Orange
+1067,Adelaide Road,71 P&D + 14 DP (Total),At Hatch Place,€3.20,Mon-Sat 07.00-19.00,FALSE,316121.3661,232780.1773,Yellow
+1068,Arbour Hill,80 P&D/DP,,€1.60,Mon - Sat 07.00-19.00,FALSE,314140.77,234601.8,Green
+1070,Clonskeagh Road,44 P&D,Clonskeagh House Car Park,€1.00,Mon-Fri 07.00-19.00,FALSE,317437.47,230718.7,Orange
+1072,Ulster Street,39 P&D / DP,replaced meter 7987 31/7/2014,€1.60,Mon-Sun 07.00-24.00,FALSE,314869.5984,236177.4929,Green
+1073,Fortfield Terrace,52 P&D/DP,junction of Fortfield Gardends,€1.60,Mon-Fri 07.00-19.00,FALSE,315879.53,230771.64,Green
+1075,Millmount Place,31 P7D/DP,,€1.00,Mon - Fri 07.00 - 19.00,FALSE,316130.44,236796.99,Orange
+1076,Gilbert Road,16 P&D/DP,houses side of street,€1.60,Mon-Sat 07.00-24.00,FALSE,314685.7,232851.29,Green
+1077,Gilford Park,60 P&D/DP,,€1.00,Mon-Fri 07.00-19.00,FALSE,318845.55,232382.63,Orange
+1079,Avondale Road,20 P&D,Opposite Number 20,€1.60,Mon-Sat 07.00-19.00,FALSE,314834,235685,Green
+1080,"Oakley Park, Dublin 4",4 spaces P&D/DP,,€2.70,Mon-Sat 07.00-19.00,FALSE,316256.53,231524.96,Red
+1082,South Dock Road,9 P&D,,€1.60,Mon-Sat 07.00-19.00,FALSE,317856.37,233852.86,Green
+1086,Pimlico Cottages,5 P&D/DP,,€1.60,Mon-Sat 07.00 - 24.00,FALSE,314530.42,233568,Green
+1088,York Avenue,12 P&D/DP,,€1.60,Mon-Sat 07.00 - 24.00,FALSE,315511.6,231177.69,Green
+1089,Dalcassian Downs,50 P&D/DP,corner of green,€1.00,Mon - Sun 07.00 - 24.00,FALSE,314978.34,236505.2,Orange
+1091,Millbourne Avenue,20 P&D/DP,,€1.00,Mon-Fri 0700-1900,FALSE,316044.5,236887.63,Orange
+1092,Broadstone(Grand Canal),28 P&D,,€3.20,Mon-Sat 0700-1900,FALSE,315041.43,235366.67,Yellow
+1093,Melrose Avenue,48 P&D/DP + 2 disabled bays,,€1.00,Mon-Sat 07.00-24.00,FALSE,317204.52,236381.3,Orange
+1094,Church Ave (Drumcondra),11 P&D/DP,,€1.00,Mon -Sat 07.00-19.00,FALSE,316554.17,236880.86,Orange
+1095,Church Avenue South,,,€1.60,Mon-Fri 07.00-19.00,FALSE,313692.01,233111.83,Green
+1096,Chapelizod Road(Mullingar Trc),,,€1.00,Mon - Fri 07.00-24.00,FALSE,310456.94,234359.47,Orange
+1097,Westfield Road,75 P&D / DP,opposite No 4,€1.60,Mon-Fri.07.00-24.00,FALSE,314362.27,231379.23,Green
+1098,Westfield Road,75 P&D / DP,opposite No 49,€1.60,Mon-Fri.07.00-24.00,FALSE,314509.97,231182.54,Green
+1099,Waverly Avenue,43 P&D /DP,side of 81 Philipsburgh Avenue,€1.00,Mon-Sat 07.00-24.00,FALSE,317208.43,236447.73,Orange
+1100,Richelieu Park,26 P&D / DP,,€1.00,Mon-Fri 07.00-19.00,FALSE,319373.71,231797.71,Orange
+1101,Burgh Quay,3 P&D (1 Disabled),,€3.20,Mon - Sat 07.00 - 19.00,FALSE,316060.06,234393.41,Yellow
+1102,Rehoboth Place/Avenue,38 P&D/DP,Beside No. 40,€1.60,Mon-Sun 07.00-24.00,FALSE,314032.98,232785.19,Green
+1103,Portland Street North,55 P&D/DP + 1 Disabled Bay,,€1.60,Mon-Sat 07.00-19.00,FALSE,316152.7,235768.92,Green
+1104,Mabel Street (Fitzroy Ave),114 P&D/DP + 2 Disables Bays,,€1.60,Mon-Fri 07.00-19.00,FALSE,316275.52,236036.36,Green
+1105,Russell Street (St Patrick's Tce),18 P&D / DP,11 St Patricks Tce,€1.60,Mon-Fri 07.00-19.00,FALSE,316303.86,235772.77,Green
+1106,Inverness Road,47 P&D/ DP,,€1.00,Mon-Sat 07.00-24.00,FALSE,317083.5,236480.82,orange
+1107,Rathdown Ave,47 P&D/ DP,,€1.00,Mon-Sun 07.00-24.00,FALSE,314211.97,229622.5,Orange
+1108,Turvey Avenue,40 P&D/ DP,,€1.00,Mon-Sun 07.00-24.00,FALSE,312520.57,233590.56,Orange
+1109,Lomond Avenue,28 P&D/ DP + 2 disabled bays,,€1.00,Mon-Sat 07.00-24.00,FALSE,317207.99,236523.73,Orange
+1110,Cabra Road,56 P&D /DP +2 Disabled bays,,€1.60,Mon-Sun 07.00-24.00,FALSE,314422.75,235878.52,Green
+1111,North Circular Road,25 P&D/ DP,outside no 79,€1.60,Mon-Sun 07.00-24.00,FALSE,313652.18,235188.87,Green
+1112,Susanville Road,49 P&D/ DP + 1 disabled bay,outside no 37,€1.60,Mon-Sun 07.00-24.00,FALSE,316544.6,236122.31,Green
+1113,Western Way,25P&D /DP,,€3.20,Mon-Fri 08.00-18.30,FALSE,315267.37,235245.59,Yellow
+1114,Shandon Crescent,35 P&D/DP + 1 disabled bay,opp no 2,€1.60,Mon-Sun 07.00-24.00,FALSE,314502.51,236192.82,Green
+1115,Shandon Crescent,35 P&D/DP + 1 disabled bay,side of no 95 shandon park,€1.60,Mon-Sun 07.00-24.00,FALSE,314491.44,236405.09,Green
+1116,Shandon Park,72 P&D/DP + 2 disabled bay,side of no 32 Shandon Road,€1.60,Mon-Sun 07.00-24.00,FALSE,314811.39,236295.63,Green
+1117,Shandon Drive,37 P&D/DP,side of no 8 Shandon Road,€1.60,Mon-Sun 07.00-24.00,FALSE,314777.71,236198.14,Green
+1118,Home Farm Raod,77P&D + 3 Disabled bays,"outside no 43, close to shops",€1.00,Mon-Sun.07.00-19.00,FALSE,316162.33,237398.63,Orange
+1119,Achill Road / Clare Park Villas,57 P&D,side of 31 Home Farm Road,€1.00,Mon-Sun.07.00-19.00,FALSE,316213.08,237398.66,Orange
+1120,Home Farm Road,77P&D + 3 Disabled bays,side 47 Drumcondra Road,€1.00,Mon-Sun 07.00-19.00,FALSE,316362.85,237328.64,Orange
+1121,St Jame's Terrace,,,€1.00,Mon-Sun 07.00-24.00,FALSE,313883.92,232758.96,Orange
+1122,Haroldville Avenue,,opp. No 33,€1.60,Mon-Sat 07.00-24.00,FALSE,313755.82,232986.48,Green
+1124,Wellpark Avenue,34 P&D/DP,,€1.00,Mon-Sun 07.00-19.00,FALSE,316390.86,237440.66,Orange
+1125,St Josephs Terace,,,€1.00,Mon-Sat 07.00-24.00,FALSE,317228.03,236260.61,Orange
+1126,Kenilworth Lane West,,outside no 20,€2.70,Mon-Fri 07.00-19.00,FALSE,314807.31,231273.94,Red
+1127,Charlemont Road,,opp no.26,€1.60,Mon-Sun 07.00-24.00,FALSE,318155.06,236540.36,Green
+1128,Charlemont Road,,at junction with Victoria Villas,€1.60,Mon-Sun 07.00-24.00,FALSE,318096.16,236628.36,Green
+1129,Prospect Square,,Between no 9 / 10,€1.00,Mon-Sun 07.00-24.00,FALSE,315084.59,236792.42,Orange
+1130,Hollybrook Road,52 P&D,No 51 Corner of Clontarf Rd,€1.00,Mon-Sun 07.00-24.00,FALSE,318635,236225,Orange
+1131,St David's Terrace,,,,,FALSE,0,0,
+1132,Donore Road,,,,,FALSE,0,0,
+1214,Cathal Brugha Street,,Church of Ireland,€3.20,clearway due to Luas works 20/8/2014,TRUE,315922.4535,234949.334,Yellow
+1236,Hatch Street Lower,49 P&D + 3 DP (Total),No 12,€3.20,Mon-Sat 07.00-19.00,FALSE,316186.352,232921.4528,Yellow
+1337,Hatch Street Lower,49 P&D + 3 DP (Total),Near no 23,€3.20,Mon-Sat 07.00-19.00,FALSE,316096.0538,232903.9939,Yellow
+1359,Hatch Street Lower,49 P&D + 3 DP (Total),Opp Earlsfort Centre,€3.20,Mon-Sat 07.00-19.00,FALSE,,,Yellow
+3182,Herbert Street,82 P&D + 1 DP (Total),Near no 30,€3.20,Mon-Sat 07.00-19.00,FALSE,316987.0527,233238.6592,Yellow
+3193,Herbert Street,82 P&D + 1 DP (Total),Corner of Mount St Cres,€3.20,Mon-Sat 07.00-19.00,FALSE,317003.1682,233235.9319,Yellow
+5024,Fenian Street,38 P&D + 9 DP (Total),Opp Dargan Hse,€3.20,Mon-Sat 07.00-19.00,FALSE,316746.6551,233779.6481,Yellow
+5029,Hanover Quay,22 P&D / DP,Opposite Boat House 9,€1.60,Mon-Sat 07.00-19.00,FALSE,,,Green
+5052,Mount Street Upper,74 P&D + 4 DP (Total),No 37-38,€3.20,Mon-Sat 07.00-19.00,FALSE,316985.0099,233290.6129,Yellow
+5060,St. Albans Park,70 P & D/DP (Total),,€1.00,Mon-Fri  07.00-19.00,FALSE,319337,231651,Orange
+5063,Shelbourne Road,16 P&D + 34 DP (Total),,€3.20,Mon-Sat 07.00-19.00,FALSE,,,Yellow
+5078,Baggot Street Lower,97 P&D + 4 DP (Total),O2 House,€3.20,Mon-Sat 07.00-19.00,FALSE,316876.2031,233021.4263,Yellow
+5079,Fitzwilliam Street Upper,86 P&D + 7 DP (Total),No 8,€3.20,Mon-Fri 07.00-19.00,FALSE,316635.9878,233183.5434,Yellow
+5080,Fitzwilliam Square East,61 P&D (Total),No 10 / 11,€3.20,Mon-Fri 07.00-19.00,FALSE,316570.2951,233025.6554,Yellow
+5081,Pembroke Street Lower,30 P&D,,€3.20,Mon-Fri 07.00-19.00,FALSE,316433,233167,Yellow
+5082,Earlsfort Terrace,60 P&D / DP(Total),Near Number 23,€3.20,Mon-Sat 07.00-19.00,FALSE,316043.6228,232804.691,Yellow
+5085,Elmpark Avenue,32 P&D / DP,Near corner of Sandford Rd,€2.70,Mon-Sat 07.00-24.00,FALSE,316387.9622,231881.3465,Red
+5086,Brighton Square,178 P&D / DP (Total),At Park,€1.00,Mon-Sat 07.00-24.00,FALSE,314710.343,230761.85,Orange
+5087,Mountjoy Square West,13 P&D,"Opp 59, eastside, nth of Mountjoy Sq Sth",€2.70,Mon-Sat 07.00-19.00,FALSE,316013.499,235390.7209,Red
+5102,Lurgan Street,8 P&D / DP,At Number 2,€3.20,Mon-Sat 07.00-24.00,FALSE,315122.1196,234743.2972,Yellow
+5103,Greek Street,23 P&D (Total),"At flats, east side, north of Chancery Street",€3.20,Mon-Sat 07.00-19.00,FALSE,315065.1371,234371.1399,Yellow
+5104,Greek Street,23 P&D (Total),"At flats, west side, north of Chancery Street",€3.20,Mon-Sat 07.00-19.00,FALSE,315054.3571,234361.0651,Yellow
+5105,Strand Street Little,6 P&D + 6 DP,Opp Alnamara,€3.20,Mon-Sat 07.00-19.00,FALSE,315373.0168,234288.3514,Yellow
+5106,Fishamble Street,11 P&D (Total),Darkey Kellys Pub,€3.20,Mon-Sat 07.00-19.00,FALSE,315272.2929,234011.0344,Yellow
+5108,Ship Street Little,4 P&D,Off Werburgh Street,€3.20,Mon-Sat 07.00-19.00,FALSE,315349.0555,233828.935,Yellow
+5110,Dillon Place South,9 P&D,Off John Dillon St,€3.20,Mon-Sun 07.00-24.00,FALSE,315077.6114,233675.008,Yellow
+5111,Ross Road,29 P&D / DP,At Number 6,€3.20,Mon-Sat 07.00-19.00,FALSE,315185.4004,233771.2784,Yellow
+5113,Bride Street,45 P&D,67-69,€3.20,Mon-Sat 07.00-19.00,FALSE,315315.0705,233498.7494,Yellow
+5114,New Bride Street,20 P&D / DP (Total),At Number 5,€3.20,Mon-Sun 07.00-24.00,FALSE,315344.0189,233247.9934,Yellow
+5116,Adelaide Road,71 P&D + 14 DP (Total),No 69,€3.20,Mon-Sat 07.00-19.00,FALSE,316001.589,232785.7806,Yellow
+5120,Fitzwilliam Street Lower,63 P&D/DP(Total),No 6-7,€3.20,Mon-Sat 07.00-19.00,FALSE,316709.6904,233313.4706,Yellow
+5122,Fenian Street,38 P&D + 9 DP (Total),Opposite The Ginger Man,€3.20,Mon-Sat 07.00-19.00,FALSE,316629,233791,Yellow
+5123,Fenian Street,38 P&D + 9 DP (Total),Opp 9-10,€3.20,Mon-Sat 07.00-19.00,FALSE,316838.0192,233765.8187,Yellow
+5124,Prince's Street South,20 P&D / DP,At Number 3,€2.70,Mon-Sat 07.00-19.00,FALSE,316585.4368,234348.059,Red
+5125,Grattan Court East,8 P&D,Jct Mount Street Lower,€3.20,Mon-Sat 07.00-19.00,FALSE,317061,233458,Yellow
+5126,Clanwilliam Place,10 P&D / DP (Total),Marine House,€3.20,Mon-Fri 08.00-18.30,FALSE,317299.6644,233424.9136,Yellow
+5127,Baggot Street Upper,16 P&D (Total),Fás Training,€3.20,Mon-Sat 07.00-19.00,FALSE,317005.149,232879.8664,Yellow
+5128,Baggot Street Upper,16 P&D (Total),Baggot Street Hospital,€3.20,Mon-Sat 07.00-19.00,FALSE,317024.3733,232894.3187,Yellow
+5129,Pembroke Road,103 P&D / DP (Total),Wellington Road,€3.20,Mon-Sat 07.00-19.00,FALSE,317288.4679,232777.6099,Yellow
+5130,Pembroke Road,103 P&D / DP (Total),Number 78-80,€3.20,Mon-Sat 07.00-19.00,FALSE,317397.5416,232777.4735,Yellow
+5131,Pembroke Road,103 P&D / DP (Total),Corner of Raglan Road,€3.20,Mon-Sat 07.00-19.00,FALSE,317475.1202,232748.7053,Yellow
+5132,Dartmouth Road,51 P&D / DP (Total),Opposite Dartmouth Square,€3.20,Mon-Fri 08.00-18.30,FALSE,316377.5304,232501.3979,Yellow
+5134,South Circular Road,20 P&D / PP,,€1.60,Mon-Sat 07.00-19.00,FALSE,313083,233388,Green
+5136,Lansdowne Road,49 P&D / DP (Total),At Number 14,€3.20,Mon-Fri 08.00-18.30,FALSE,317681,232840,Yellow
+5139,Denmark Street Great,30 P&D (Total),Barry's Hotel,€3.20,Mon-Sat 07.00-19.00,FALSE,315728.2471,235255.2087,Yellow
+5142,Frederick Street North,23 P&D (Total),Opposite Walton's Music Store,€3.20,Mon-Sat 07.00-19.00,FALSE,315635,235233,Yellow
+5146,Halston Street,13 Spaces,,€3.20,Mon-Sat 07.00-19.00,FALSE,315168.59,234638.24,Yellow
+5147,Anne Street North,14 P&D / DP,Off North King Street,€3.20,Mon-Sun07.00-24.00,FALSE,315099.3437,234586.2069,Yellow
+5148,Stirrup Lane,17 P&D / DP,Church Street To Beresford Street,€3.20,Mon-Sun 07.00-24.00,FALSE,314988.4852,234660.3019,Yellow
+5149,Beresford Street,12 P&D / DP,"Opposite Number 53, East-Side, North of Mary's Lane",€3.20,Mon-Sat 07.00-19.00,FALSE,315037.7639,234508.1708,Yellow
+5150,Charles Street West,16 spaces on Charles St. West.,Corner of Charles' St West,€3.20,Mon-Fri 08.00-18.30,FALSE,315155.3467,234324.2974,Yellow
+5153,Merchant's Quay,38 P&D (Total),"Liffyeside, Opposite meter 7022",€3.20,Mon-Sat 07.00-19.00,FALSE,314920.9114,234144.3246,Yellow
+5154,Cornmarket Street,7 P&D,MRCB,€3.20,Mon-Sat 07.00-19.00,FALSE,314909,233928,Yellow
+5155,High Street,9 P&D,At Church,€3.20,Mon-Sat 07.00-19.00,FALSE,315047.7433,233926.4114,Yellow
+5156,Bull Alley Street,7 P&D,Patrick's Park,€3.20,Mon-Sat 07.00-19.00,FALSE,315169.8661,233625.2348,Yellow
+5157,Whitefriar Place,19 P&D / DP,"Exact middle of the street, south-side",€3.20,Mon-Sat 07.00-19.00,FALSE,315512,233531,Yellow
+5158,Camden Street,25 P&D (Total),At Number 11,€3.20,Mon-Sat 07.00-19.00,FALSE,315619.3247,233094.2588,Yellow
+5159,Camden Street,25 P&D (Total),At West Coast Coffee,€3.20,Mon-Sat 07.00-19.00,FALSE,315622.5077,233044.1268,Yellow
+5160,Camden Street,25 P&D (Total),No 72,€3.20,Mon-Sat 07.00-19.00,FALSE,315602.9758,233010.9224,Yellow
+5161,Hatch Street Upper,57 P&D (Total),Near College of Music,€3.20,Mon-Sat 07.00-19.00,FALSE,315846.8131,232906.5977,Yellow
+5165,Dartmouth Road,51 P&D / DP (Total),Opp no 67,€3.20,Mon-Fri 08.00-18.30,FALSE,316230.1991,232458.436,Yellow
+5166,Dartmouth Road,51 P&D / DP,Opposite no 67,€3.20,Mon-Sat 07.00-19.00,FALSE,316230.1991,232458.436,Yellow
+5167,Leeson Street Upper,36 P&D / DP,No 134,€3.20,Mon-Fri 07.00-19.00,FALSE,316519.5166,232548.7605,Yellow
+5169,Fitzwilliam Lane,5 P&D,Redmonds Off Licence,€3.20,Mon-Sat 07.00-19.00,FALSE,316495.7841,233434.0057,Yellow
+5170,James' Street East,45 P&D (Total),Near Pl no 5,€3.20,Mon-Sat 07.00-19.00,FALSE,316816.54,233310.33,Yellow
+5171,James' Street East,45 P&D (Total),Opp Pl no 3,€3.20,Mon-Sat 07.00-19.00,FALSE,316798.3869,233297.5893,Yellow
+5172,Fitzwilliam Place,94 P&D + 7 DP (Total),Opp no 3,€3.20,Mon-Sat 07.00-19.00,FALSE,316518.7491,232971.8949,Yellow
+5173,Wilton Place,12 P&D + 60 DP (Total),Opp Wilton Park House Entrance,€3.20,Mon-Sat 07.00-19.00,FALSE,316686,232923,Yellow
+5174,Cumberland Road,17 P&D + 16 DP (Total),Fitzwilton House,€3.20,Mon-Sat 07.00-19.00,FALSE,316604.6353,232859.6716,Yellow
+5176,Burlington Road,144 P&D / DP (Total),North of Westside Private Road,€3.20,Mon-Fri 08.00-18.30,FALSE,317009.0485,232651.9295,Yellow
+5178,Shelbourne Road,16 P&D + 34 DP (Total),Opposite Iona,€3.20,Mon-Sat 07.00-19.00,FALSE,,,Yellow
+5179,Shelbourne Road,16 P&D + 34 DP (Total),At Number 234,€3.20,Mon-Sat 07.00-19.00,FALSE,317861.893,232857.9097,Yellow
+5180,Shelbourne Road,16 P&D + 34 DP (Total),No 36,€3.20,Mon-Sat 07.00-24.00,FALSE,317758.0984,233188.2623,Yellow
+5181,Shelbourne Road,16 P&D + 34 DP (Total),At Number 8,€3.20,Mon-Sun 07.00-24.00,FALSE,317691.8714,233268.6031,Yellow
+5182,Mount Street Lower,38 P&D + 1 DP (Total),No 33-41,€3.20,Mon-Sat 07.00-19.00,FALSE,317102.6233,233416.7486,Yellow
+5184,Mount Street Lower,38 P&D + 1 DP (Total),No 12-14,€3.20,Mon-Sat 07.00-19.00,FALSE,316961.6414,233491.9179,Yellow
+5185,Albert Place East,24 P&D / DP,Off Grand Canal Street,€3.20,Mon-Sun 07.00-24.00,FALSE,317123.6598,233583.4933,Yellow
+5186,Sandwith Street,43 P&D / DP,At Apartments,€3.20,Mon-Fri 08.00-18.30,FALSE,316812.117,234102.1813,Yellow
+5187,Luke Street,6 P&Dpea,At Light-Stand 68,€3.20,Mon-Sat 07.00-19.00,FALSE,316338.2713,234400.7451,Yellow
+5188,Townsend Street,27 P&D + 1 DP (Total),Dept of Social Community,€3.20,Mon-Sat 07.00-19.00,FALSE,316361.4107,234252.2841,Yellow
+5189,Townsend Street,5 P&D,,€3.20,Mon-Sat 10.00-16.00,TRUE,316443.84,234233.79,Yellow
+5191,Lombard Street East,25 P&D + 18 DP (Total),Murphy Solicitors,€3.20,Mon-Fri 08.00-18.30,FALSE,316672.494,234097.5695,Yellow
+5192,Lombard Street East,25 P&D + 18 DP (Total),Opposite Joyce House Entrance,€3.20,Mon-Fri 08.00-18.30,FALSE,316674,234146,Yellow
+5193,Lombard Street East,25 P&D + 18 DP (Total),At Number 11,€3.20,Mon-Fri 08.00-18.30,FALSE,316688.5852,234144.6762,Yellow
+5194,Father Matthew Square,25 spaces,at side of No. 51,€3.20,Mon-Sat 07.00-19.00,FALSE,315015.85,234524.71,Yellow
+5195,Cathedral Street,2 P&D,Opposite Number 7 / At Trocaire,€3.20,Mon-Sat 07.00-19.00,FALSE,315947,234755,Yellow
+5196,Elgin Road,112 P&D / DP (Total),Near corner of Raglan Lane,€3.20,Mon-Fri 08.00-18.30,FALSE,317321.2208,232563.1773,Yellow
+5197,Clyde Road,80 P&D / DP (Total),At Church,€3.20,Mon-Fri 10.00-18.00,FALSE,317577.7858,232470.4928,Yellow
+5198,Clyde Road,80 P&D / DP (Total),At Number 22,€3.20,Mon-Fri  10.00-18.00,FALSE,317375,232353,Yellow
+5199,Clyde Road,80 P&D / DP (Total),Corner of Raglan Lane,€3.20,Mon-Fri 10.00-18.00,FALSE,317299.5795,232332.9276,Yellow
+5200,Wellington Place,48 P&D / DP,No 29,€3.20,Mon-Fri 08.00-18.30,FALSE,317063.9843,232265.313,Yellow
+5201,Wellington Road,126 P&D / DP (Total),No 83,€3.20,Mon-Fri 08.00-18.30,FALSE,317187.2466,232344.3583,Yellow
+5202,Waterloo Road,9 P&D + 72 DP (Total),Near no 89,€3.20,Mon-Fri 08.00-18.30,FALSE,316969.8432,232416.0089,Yellow
+5203,Waterloo Lane,10 P&D / DP,At Number 29,€3.20,Mon-Fri 08.00-18.30,FALSE,316862.2623,232340.8074,Yellow
+5204,Sussex Road,9 P&D + 45 DP (Total),Bank of Ireland,€3.20,Mon-Sat 07.00-19.00,FALSE,316708.3991,232433.5162,Yellow
+5205,Sussex Road,9 P&D + 45 DP (Total),At Number 11,€3.20,Mon-Sat 07.00-19.00,FALSE,316588.565,232532.3817,Yellow
+5210,Pembroke Gardens,50 Spaces,side of no 25,€3.20,Mon-Sat 07.00-24.00,FALSE,317431.83,232921.22,Yellow
+5212,Wilton Terrace,69 P&D + 71 DP (Total),At The Park / Junction Of W'side Wilton Place,€3.20,Mon-Sat 07.00-19.00,FALSE,316725.7,232886.79,Yellow
+5213,Wilton Terrace,2 spaces only,At Wilton House Car Park,€3.20,Mon-Sat 07.00-19.00,FALSE,316520,232777,Yellow
+5214,Cumberland Road,17 P&D + 16 DP (Total),Opposite 7A,€3.20,Mon-Sat 07.00-19.00,FALSE,316514.9872,232911.3088,Yellow
+5216,Fitzwilliam Square East,61 P&D (Total),The Park,€3.20,Mon-Fri 07.00-19.00,FALSE,316558.312,233050.5046,Yellow
+5217,Fitzwilliam Street Upper,86 P&D + 7 DP (Total),No 17,€3.20,Mon-Sat 07.00-19.00,FALSE,316601.0269,233120.6702,Yellow
+5218,Fitzwilliam Street Upper,86  P/D & 14 PP,At No. 27,€3.20,"Mon-Fri 07.00-19.00,",FALSE,316627,233124,Yellow
+5220,Fitzwilliam Street Lower,63 P&D/DP (Total),Opp Merrion House No 1-2,€3.20,Mon-Sat 07.00-19.00,FALSE,,,Yellow
+5221,Mount Street Upper,74 P&D + 4 DP (Total),No 57,€3.20,Mon-Sat 07.00-19.00,FALSE,316814.2912,233369.0537,Yellow
+5222,Mount Street Upper,74 P&D + 4 DP (Total),No 16,€3.20,Mon-Sat 07.00-19.00,FALSE,316899.2239,233337.5198,Yellow
+5223,Mount Street Upper,74 P&D + 4 DP (Total),No 26,€3.20,Mon-Sat 07.00-19.00,FALSE,316960.9814,233286.2744,Yellow
+5224,Mount Street Crescent,35 P&D + 8 DP (Total),Corner of Warrington Place,€3.20,Mon-Sat 07.00-19.00,FALSE,317035.4082,233279.3516,Yellow
+5225,Mount Street Crescent,35 P&D + 8 DP (Total),The side of the church,€3.20,Mon-Sat 07.00-19.00,FALSE,317043.079,233260.939,Yellow
+5226,Mount Street Crescent,35 P&D + 8 DP (Total),The side of the church,€3.20,Mon-Sat 07.00-19.00,FALSE,317026.7217,233246.0971,Yellow
+5228,Baggot Street Lower,97 P&D + 4 DP (Total),Number 94,€3.20,Mon-Sat 07.00-19.00,FALSE,316807.9729,233102.3439,Yellow
+5229,Baggot Street Lower,97 P&D + 4 DP (Total),Bank Of Ireland,€3.20,Mon-Sat 07.00-19.00,FALSE,316779.4967,233161.5519,Yellow
+5230,Baggot Street Lower,97 P&D + 4 DP (Total),Number 103,€3.20,Mon-Sat 07.00-19.00,FALSE,316762.2982,233149.7103,Yellow
+5231,Baggot Street Lower,97 P&D + 4 DP (Total),Number 124,€3.20,Mon-Sat 07.00-19.00,FALSE,316577.0617,233292.9373,Yellow
+5232,Baggot Street Lower,97 P&D + 4 DP (Total),Tesco,€3.20,Mon-Sat 07.00-19.00,FALSE,316505.8574,233350.3503,Yellow
+5233,Baggot Street Lower,97 P&D + 4 DP (Total),Number 135,€3.20,Mon-Sat 07.00-19.00,FALSE,316492.3878,233335.1639,Yellow
+5236,Fitzwilliam Square West,24 P/D (Total),,€3.20,Mon-Sat 07.00-19.00,FALSE,316412.39,233084.02,Yellow
+5239,Earlsfort Terrace,60 P&D / DP (Total),Hotel - Opposite Concert Hall,€3.20,Mon-Sat 07.00-19.00,FALSE,316089.8485,232964.0297,Yellow
+5240,Earlsfort Terrace,60 P&D / Dp(Total),Seagrave House,€3.20,Mon-Sat 07.00-19.00,FALSE,316060.5912,232819.8356,Yellow
+5241,Charlemont Street,27 P&D + 3 DP (Total),At Light-Stand 6,€3.20,Mon-Sat 10-00-19.00,FALSE,315845.8502,232629.4288,Yellow
+5242,Dartmouth Road,51 P&D / DP (Total),At Beta-set Design & Printing,€3.20,Mon-Fri 08.00-18.30,FALSE,316090.4497,232405.0185,Yellow
+5243,Grand Canal Street Upper,56 P&D / DP,Opposite Number 26,€3.20,Mon  -Sun 07.00 - 24.00,FALSE,317556,233368,Yellow
+5244,Estate Cottages,10 P&D + 22 DP,Junction Of Northumberland Road,€3.20,Mon-Sat 07.00-24.00,FALSE,317308,233359,Yellow
+5246,Holles Row,9 P/D + 1 Disabled bay,opposite number 4,€3.20,Mon-Sun 07.00-24.00,FALSE,316939.78,233630.7,Yellow
+5249,Pearse Street,5 P & D,,€3.20,Mon-Sat 07.00-19.00,FALSE,316495.27,234123.78,Yellow
+5251,Ranelagh Avenue,16 P&D / DP,At Number 8,€2.70,Mon-Sun 07.00-24.00,FALSE,316332.3318,231975.9991,Red
+5256,Pearse Street,90spaces in total,Jct Pearse Grove,€2.70,Mon-Sat 07.00-19.00,FALSE,317059,233932,Red
+5257,Donnybrook Road (Car Park),16 P&D,Near Fire Station,€2.70,Mon-Sat 07.00-19.00,FALSE,317548.3305,231606.0448,Red
+5260,Brighton Road,133 P&D / DP (Total),North of WestSide Terenure Road East,€1.00,Mon-Sat 07.00-24.00,FALSE,314826.0315,230387.4201,Orange
+5261,Wexford Street,14 P&D (Total),At Paddy Powers',€3.20,Mon-Sat 07.00-19.00,FALSE,315568.6092,233272.8411,Yellow
+5262,Bridgefoot Street,29 P&D / DP (Total),Island Street Junction,€2.70,Mon-Sat 07.00-19.00,FALSE,314550,234126,Red
+5264,School Street,16 P&D,Behind Guinness at flats/at school,€2.70,Mon-Sat 07.00-19.00,FALSE,314401.3109,233711.7852,Red
+5265,South Lotts Road,63 P&D / DP (Total),Near Sth Dock St,€2.70,Mon-Sat 07.00-24.00,FALSE,317821.1046,233690.6873,Red
+5268,Francis Street,43 P&D + 26 DP (Total),Opposite Viking Lodge Pub,€3.20,Mon-Sat 07.00-19.00,FALSE,314937.38,233733.8693,Yellow
+5269,Francis Street,43 P&D + 26 DP (Total),No 104,€3.20,Mon-Sat 07.00-19.00,FALSE,314972.7813,233654.2956,Yellow
+5270,Francis Street,43 P&D + 26 DP (Total),No 54,€3.20,Mon-Sat 07.00-19.00,FALSE,314990.5348,233641.8259,Yellow
+5271,Francis Street,43 P&D + 26 DP (Total),No 64,€3.20,Mon-Sat 07.00-19.00,FALSE,315035.4319,233523.9401,Yellow
+5272,Beresford Lane,7 P&D,Side of Social Welfare,€3.20,Mon-Sat 07.00-19.00,FALSE,316298.0003,234685.9736,Yellow
+5274,Deverell Place,6 P&D,Custom Hall,€3.20,Mon-Sat 07.00-19.00,FALSE,316222.534,234865.2643,Yellow
+5275,Northumberland Square,2 P&D,Side of Irish Life / On Bend In The Road,€3.20,Mon-Sat 07.00-19.00,FALSE,316185,234617,Yellow
+5277,Dorset Street Upper,37 P&D (Total),beside flats,€3.20,Mon-Sat 10.00-16.00,TRUE,315387,235068,Yellow
+5278,Dorset Street Upper,37 P&D (Total),Side Of Dominick St Church,€3.20,Mon-Sat 10.00-19.00,TRUE,315419.6588,235087.6763,Yellow
+5279,Linenhall Street,24 P&D / DP,No 15,€3.20,Mon-Sun 07.00-24.00,FALSE,315078.3704,234765.0144,Yellow
+5280,Coleraine Street,34 P&D / DP,At Kevin Barry Flats,€3.20,Mon-Sun 07.00-24.00,FALSE,315025.0234,234805.1833,Yellow
+5282,Pleasants Street,13 P&D + 19 DP (Total),No 46,€3.20,Mon-Sat 07.00-19.00,FALSE,315577.7409,233070.1745,Yellow
+5283,Seán McDermott Street,71 P&D / DP (Total),At Swimming Pool,€2.70,Mon-Sat 07.00-19.00,FALSE,316500.2488,235167.0283,Red
+5284,Victoria Street,80 P&D / DP,No 37,€2.70,Mon-Sun 07.00-24.00,FALSE,315307.0442,232592.6791,Red
+5285,Morehampton Road,15 P&D + 44 DP (Total),No 125,€2.70,Mon-Sat 07.00-19.00,FALSE,317408.5852,231745.7072,Red
+5289,Talbot Place,13 P&D,Opp Jacobs Inn,€2.70,Mon-Sat 07.00-19.00,FALSE,316481.071,234762.7013,Red
+5290,North Wall Quay,31 P&D (Total),At Tilesavers,€1.60,Mon-Sat 07.00-19.00,FALSE,317707.92,234425.73,Green
+5291,Cambridge Avenue,27 PD/PP,,€1.00,Mon-Sun 07.00-24.00,FALSE,318846.22,233959.47,Orange
+5293,Moyne Road,154 P&D / DP (Total),Junction Of Dunville Avenue,€1.60,Mon-Sat 07.00-19.00,FALSE,316276.6285,231464.7601,Green
+5294,Pembroke Gardens,19 P&D / DP,opposite No.72,€3.20,Mon-Sat 07.00-24.00,FALSE,317304.26,232865.41,Yellow
+5299,Amiens Street,58 P&D (Total),Junction Of Store Street,€2.70,Mon-Sat 07.00-16.00,TRUE,316547.5588,234802.2541,Red
+5300,Anglesea Road,105 P&D / DP (Total),Near Merrion Rd,€2.70,Mon-Sat 10:00-19.00,TRUE,317921.46,232318.3,Red
+5305,Chelmsford Road,23 P&D / DP,at number 15 Almost opposite Chelmsford Avenue,€2.70,Mon-Fri  10.00-16.00 Sat 07.00-19.00,TRUE,316532.09,232006.1,Red
+5306,Clanbrassil Street Lower,30 P&D (Total),At DIY Store,€2.70,Mon-Sat 10.00-19.00,TRUE,314945.8316,232803.3306,Red
+5307,Clanbrassil Street Lower,30 P&D (Total),At Light-Stand 35,€2.70,Mon-Sat 07.00-16.00,TRUE,314964.4702,232819.3857,Red
+5315,Guild Street,12 P/D,,€3.20,Mon-Sat 07.00-19.00,FALSE,317189.34,234699.84,Yellow
+5316,Haddington Road,145 P&D / DP (Total),At Number 96,€3.20,Mon-Sat 07.00-19.00,FALSE,317523.7079,233254.4739,Yellow
+5317,Haddington Road,145 P&D / DP (Total),No 44,€3.20,Mon-Sat 07.00-19.00,FALSE,317271.5105,233120.5578,Yellow
+5320,Herbert Street,82 P&D + 1 DP (Total),Corner of Baggot St Lwr,€3.20,Mon-Sat 07.00-19.00,FALSE,316886.3531,233064.2816,Yellow
+5322,Northumberland Road,54 P&D / DP,Irish Cancer Society,€3.20,Mon-Fri 10.00-16.00,TRUE,317303.4601,233292.2865,Yellow
+5323,Herbert Street,82 P&D + 1 DP (Total),At Appartments,€3.20,Mon-Sat 07.00-19.00,FALSE,316926.9529,233140.6881,Yellow
+5324,Herbert Street,82 P&D + 1 DP (Total),No 23,€3.20,Mon-Sat 07.00-19.00,FALSE,316885.3958,233088.0836,Yellow
+5325,Hatch Street Upper,57 P&D (Total),Deloitte Touche House,€3.20,Mon-Sat 07.00-19.00,FALSE,316025.6431,232890.1321,Yellow
+5326,Holles Street,10 P&D,At Holles Row,€3.20,Mon-Sat 07.00-19.00,FALSE,316897.3505,233684.2053,Yellow
+5328,Inns Quay,32 P&D + 1 DP (Total),Liffey side,€3.20,Mon-Sat 07.00-19.00,FALSE,315057.9045,234175.5306,Yellow
+5329,Inns Quay,32 P&D + 1 DP (Total),Liffey side,€3.20,Mon-Sat 07.00-19.00,FALSE,314923.0225,234191.0238,Yellow
+5330,Inns Quay,32 P&D + 1 DP (Total),Liffey side,€3.20,Mon-Sat 07.00-19.00,FALSE,315000.4885,234179.1761,Yellow
+5331,Kevin Street Lower,16 P&D (Total),DIT,€3.20,Mon-Sat 07.00-19.00,FALSE,315439.3502,233300.035,Yellow
+5332,King's Inns Street,45 P&D (Total),Parnell Centre,€3.20,Mon-Sat 07.00-19.00,FALSE,315463.9144,234783.637,Yellow
+5334,Leeson Park,104 P&D / DP (Total),Opposite Church,€3.20,Mon-Fri 08.00-18.30,FALSE,316458.6677,232449.9136,Yellow
+5335,Morehampton Road,15 P&D + 44 DP (Total),At Hotel,€2.70,Mon-Sat 07.00-19.00,FALSE,317159.6093,232045.0373,Red
+5336,Lime Street,30 P&D,"Opposite 'The Windmill', Number 25-30",€2.70,Mon-Sat 07.00-19.00,FALSE,317023,234236,Red
+5337,Macken Street,20 P&D + 120 DP (Total),At Piryan's & Sons,€2.70,Mon-Fri 08.00-18.30,FALSE,317199.8864,234037.8152,Red
+5340,Rathgar Avenue,20 Spaces,O/S No. 7,€1.00,Mon-Fri 10.00-19.00,TRUE,315007,230548,Orange
+5341,Belvidere Place,38 P/D & PP,Opposite No. 5,€2.70,Mon-Sun 07.00-24.00,FALSE,316063,235579,Red
+5342,Spencer St South,22 P&D / PP,Junct of St. Vincent St Sth,€2.70,Mon-Sat 07.00-24.00,FALSE,315061,232761,Red
+5343,Morehampton Road,15 P&D + 44 DP (Total),At Number 34,€2.70,Mon-Sat 07.00-19.00,FALSE,317139.6187,232106.7065,Red
+5344,Merchant's Quay,38 P&D (Total),Numbers 8-9 & Opposite meter 1292,€3.20,Mon-Sat 07.00-19.00,FALSE,314943,234126,Yellow
+5345,Merchant's Quay,38 P&D (Total),Numbers 20-23 & Opposite meter 111,€3.20,Mon-Sat 07.00-19.00,FALSE,315081.42,234111.16,Yellow
+5351,Blackhall Place,5 P&D / DP (Total),Opposite The Gravel Walk Court,€2.70,Mon-Sat 10.00-16.00,TRUE,314444,234441,Red
+5352,Monck Place,43 P&D / DP,At Number 31 / Opposite Clarke's Pub,€2.70,Mon-Sat 07.00-19.00,FALSE,314971,235646,Red
+5353,Morehampton Road,15 P&D + 44 DP (Total),At Bulton's Pantry,€2.70,Mon-Sat 07.00-19.00,FALSE,317333.8674,231841.1705,Red
+5355,Mount Street Crescent,35 P&D + 8 DP (Total),No 4,€3.20,Mon-Sat 07.00-19.00,FALSE,317111.0185,233221.056,Yellow
+5356,Herbert Place,30 P&D / DP (Total),Opposite Number 23,€3.20,Mon-Sat 07.00-19.00,FALSE,317074.1098,233143.3899,Yellow
+5357,Mountjoy Square South,11 P&D + 8 DP (Total),Park Gate,€2.70,Mon-Sat 07.00-19.00,FALSE,316118.1799,235363.9016,Red
+5358,Mountpleasant Square,93 P&D / DP,Corner of Ranelagh Rd,€2.70,Mon-Sun 07.00-24.00,FALSE,316088.5928,232120.5143,Red
+5359,North Circular Road,17 P&D / DP,Dorset St to Sherrard St,€2.70,Mon-Sat 07.00-24.00,FALSE,315856.09,235752.0652,Red
+5361,Mount Street Upper,74 P&D + 4 DP (Total),No 2,€3.20,Mon-Sat 07.00-19.00,FALSE,316813.6046,233386.2427,Yellow
+5364,Pembroke Cottages (Donnybrook),44 P&D / DP,Opposite Number 74,€2.70,Mon-Sat 07.00-24.00,FALSE,317577.3232,231695.8396,Red
+5365,Bow Street,10 P&D/DP,,€2.70,Mon - Sun 07.00-24.00,FALSE,314855.04,234562.8,Red
+5367,Ovoca Road,60 P&D / DP,Opposite Number 10,€2.70,Mon - Sun 7.00-24.00,FALSE,315292.7695,232855.7404,Red
+5368,Poolbeg Street,10 P&D,Opposite Corn Exchange entrance,€3.20,Mon-Sat 07.00-19.00,FALSE,316180,234346,Yellow
+5370,Verschoyle Place,27 P&D / DP,"No 55, Off Mount Street Lower",€3.20,Mon-Sat 07.00-19.00,FALSE,316936.8139,233430.4609,Yellow
+5371,New Bride Street,20 P&D / DP (Total),No 20,€3.20,Mon-Sun 07.00-24.00,FALSE,315354.7909,233164.7336,Yellow
+5372,Parnell Street,21 P&D (Total),Connie's Take-away,€3.20,Mon-Sat 10.00-16.00,TRUE,315958.7646,235098.0944,Yellow
+5373,Percy Place,121 P&D / DP (Total),No 49-51,€3.20,Mon-Sat 07.00-19.00,FALSE,317159.8571,233177.6591,Yellow
+5374,Raglan Road,91 P&D / DP,Corner of Pembroke Lane,€3.20,Mon-Fri 08.00-18.30,FALSE,317445.534,232711.2113,Yellow
+5375,Ranelagh,28 P&D + 32 DP (Total),Duds o suds Dry cleaning,€2.70,Mon-Sat 10.00-15.00,TRUE,316625.4623,231759.8232,Red
+5379,Lansdowne Road,49 P&D / DP (Total),No 42,€3.20,Mon-Fri 08.00-18.30,FALSE,317802.1168,232932.9316,Yellow
+5381,John Dillon Street,66 P&D / DP (Total),Opp no. 50,€3.20,Mon-Sun 07.00-24.00,FALSE,315050.1358,233724.8868,Yellow
+5382,Stamer Street,38 P&D / DP (Total),At Lennox Street / No 1,€2.70,Mon-Sat 07.00-19.00,FALSE,315423.9118,232602.486,Red
+5383,Yarnhall Street,5 P&D / DP,"Bodkins Pub, sthside, west of Bolton St",€3.20,Mon-Sat 07.00-19.00,FALSE,315242.4453,234835.1234,Yellow
+5385,Synge Street,112 P&D / DP (Total),replaced meter 7415 26/7/2014,€2.70,Mon-Sun 07.00-24.00,FALSE,315512.4928,232720.912,Red
+5387,Talbot Street,20 P&D (Total),Ripley Court Hotel,€2.70,Mon-Sat 07.00-19.00,FALSE,316508.6177,234856.4429,Red
+5389,Thomas Street,17 P&D (Total),Between 39 & 40,€2.70,Mon-Sat 10.00-16.00,TRUE,314613,233868,Red
+5390,Thomas Street,17 P&D (Total),At Iceland,€2.70,Mon-Sat 10.00-16.00,TRUE,314589.3048,233890.4134,Red
+5391,Warrington Place,26 P&D / DP,Opp no 8,€3.20,Mon-Fri 08.00-18.30,FALSE,317182.9187,233267.9151,Yellow
+5392,Waterloo Road,9 P&D + 72 DP (Total),Corner of Fleming Place,€3.20,Mon-Sat 07.00-19.00,FALSE,317044.9609,232746.5239,Yellow
+5394,Wellington Road,126 P&D / DP (Total),No 1A,€3.20,Mon-Fri 08.00-18.30,FALSE,317247.0493,232688.6982,Yellow
+5399,Saint Georges Avenue,34 P&D/DP,side of 55b Fitzroy Avenue,€1.60,Mon - Fri 07.00 - 19.00,FALSE,316082.61,236066.7,Green
+5404,Beechwood Park,30 P&D / DP,Off Dunville Avenue,€1.60,Mon-Sun 07.00-24.00,FALSE,316139.9501,231505.9728,Green
+5405,Palmerston Road,112 P&D / DP (Total),Number 82,€1.60,Mon-Fri 07.00-18.30,FALSE,316035.2489,231386.1826,Green
+5406,Old Kilmainham,18 P&D / DP,At Number 31,€1.60,Mon-Fri 08.00-18.30,FALSE,312979,233599,Green
+5408,Leinster Street North,72 P&D / DP,At ATD Security,€1.60,Mon-Sun 07.00 - 24.00,FALSE,315048.1031,236220.19,Green
+5409,Cork Street,76 P&D / DP (Total),Opposite Donnelly Centre,€1.60,Mon-Sat 07.00-19.00,FALSE,314551.6739,233367.4139,Green
+5410,Garten Avenue,10 sps. also serves Iona Rd,,€1.60,Mon-Sun 07.00-24.00,FALSE,315584.04,236448.86,Green
+5413,Cherrymount Park,21 P&D/DP,,€1.60,Mon-Fri 08.00-18.30,FALSE,314551.61,235734.35,Green
+5414,North Circular Road,4 P&D + 2 DP,o/s 296B North Circular Road,€2.70,Mon-Sat 07.00-19.00,FALSE,314760,235795,Red
+6000,Fishamble Street,11 P&D (Total),Opp Civic Offices,€3.20,Mon-Sat 07.00-19.00,FALSE,315288.8428,234060.7847,Yellow
+6001,Anne Street South,6 P&D,Number 17,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,316031.0323,233700.0726,Yellow
+6002,Aston Quay,7 P&D,Opposite Boots & Aston Place,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315884,234316,Yellow
+6003,Bow Lane East,9 P&D,"Junction of Mercer Street, N'side",€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315669,233551,Yellow
+6004,Capel Street,75 P&D (Total),At CASA Charity Shop,€3.20,Mon-Sat 07.00-19.00 Sun14.00-18.00,FALSE,315371,234414,Yellow
+6005,Capel Street,75 P&D (Total),At No. 137,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315351.1301,234448.5896,Yellow
+6006,Capel Street,75 P&D (Total),No 101,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315302.2012,234684.8499,Yellow
+6007,Capel Street,75 P&D (Total),Corner of Ryders Row,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315293.2251,234670.186,Yellow
+6008,Capel Street,75 P&D (Total),near Centra,€3.20,Mon-Sat 07.00-19.00 Sun14.00-18.00,FALSE,315320.26,234575.1,Yellow
+6009,Cuffe Lane,17 P&D + 12 DP,near Number 5,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315702.55,233361.08,Yellow
+6010,D Olier Street,6 P&D,,€3.20,Mon-Sat 07.00-19.00  Sun 14.00-18.00,FALSE,316078,234263,Yellow
+6013,Drury Street,7 P&D,Number 17,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00,",FALSE,315703.8047,233796.9262,Yellow
+6014,Frederick Street South,33 P&D (Total),No 3-4,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,316149.3458,233756.8984,Yellow
+6015,Frederick Street South,33 P&D (Total),Corner of Setanta Place,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,316167.7406,233796.0507,Yellow
+6016,Gardiner Street Lower,29 P&D (Total),Custom Hall,€3.20,Mon-Sat 07.00-16.00,TRUE,316233.7563,234886.0086,Yellow
+6017,Gardiner Street Lower,29 P&D (Total),No 38,€3.20,Mon-Sat 07.00-16.00,TRUE,316264.0922,234821.5265,Yellow
+6018,Grantham Street,6 P&D + 45 DP (Total),At Heytesbury Street / No 72,€3.20,Mon-Sun 07.00-24.00,FALSE,315404.7457,232895.1989,Yellow
+6019,Hatch Street Lower,49 P&D + 3 DP (Total),No 25,€3.20,Mon-Sat 07.00-19.00,FALSE,316182.6502,232903.0958,Yellow
+6020,Leinster Street South,11 P&D (Total),Leinster Coffee House,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,316329.1806,233819.6771,Yellow
+6021,Longford Street Great,7 P&D,At Coughlan's,€3.20,Mon-Sat 07.00-19.00,FALSE,315547.6275,233647.9189,Yellow
+6022,Longford Street Little,10 P&D (Total),Aungier Street Junction,€3.20,Mon-Sat 07.00-19.00 Sun 14.00-18.00,FALSE,315597.2456,233649.3365,Yellow
+6023,Mary Street,9 P&D,No 6,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315397.2669,234520.2975,Yellow
+6024,Merrion Square North,35 P&D (Total),Opp No 10,€3.20,Mon-Sat 07.00-19.00,FALSE,316675.03,233647.28,Yellow
+6025,Mespil Road,10 P&D,,€3.20,Mon-Sat 10.00-16.00,TRUE,316896.6,232904.5,Yellow
+6026,Mespil Road,27 P&D + 40 DP (Total),Canal side,€3.20,Mon-Sat 07.00-19.00,FALSE,316709.9278,232824.2778,Yellow
+6027,Molesworth Street,30 P&D (Total),Govt Publications Office,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,316104.6245,233728.2092,Yellow
+6028,Nassau Street,14 P&D (Total),Kilkenny Design,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,316244.1746,233846.1522,Yellow
+6029,Noel Purcell Walk,10 P&D (Total),Noel Purcell Walk,€3.20,Mon-Sat 07.00-19.00 Sun 14.00-18.00,FALSE,315665.9498,233633.2761,Yellow
+6030,Mercer Street,37 P&D (Total),At flats,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315653.3036,233376.3993,Yellow
+6031,Mercer Street,37 P&D (Total),At flats,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315641.4941,233382.8408,Yellow
+6032,Mercer Street,37 P&D (Total),At flats,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315641.8967,233416.5248,Yellow
+6033,Mercer Street,37 P&D (Total),At flats,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315651.8274,233419.2087,Yellow
+6034,Mercer Street,37 P&D (Total),Junction Of Cuffe Street,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315643.6413,233332.7846,Yellow
+6035,Ormond Quay Upper,53P&D (Total),Liffey Side Opp Number 27,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315231.9333,234192.9689,Yellow
+6036,Ormond Quay Upper,53P&D (Total),Near Capel St,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315371.9685,234246.7551,Yellow
+6037,Ormond Quay Upper,53P&D (Total),Liffey Side Opposite Number 12,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315311.1305,234212.425,Yellow
+6038,Ormond Quay Upper,53P&D (Total),Western End Of Ormond House,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315194,234198,Yellow
+6039,Ormond Quay Upper,53P&D (Total),"At Number 23, Raymond Quinn Solictors",€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315239,234209,Yellow
+6040,Parnell Square East,15 P&D,Opposite Number 8,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315727,235109,Yellow
+6041,Parnell Square North,53 P&D (Total),Dublin Writer's Museum,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315648.5441,235166.843,Yellow
+6042,Parnell Square North,53 P&D (Total),Garden of Rememberence,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315596.1604,235110.9109,Yellow
+6043,Parnell Square North,53 P&D (Total),Garden of Rememberence,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315630.3253,235133.2964,Yellow
+6044,Parnell Square North,53 P&D (Total),Coláiste Mhuire School,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315570.8979,235114.6169,Yellow
+6045,Parnell Square West,41 P&D (Total),Pillar Room - Rotunda Hospital,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315601.0036,235035.8167,Yellow
+6046,Parnell Square West,41 P&D (Total),"Rotunda Hospital, Opposite 43",€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315631.7071,235003.8444,Yellow
+6047,Parnell Square West,41 P&D (Total),Rotunda Hospital,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315668.7011,234962.9459,Yellow
+6048,William Street South,9 P&D / DP,No 29-31,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315735.7229,233736.376,Yellow
+6049,St. Stephen's Green East,61 P&D (Total),Outside Loretto College at LS70,€3.20,Mon-Sat 07.00-19.00  Sun 14.00-18.00,FALSE,316213,233308,Yellow
+6050,St. Stephen's Green East,61 P&D (Total),Opp Loreto College Parkside,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,316157.5594,233239.499,Yellow
+6051,St. Stephen's Green South,22 P&D (Total),Opp no 95 Parkside,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315851.5123,233291.3458,Yellow
+6052,St. Stephen's Green South,22 P&D (Total),Opp Church Parkside,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315994.4685,233231.9485,Yellow
+6053,St. Stephen's Green West,17 P&D,Near no 10,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315800.5648,233368.6302,Yellow
+6054,St. Stephen's Green West,18 P&D (Total),Fitzwilliam Hotel,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315855.8573,233493.3877,Yellow
+6055,Strand Street Great,13 P&D (Total),,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315585.3,234347.69,Yellow
+6056,Strand Street Great,10 P&D + 4 DP,opp no 7A,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315464.4686,234312.2941,Yellow
+6057,Swift's Row,4 P&D,Junction Of Ormond Quay Lower,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315545,234279,Yellow
+6058,Waterloo Road,9 P&D + 72 DP (Total),Opp Cellular World,€3.20,Mon-Sat 07.00-16.00,TRUE,317074.8198,232800.6517,Yellow
+6059,Werburgh Street,10 P&D,"Near no 1, W'side opp Ship St",€3.20,Mon-Sat 07.00-19.00,FALSE,315274.5762,233830.1999,Yellow
+6060,York Street,30 P&D (Total),At flats,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315594.6776,233508.9489,Yellow
+6061,York Street,30 P&D (Total),At flats,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315606.8605,233514.8309,Yellow
+6062,Lennox Street,18 P&D + 87 DP (Total),At Kingsland Parade / No 1,€2.70,Mon-Sun 07.00-24.00,FALSE,315619.1458,232602.149,Red
+6063,Lennox Street,18 P&D + 87 DP (Total),At Synge Street / No 30,€2.70,Mon-Sun 07.00-24.00,FALSE,315531.5693,232606.4927,Red
+6064,Lennox Street,18 P&D + 87 DP (Total),No 35,€2.70,Mon-Sun 07.00-24.00,FALSE,315479.8456,232589.2657,Red
+6065,Leinster Road West,90 P&D / DP (Total),No 13,€2.70,Mon-Sun 07.00-24.00,FALSE,314773.1643,231324.4213,Red
+6066,Blessington Street,49 P&D / DP (Total),"Dargon's Chemist, West-Side of Berkeley St",€3.20,Mon-Sat 07.00-24.00,FALSE,315352.5306,235448.7498,Yellow
+6067,Ash Street,20 P&D / DP,Between Francis Street & Meath Street,€2.70,Mon-Fri 08.00-18.30,FALSE,314813.2019,233603.3874,Red
+6068,Nelson Street,36 P&D + 16 DP (Total),"At EcclesSt, Opposite Machine 195",€3.20,Mon-Sun.07.00-24.00,FALSE,315418.1275,235619.2302,Yellow
+6069,Winton Road,62 P&D / DP (Total),At Junction Of The Appian Way,€2.70,Mon-Fri 08.00-18.30,FALSE,316681.9092,232178.2137,Red
+6070,Pearse Street,90spaces in total,Corner of Pearse Square,€2.70,Mon-Fri 08.00-18.30,FALSE,317084.3022,233946.9615,Red
+6071,Beechwood Avenue Lower,126 P&D / DP,Opposite Ulster Bank,€2.70,Mon-Sat 07.00-24.00,FALSE,316417.1562,231855.9987,Red
+6072,Grove Park,111 P&D / DP,No 59 - 60,€2.70,Mon-Sun 07.00-24.00,FALSE,315458.9889,232365.9015,Red
+6073,Elmwood Avenue Lower,68 P&D / DP,Opp no 10,€1.60,Mon-Sat 07.00-24.00,FALSE,316308.3078,231861.0265,Green
+6074,Mount Argus (Harold's Cross),4 P&D,At Church Main Gate,€1.60,Mon-Sat 07.00-19.00,FALSE,314661,231781,Green
+6075,Barrow Street,85 P&D / DP (Total),Opposite Number 16,€2.70,Mon-Sat 07.00-24.00,FALSE,317523.87,233765.39,Red
+6076,Newmarket,63 P&D,"No 13, East of Brabazon Place",€2.70,Mon-Sat 07.00-19.00,FALSE,314794.2303,233342.1592,Red
+6077,Morning Star Avenue,37 P&D,Opposite Whitworth Hall,€2.70,Mon-Sat 07.00-19.00,FALSE,314865,234850,Red
+6078,Observatory Lane,8 P&D,At Bike Shop,€2.70,Mon-Sat 07.00-19.00,FALSE,315665.539,231976.9343,Red
+6079,Manor Street,4 P&D + 64 DP (Total),At school,€2.70,Mon-Sun 07.00-24.00,FALSE,314358.8967,234881.5584,Red
+6080,Nelson Street,50 spaces,,€3.20,Mon-Sun 07.00-24.00,FALSE,315413.99,235575.42,Yellow
+6081,Berkeley Street,44 P&D / DP (Total),"At 'Selections' Newsagents, Top of Eccles Street",€3.20,Mon-Sat 07.00-24.00,FALSE,315237,235730,Yellow
+6082,Valentia Parade,30 P&D / DP,Innisfallen Parade Jxn / Side of No. 24,€1.60,Mon-Fri 08.00-18.30,FALSE,315704,235913,Green
+6083,Bath Avenue,77 P&D / DP (Total),Corner of Shaw's Lane,€2.70,Mon-Fri 08.00-18.30,FALSE,317818.2963,233318.769,Red
+6084,St. Brigid's Road Lower,40 P&D / DP,At Whitworth Rd Junction,€1.60,Mon-Sun 07.00-24.00,FALSE,315718,236092,Green
+6085,Benson Street,50 P/D Total,junction of Green Street East,€2.70,Mon-Fri. 08.00-18.00,FALSE,317719.27,234117.92,Red
+6086,Blackhall Place,5 P&D / DP (Total),At Number 28,€2.70,Mon-Sat 07.00-19.00,FALSE,314473.801,234575.5717,Red
+6087,Charleville Road,57 Spaces,O/s No. 20,€1.60,Mon-Fri 07.00-19.00,FALSE,314382,235805,Green
+6088,Prospect Avenue,27 P&D / DP,Opposite Number 17,€1.00,Mon-Sun 07.00-24.00,FALSE,315101,236519,Orange
+6089,FishMarket Car Park,71 P&D + 5 Disabled Bays,Market Carpark,€3.20,Mon - Sat 07.00-19.00,FALSE,315013.49,234312.45,Yellow
+6090,Merrion Square South,165 P&D + 26 disc pk,credit card meter only,€3.20,Mon-Sat 07.00-19.00,FALSE,316640.41,233464.5,Yellow
+6091,Fitzwilliam Square South,78 P&D  + 13 DP,credit card meter only,€3.20,Mon -Sat 07.00-19.00,FALSE,316457.76,233030.66,Yellow
+6092,Pembroke Street Lower,28 P&D + 4 DP (Total),Credit card meter,€3.20,Mon-Sat 07.00-19.00,FALSE,316470.7202,233202.8296,Yellow
+6093,Hume Street,42 P&D + 9 DP (Total),Credit Card Meter,€3.20,Mon-Sat 07.00-19.00,FALSE,316312.0699,233342.3435,Yellow
+6094,FishMarket Car Park,71 P&D + 5 Disabled Bays,Market Carpark,€3.20,Mon -Sat 07.00-19.00,FALSE,315116.05,234434.45,Yellow
+6095,Fenian Street,38 P&D + 9 DP (Total),No 19-20,€3.20,Mon-Sat 07.00-19.00,FALSE,316773.8422,233763.406,Yellow
+6096,Baggot Street Lower,97 P&D + 4 DP (Total),Number 33,€3.20,Mon-Sat 07.00-19.00,FALSE,316614.2782,233296.3206,Yellow
+6097,Botanic Road,14 P&D(Total),Opposite Botanic Gardens,€1.00,Mon-Sat 07.00-19.00,FALSE,315250,237109,Orange
+6098,Lindsay Road,35 P&D / DP,Off Botanic Road,€1.60,Mon-Sat 07.00-24.00,FALSE,315126.4669,236440.1915,Green
+6099,Wigan Road,40 P&D / PP,Junction Whitworth Road,€1.60,Mon-Sun 07.00-24.00,FALSE,315401,236201,Green
+6100,St. Ignatius' Road,112 P&D / DP,Near corner of Drumcondra Rd,€1.60,Mon-Fri 08.00-18.30,FALSE,315856.7759,235938.9722,Green
+6101,Ormond Road,31 P&D / DP,At Drumcondra Rd Upr Junction,€1.00,Mon-Sat 07.00-19.00,FALSE,316294,236995,Orange
+6102,St. Alphonsus' Road,109 P&D/DP,opposite Number 22,€1.60,Mon-Sun 07.00-24.00,FALSE,315951.2583,236333.1916,Green
+6103,Fairview Avenue Lower,22 P&D / DP,Fairview Strand Junction,€1.00,Mon-Sat 07.00-19.00,FALSE,317474.6758,236200.0238,Orange
+6104,Marino Mart,32 P&D / DP (Total),At Post Office,€1.00,Mon-Sat 07.00-24.00,FALSE,317673.5408,236323.5694,Orange
+6105,Railway Street,40 P&D / DP,At Gardiner Street Lower Junction,€2.70,Mon-Sat 07.00-19.00,FALSE,316225,234965,Red
+6106,Montague Street,16 P&D / DP,Moved from Montague St,€3.20,Mon-Sat 07.00-19.00,FALSE,315662.5152,233189.1713,Yellow
+6107,Bow Street,9 P&D + DP,Opposite Junction Of May Lane,€2.70,Mon-Sat 07.00-19.00,FALSE,314813,234465,Red
+6108,Benburb Street,11 spaces,13mtrs from junct with John St. Nth,€2.70,Mon-Sat 10.00-16.00,TRUE,314498.6,234353.2,Red
+6109,Sitric Road,52 P&D / DP,At Number 10,€1.60,Mon-Sat 07.00-24.00,FALSE,314286,234722,Green
+6110,St. Joseph's Road,28 P&D / DP,Across From No. 11,€2.70,Mon-Sun 07.00-24.00,FALSE,314030.5693,235167.6072,Red
+6111,Maidens Row,38 P&D / PP,Oustide Island Apartments,€1.00,Mon-Sun 07.00-24.00,FALSE,310286,234407,Orange
+6112,Grattan Crescent,23 P&D (Total),Opposite Park,€1.00,Mon-Sat 07.00-19.00,FALSE,311938.6455,233587.6535,Orange
+6113,South Circular Road,10 P&D / DP (Total),At Number 588,€1.60,Mon-Sat 07.00-19.00,FALSE,313241,233378,Green
+6114,James' Street,22 P&D + 9 DP (Total),At 176 & Opposite entrance to St. James' Hospital,€1.60,Mon-Sat 07.00-19.00,FALSE,313632,233781,Green
+6115,Francis Street,43 P&D + 26 DP (Total),Near Tivoli,€3.20,Mon-Sat 07.00-19.00,FALSE,314883.1088,233857.5468,Yellow
+6116,Peter Street,26 P&D,New Building Site,€3.20,Mon-Sat 07.00-19.00,FALSE,315421.8136,233495.0565,Yellow
+6117,Northbrook Road,120 P&D / DP (Total),Opposite Northbrook Clinic,€3.20,Mon-Fri 08.00-18.30,FALSE,316244.4044,232348.6903,Yellow
+6118,Ely Place,20 P&D + 25 DP (Total),No 20,€3.20,Mon-Sat 07.00-19.00,FALSE,316352.268,233347.6801,Yellow
+6119,Ely Place,20 P&D + 25 DP (Total),RHA Art,€3.20,Mon-Sun 07.00-24.00,FALSE,316319.4358,233264.1327,Yellow
+6120,North Lotts,21 P&D,,€3.20,"Mon-Sat 07.00-19.00, Sun 14.00-18.00",FALSE,315762.5637,234404.7684,
+6121,Oakley Road,47 P&D / DP,Junction Of Dunville Avenue,€2.70,Mon-Sat 07.00-19.00,FALSE,316234.77,231632.42,Red
+6123,Cumberland Street South,52 P&D + DP,SERVES Boyne Street,€3.20,Mon - Fri 08.00 - 18.30,FALSE,316693.54,233906.94,Yellow
+6124,Macken Street,20 P&D + 120 DP (Total),Corner of Hogan Ave,€2.70,Mon-Fri 08.00-18.30,FALSE,317169.1112,233724.7832,Red
+6125,Macken Street,20 P&D + 120 DP (Total),Near Virtual Access Irl Ltd,€2.70,Mon-Fri 08.00-18.30,FALSE,317201.304,233891.13,Red
+6126,Grand Canal Quay,44 P&D / DP,At Number 2,€2.70,Mon-Fri 08.00-18.30,FALSE,317304,233504,Red
+6127,Percy Place,121 P&D / DP (Total),Near no 17,€3.20,Mon-Fri 08.00-18.30,FALSE,317084.7418,233073.9931,Yellow
+6128,Lad Lane,44 P&D / DP,Opp no 10,€3.20,Mon-Fri 08.00-18.30,FALSE,316631.9505,232981.5395,Yellow
+6129,Adelaide Road,71 P&D + 14 DP (Total),Near the Eye & Ear Hospital,€3.20,Mon-Sat 07.00-19.00,FALSE,316297.8644,232734.6519,Yellow
+6130,Adelaide Road,71 P&D + 14 DP (Total),No 61,€3.20,Mon-Sat 0.700-19.00,FALSE,316170.6758,232769.1492,Yellow
+6131,Adelaide Road,71 P&D + 14 DP (Total),Opp no 61,€3.20,Mon-Sat 07.00-19.00,FALSE,316161.7519,232757.4127,Yellow
+6132,Adelaide Road,71 P&D + 14 DP (Total),Near the Eye & Ear Hospital,€3.20,Mon-Sat 07.00-19.00,FALSE,316121.3661,232757.04,Yellow
+6133,Harcourt Terrace,33 P&D / DP,Opposite Number 19,€3.20,Mon-Sat 07.00-19.00,FALSE,316114.2124,232698.5687,Yellow
+6134,Heytesbury Street,78 P&D / DP (Total),At Number 45,€3.20,Mon-Sun 07.00-24.00,FALSE,315397.8737,232819.9194,Yellow
+6135,Long Lane,26 P&D / DP,At Number 22,€2.70,Mon-Sun 07.00-24.00,FALSE,315290,233139,Red
+6136,Blackpitts,25 P&D / DP,Junction of Old Mill Court,€2.70,Mon-Fri 08.00-18.30,FALSE,314951,233102,Red
+6137,Dufferin Avenue,87 P&D,side wall of no.1,€1.60,Mon-Sat 07.00-24.00,FALSE,314535,232603,Green
+6138,Blackberry Lane,11 P&D / DP,Corner of Rathmines Road Lower,€2.70,Mon-Sat 07.00-19.00,FALSE,315662.7914,232300.2229,Red
+6139,Grosvenor Road,128 P&D / DP (Total),No 12-13,€1.60,Mon-Fri 08.00-18.30,FALSE,315327.3327,231381.9113,Green
+6140,Leinster Road,208 P&D / DP (Total),No 101,€2.70,Mon-Fri  08.00-18.30,FALSE,314793.7904,231512.0644,Red
+6141,Brighton Square,178 P&D / DP (Total),At Number 52,€1.00,Mon-Sat 07.00-24.00,FALSE,314566.2064,230728.2542,Orange
+6142,Milltown Road,44 spaces,Car Park Bring Centre,€1.00,Mon-Fri 11.00-16.00,FALSE,316886,230485,Orange
+6143,Belmont Avenue,55 P&D / DP,Donnybrook Manor,€2.70,MonSat 0700-2400,FALSE,317412.8215,231604.8926,Red
+6144,Auburn Avenue,47 P&D / DP,At Side of 114 Morehampton Road,€2.70,Mon-Sun 07.00-24.00,FALSE,317430.4541,231768.4872,Red
+6145,Burlington Road,144 P&D / DP (Total),West of Northside Waterloo Road,€3.20,Mon-Fri 08.00-18.30,FALSE,316871.8512,232632.6137,Yellow
+6146,Northbrook Road,120 P&D / DP (Total),Opposite Number 17,€3.20,Mon-Fri 08.00-18.30,FALSE,316096.1078,232289.7759,Yellow
+6147,Northbrook Road,120 P&D / DP (Total),At Number 3,€3.20,Mon-Fri 08.00-18.30,FALSE,316396.898,232394.3918,Yellow
+6149,Fitzwilliam Street Lower,63 P&D/DP (Total),Clifton Hall,€3.20,Mon-Sat 07.00-19.00,FALSE,316741.2385,233370.4586,Yellow
+6150,Fitzwilliam Place,94 P&D + 7 DP (Total),"relocated outside no 17, 10/11/2015",€3.20,Mon-Sat 07.00-19.00,FALSE,316471.56,232851.55,Yellow
+6151,Hatch Street Lower,49 P&D + 3 DP (Total),,€3.20,Mon-Sat 07.00-19.00,FALSE,316252.1639,232936.3643,Yellow
+6152,Grantham Street,6 P&D + 45 DP (Total),,€3.20,Mon-Sat 07.00-19.00,FALSE,315553.0562,232910.2597,Yellow
+6153,Mountpleasant Avenue Upper,24 P&D / DP,At No. 8,€2.70,Mon-Sun 07.00-24.00,FALSE,315934,232006,Red
+6154,Annesley Park,76 P&D / DP + 1 Disabled Bay,,€1.60,Mon-Sat 07.00-19.00,FALSE,316202.0766,231440.0325,Green
+6155,Anna Villa,75 P&D / DP (Total),Nrth of W'side Beechwood Avenue,€2.70,Mon-Sun 07.00-24.00,FALSE,316634.548,231732.1563,Red
+6157,Strand Road (Car Park@ Martello Tower),39 P&D 4 Disabled Bays,,€0.60,Mon-Fri. 11.00-17.00,FALSE,319539.62,231932,Blue
+6158,Strand Road (South Car Park),41 P&D and 4Disabled bays,,€0.60,Mon-Fri. 11.00-17.00,FALSE,319572.83,231682.99,blue
+6159,North Circular Road,20 P&D / DP,At Summerhill Parade and Russell St,€2.70,Mon-Fri 08.00-18.30,FALSE,316375.4989,235608.644,Red
+6160,Sir John Rogerson's Quay,17 P&D / DP (Total), Windmill Lane / At Snap Printing,€2.70,Mon-Sat 07.00-19.00,FALSE,316951,234320,Red
+6161,City Quay,17 P&D / DP (Total),At No. 36,€2.70,Mon-Sat 07.00-19.00,FALSE,316776.6252,234336.4696,Red
+6162,Whitworth Place,17 P&D / DP,At Lighting Pole No. 1,€1.60,Mon-Sat 07.00-19.00,FALSE,315952,235989,Green
+6163,Cabra Road,18 P&D,Xtra-Vision,€1.60,Mon-Sat 07.00-19.00,FALSE,314255.5489,235897.8183,Green
+6164,Hollybank Road,156 P&D,At No. 1,€1.60,Mon-Sun 07.00-24.00,FALSE,316110,236595,Green
+6165,St. Columba's Road Upper,42 P&D / PP,No. 14,€1.60,Mon-Sun 07.00-24.00,FALSE,315700,236349,Green
+6166,Dorset Street Lower,5 P&D + 1DP (Total 6),At lighting pole 16,€3.20,Mon-Sat 07.00-19.00,FALSE,315503,235230,Yellow
+6167,Rathdown Road,130 P&D /DP total,,€2.70,Mon-Fri 07.00-19.00,FALSE,314696,235320,Red
+6168,Grangegorman Lower,60 P&D / DP,Opposite Entrance To St. Brendan's Hospital,€2.70,Mon-Sat 07.00-19.00,FALSE,314683,235198,Red
+6169,Harold Road,48 P&D / PP,At No.33,€1.60,Mon-Fri  07.00-19.00,FALSE,314045,234936,Green
+6170,Benson Street,50 P&D,Opp Fitsimons Business Centre,€2.70,Mon - Fri 08.00 - 18.00,FALSE,317699,234071,Red
+6171,Townsend Street,44P&D + 1 DP(Total),,€3.20,Mon-Sat 07.00-19.00,FALSE,316782.91,234189.91,Yellow
+6172,Herbert Street,82 P&D + 1 DP (Total),No 30,€3.20,Mon-Sat 07.00-19.00,FALSE,316956.3091,233189.0728,Yellow
+6173,Baggot Street Lower,97 P&D + 4 DP (Total),Number 116,€3.20,Mon-Sat 07.00-19.00,FALSE,316632.6045,233260.7958,Yellow
+6179,Synge Street,112 P&D / DP (Total),At church,€3.20,Mon-Sun 07.00-24.00,FALSE,315509.0252,232767.1224,Yellow
+6180,Heytesbury Street,78 P&D / DP (Total),At Number 24,€3.20,Mon-Sun 07.00-24.00,FALSE,315366.35,232963.13,Yellow
+6196,Armstrong Street,14 P&D / DP,At Number 1,€2.70,Mon-Fri 07.00-19.00,FALSE,314920.7392,232320.8183,Red
+6197,Herbert Road,74 P&D / DP,Opposite Lansdowne Square Entrance,€2.70,Mon-Sat 07.00-19.00,FALSE,318397,232890,Red
+6198,Mornington Road,58 P&D / DP,No 20-21,€2.70,Mon-Sun 07.00-24.00,FALSE,316563.2626,231696.8579,Red
+6199,Amiens Street,58 P&D (Total),Near Number 85,€2.70,Mon-Sat 07.00-19.00,FALSE,316762.1486,235167.7023,Red
+6200,Leinster Road,208 P&D / DP (Total),At Number 38,€2.70,Mon-Fri 08.00-18.30,FALSE,315247.2427,231696.2672,Red
+6202,Meath Street,15 P&D + 8 DP (Total),No 15,€2.70,Mon-Sat 07.00-19.00,FALSE,314679.255,233754.5235,Red
+6203,Stanhope Street,11 P&D / DP,Corner of Grangegorman Lwr,€2.70,Mon-Fri 08.00-18.30,FALSE,314586.164,234885.3305,Red
+6204,Grosvenor Square,164 P&D / DP (Total),Opposite Number 48,€2.70,Mon-Fri 08.00-13.00,FALSE,315164.4689,231679.7509,Red
+6205,Grosvenor Square,164 P&D / DP (Total),Outside no.87,€2.70,Mon-Sun 07.00-24.00,FALSE,315084.8639,231738.7104,Red
+6207,Bridgefoot Street,29 P&D / DP (Total),Junction Of Thomas Street,€2.70,Mon-Sat 07.00-19.00,FALSE,314517.1925,233963.2636,Red
+6208,Sir John Rogerson's Quay,14 Spaces,Outside MathesonOrmsby Prentice,€2.70,Mon-Fri 08.00-18.00,FALSE,317605.55,234251.53,Red
+6209,Mount Street Upper,74 P&D + 4 DP (Total),No 47,€3.20,Mon-Sat 07.00-19.00,FALSE,316896.1474,233323.0164,Yellow
+6210,Fitzwilliam Square North,75 P&D + 12 DP (Total),No 66,€3.20,Mon-Fri 07.00-19.00,FALSE,316547.1758,233118.1327,Yellow
+6211,Terenure Road North,7 P&D (Total),At Charity Shop,€1.00,Mon-Sat 07.00-19.00,FALSE,314628.5211,230954.7545,Orange
+6212,Cullenswood Park,57 P&D / DP,Corner of Ranelagh Road,€2.70,Mon-Sat 07.00-24.00,FALSE,316644.3159,231780.0563,Red
+6213,St. Mary's Road South,108 P&D / DP (Total),Number 19,€3.20,Mon-Sat 07.00-19.00,FALSE,317298.1482,232942.0384,Yellow
+6214,Fitzwilliam Square East,61 P&D (Total),No 3,€3.20,Mon-Fri 07.00-19.00,FALSE,316596.7977,233073.5857,Yellow
+6215,King's Inns Street,45 P&D (Total),College Court,€3.20,Mon-Sat 07.00-19.00,FALSE,315388.45,234871.38,Yellow
+6216,Seafort Avenue,6 P&D + 36 DP,Seafort Terrace,€1.00,Mon-Sat 07.00-24.00,FALSE,319006.1868,232917.0563,Orange
+6217,Clonmel Street,9 P&D,Harcourt Creche,€3.20,Mon-Sat 07.00-19.00,FALSE,315759.8995,233140.3357,Yellow
+6218,George's Place,45 P&D,At Temple Street North Junction / Side of Hospital,€0.60,Mon-Fri 09.00 - 12.00,FALSE,315735,235481,Blue
+6219,Loftus Lane,18 P&D (Total),Opp Car Park,€3.20,Mon-Sat 07.00-19.00,FALSE,315345.2016,234750.6439,Yellow
+6220,Island Street,32 P&D,Northside At Bridgefoot Street,€2.70,Mon-Sat 07.00-19.00,FALSE,314523,234156,Red
+6221,Montpelier Hill,12 spaces,,€1.60,Mon-Fri 07.00-19.00,FALSE,313619,234514,Green
+6222,Echlin Street,11 P&D + 20 DP,Opposite Church,€1.60,Mon-Sat 07.00-19.00,FALSE,314043.1444,233879.5749,Green
+6223,Summer St. North,54 P&D & Permit,,€2.70,Mon-Sun 07.00-24.00,FALSE,316467.56,235536.6,Red
+6224,Charlemont Place,13 P&D (Total),ACC Bank,€3.20,Mon-Sat 07.00-19.00,FALSE,316089.17,232596.26,Yellow
+6227,Clontarf Road Car Park,48 Spaces,Alfie Byrne Road/Railway line,€0.60,Mon-Fri  08.00-18.00,FALSE,318285,236227,Blue
+6228,Clontarf Road Car Park,87 Spaces,Centre of car park opposite opp st. Anthony'sChurch Hall,€0.60,Mon-Fri 08-18.00,FALSE,318699,236122,Blue
+6229,Clontarf Road Car Park,66 Spaces,"opp. Vernon Ave, Church Grounds",€0.60,Mon-Fri 11.00-18.00,FALSE,320044,235825,Blue
+6230,Morehampton Road,15 P&D + 44 DP (Total),AIB,€2.70,Mon-Sat 07.00-19.00,FALSE,317276.7243,231909.0632,Red
+6231,Military Road (Rathmines),25 P&D / DP,School,€2.70,Mon-Fri 07.00-24.00,FALSE,315548.5275,232121.1995,Red
+6232,Goldsmith Street,72 P&D / DP,"Opp no 19, junc. with St Vincents St",€3.20,Mon-Sun 07.00-24.00,FALSE,315173.9653,235719.485,Yellow
+6233,Sallymount Avenue,28 P&D / DP,Number 4,€2.70,Mon-Sun 07.00-24.00,FALSE,316537.793,231858.0441,Red
+6234,Bloomfield Avenue (Portobello),85 P&D / DP,Opposite Locks restaurant,€2.70,Mon-Sun 07.00-24.00,FALSE,315207.3654,232440.5872,Red
+6235,Cardiff Lane,44 P&D / DP,At Arena Kitchen Architecture,€2.70,Mon-Sat 07.00-19.00,FALSE,317221,234239,Red
+6236,Sandymount Village,46 P&D / DP (Total),At the Green / No 14,€1.00,Mon-Sat 07.00-19.00,FALSE,318978.582,232726.9676,Orange
+6237,Eccles Street,36 P&D + 16 DP (Total),"publiccar park, opp. No 64 Eccles St",€3.20,Mon-Sat 07.00-19.00,FALSE,315549.2,235574.64,Yellow
+6238,Cambridge Villas,42 P&D / DP,No 5,€2.70,Mon-Sat 07.00-19.00,FALSE,315840.1637,231440.7383,Red
+6239,Gardiner Place,22 P&D + 10 DP (Total),No 36,€3.20,Mon-Sat 07.00-19.00,FALSE,315876.7401,235381.7481,Yellow
+6240,Herbert Park,198 P&D / DP (Total),Near no 78,€2.70,Mon-Fri 08.00-18.30,FALSE,317308.4076,231977.5217,Red
+6241,Carlisle Street,38 PD/PP,Junct. SCRd,€2.70,Mon-Sun  07.00-24.00,FALSE,315215,232730,Red
+6242,Oliver Bond Street,76 P&D / DP (Total),Opposite Car Park,€2.70,Mon-Fri 08.00-18.30,FALSE,314574.2099,233983.8369,Red
+6243,Arnott Street,28 P&D /P P,O/S No. 5,€2.70,Mon-Sat  07.00-19.00,FALSE,315315,232932,Red
+6244,Thorncastle Street,30 P&D / DP,Outside Shops,€1.00,Mon-Sat 07.00-19.00,FALSE,318090.9475,233895.702,Orange
+6245,Temple Street North,34 P&D (Total),Belvedere College Car Park / Across From Machine 308,€3.20,Mon-Sat 07.00-19.00,FALSE,315793,235378,Yellow
+6246,Sandymount Village,46 P&D / DP (Total),At the Green / At Number 17,€1.00,Mon-Sat 07.00-19.00,FALSE,318909,232705,Orange
+6247,Temple Road,160 P&D / DP,Opposite No. 13 / At Junction With Orchard Road South,€1.60,Mon-Sat 07.00-13.00,FALSE,316197,230375,Green
+6249,Inchicore Road,32 P&D,"At New Apartments, opposite Kilmainham Courtrooms",€1.00,Mon-Sun 07.00-24.00,FALSE,312704,233739,Orange
+6250,De Courcy Square,80 P&D / DP + 1DB,opp. No 18 at green area,€1.00,Mon-Sun 07.00-24.00,FALSE,315060.47,236721.91,Orange
+6251,Sir John Rogerson's Quay,42 P&D,,€2.70,Mon-Sat 07.00-19.00,FALSE,317120,234303,Red
+6252,Sir John Rogerson's Quay,102 P&D / DP (Total),At Dublin Docksides,€2.70,Mon-Fri 08.00-18.00,FALSE,317510,234260,Red
+6253,Manor Street,4 P&D + 64 DP (Total),No 30,€2.70,Mon-Sun 07.00-24.00,FALSE,314289.1134,234978.0606,Red
+6254,Tritonville Road,16 P&D / DP,Outside No. 116,€1.00,Mon-Fri  07.00-19.00,FALSE,318511.75,232866.62,Orange
+6255,Harold's Cross Road,58 P&D / DP (Total),At No. 177,€2.70,Mon-Sat 07.00-24.00,FALSE,314738.5492,231693.7499,Red
+6256,Harold's Cross Road,58 P&D / DP (Total),At the fork in the Road,€2.70,Mon-Sat 07.00-24.00,FALSE,314792.1099,232035.683,Red
+6257,Harold's Cross Road,58 P&D / DP (Total),At Number 74,€2.70,Mon-Sat 07.00-24.00,FALSE,314773.7997,232053.5818,Red
+6258,Dargle Road,105 Spaces,O/S No. 1A,€1.60,Mon-Sun 07.00-24.00,FALSE,316054,236459,Green
+6260,Chelmsford Ave,20 Spaces,,€2.70,Mon-Sun 07.00-24.00,FALSE,316523,232035,Red
+6261,Grand Canal Street Upper,48 P&D / DP,Opposite Number 18,€2.70,Mon-Sun 07.00-16.00,TRUE,317536,233394,Red
+6262,Sandymount Road,53 P&D / PP total,at no 67,€1.00,Mon-Sat 07.00-19.00,FALSE,318782.36,232977.45,Orange
+6263,Sandymount Road,53 P&D / PP,at no. 5,€1.00,Mon-Sat 07.00-19.00,FALSE,318665.48,233126.64,Orange
+6264,New Street South,10 P&D,Opposite Number 12,€2.70,Mon-Sat 07.00-19.00,FALSE,315112,233304,Red
+6265,New Row South,29 P&D / DP,Outside no.11,€2.70,Mon-Sun 07.00-24.00,FALSE,315033.3632,233380.1497,Red
+6266,Serpentine Avenue,60 P&D / DP (Total),At Pembroke Wanderer's Hockey Club Entrance,€2.70,Mon-Sun 07.00-24.00,FALSE,318303,232456,Red
+6267,Seán McDermott Street,71 P&D / DP (Total),Jct Gloucester Place Nth.,€2.70,Mon-Sat 07.00-19.00,FALSE,316261.3084,235078.4019,Red
+6268,Temple Street North,34 P&D (Total),Rory O'Connor House,€3.20,Mon-Sat 07.00-19.00,FALSE,315725.5938,235455.2327,Yellow
+6269,Sir John Rogerson's Quay,102 P&D / DP (Total),At No. 43-49,€1.60,Mon-Fri 08.00-18.00,FALSE,317303,234284,Green
+6270,Grosvenor Road,128 P&D / DP (Total),At Number 23,€1.60,Mon-Fri 08.00-18.30,FALSE,315214.4646,231228.9395,Green
+6271,St. Anne's Road North,16 P&D + 16 DP,Off Drumcondra Rd.,€1.60,Mon-Sat 07.00-24.00,FALSE,315969.2631,236139.0827,Green
+6272,Castlewood Park,74 P&D / DP,Corner of Castlewood Ave,€2.70,Mon-Sat 07.00-19.00,FALSE,315752.6235,231623.418,Red
+6274,Richmond Hill,14 P&D / DP,Opposite Military Rd,€2.70,Mon-Sun 07.00-24.00,FALSE,315818.3506,232148.8274,Red
+6275,Arran Quay,4 P & D,mid way on street,€2.70,Mon-Sat 07.00-19.00,FALSE,314673.96,234289.55,Red
+6276,Eglinton Road,80 P&D / DP (Total),At Number 30,€2.70,Mon-Sat 07.00-19.00,FALSE,317479,231213,Red
+6277,Leo Street,38 P&D / DP,Corner of Josephine St,€3.20,Mon-Sun 07.00-24.00,FALSE,315610,235684,Yellow
+6278,Main Street Ballymum,17 P/D + 1 disabled bay,outside DCC  civic centre,€1.00,Mon-Sat 10.00-16.00,TRUE,315536.05,239677.92,Orange
+6279,St. John's Road East,63 P&D / DP,Opposite Strand House / Junction Of Strand Mews,€1.00,Mon-Sun 07.00-24.00,FALSE,319462,231992,Orange
+6280,Ardee Road,26 P&D / DP,Junction with Williams Park,€2.70,Mon-Sun.07.00-24.00,FALSE,315526.38,231945.91,Red
+6281,Herbert Avenue,15 P&D / DP,Opposite Number 4,€1.00,Mon-Sun 07.00-24.00,FALSE,319420,231084,Orange
+6282,Leeson Park,104 P&D / DP (Total),Corner Of Winton Road,€2.70,Mon-Fri 08.00-18.30,FALSE,316538.6669,232292.6152,Red
+6283,Eccles Street,36 P&D + 16 DP (Total),Opp. Mater Hospital,€3.20,Mon-Sat 07.00-19.00,FALSE,315584.67,235542.14,Yellow
+6284,Malahide Road,16 P&D,At Number 8,€1.00,Mon-Sat 10.00-19.00,TRUE,317940,236454,Orange
+6285,Wellington Street Lower,22 P&D / DP,Opposite No. 3,€3.20,Mon-Sun 07.00-24.00,FALSE,315494,235308,Yellow
+6286,Sandymount Road,12 P&D / PP,O/s Church at Leahy's Terrace,€1.00,Mon-Fri 07.00-19.00,FALSE,318617,233184,Orange
+6287,Lombard Street West,106 P&D / PP,opp. No.38,€2.70,Mon-Sun  07.00-24.00,FALSE,315029.4,232893.88,Red
+6288,St. Kevin's Parade,110 P&D,No 27,€2.70,Mon-Sun 07.00-24.00,FALSE,315106.3826,232904.8284,Red
+6289,Royal Canal Bank,58 P&D / DP,At Number 1,€1.60,Mon-Sun 07.00-24.00,FALSE,315146,235932,Green
+6290,Belv1idere Road,15 P&D / DP,Number 12,€1.60,Mon-Sun 07.00-24.00,FALSE,315927.7663,235820.6549,Green
+6291,Hill Street,39 P&D / DP,Corner of Grenville St at flats,€3.20,Mon-Sat 07.00-19.00,FALSE,315924.6662,235259.6142,Yellow
+6293,Sandymount Village,46 P&D / DP (Total),At Seafort Avenue,€1.00,Mon-Sat 07.00-24.00,FALSE,318945.6485,232844.8121,Orange
+6294,North Circular Road,11 P&D / PP,511 NCRd.,€2.70,Mon-Sat 07.00-24.00,FALSE,315868.44,235771.11,Red
+6295,Nutley Lane,46 P&D / DP (Total),Opposite Cul-de-sac,€1.60,Mon-Sat 07.00-19.00,FALSE,318801.4363,230994.8526,Green
+6296,Serpentine Avenue,60 P&D / DP (Total),Opposite no 15,€2.70,Mon-Fri 07.00-19.00,FALSE,318241.7086,232377.0136,Red
+6297,Sherrard Street,31 P&D / DP,Opposite Number 3,€2.70,Mon-Fri 08.00-18.30,FALSE,315899.0176,235656.8127,Red
+6298,Herbert Park,198 P&D / DP (Total),At Park,€2.70,Mon-Fri 08.00-18.30,FALSE,317717.5426,232347.5093,Red
+6299,Herbert Park,198 P&D / PP,,€2.70,Mon-Fri 08.00-18.30,FALSE,317595.11,232212.72,Red
+6300,Loftus Lane,18 P&D (Total),Opp Car Park,€3.20,Mon-Sat 07.00-19.00,FALSE,315390.2184,234798.9941,Yellow
+6301,Castle Street,14 P&D+2 disabled,Off Werburgh Street,€3.20,Mon-Sat 07.00-19.00,FALSE,315304.5909,233930.7622,Yellow
+6302,John Dillon Street,66 P&D / DP (Total),Iveagh Market,€3.20,Mon-Fri 08.00-18.30,FALSE,315013.6125,233801.1897,Yellow
+6303,Bride Road,18 P&D,Iveagh Baths,€3.20,Mon-Sat 07.00-19.00,FALSE,315185.5061,233735.5601,Yellow
+6304,Adelaide Road,71 P&D + 14 DP (Total),No 25-28,€3.20,Mon-Sat 07.00-19.00,FALSE,316240.7657,232733.9062,Yellow
+6305,Pembroke Street Lower,28 P&D + 4 DP (Total),Number 2-3,€3.20,Mon-Sat 07.00-19.00,FALSE,316495.6387,233279.6616,Yellow
+6306,Pembroke Street Upper,12 P&D + 13 DP,Pier 32 Bar & Restaurant,€3.20,Mon-Sat 07.00-19.00,FALSE,316332.9764,233006.5966,Yellow
+6307,Fitzwilliam Place,94 P&D + 7 DP (Total),No 1,€3.20,Mon-Sat 07.00-19.00,FALSE,316539.7364,232969.915,Yellow
+6308,Fenian Street,38 P&D + 9 DP (Total),Opposite IIB Bank,€3.20,Mon-Sat 07.00-19.00,FALSE,316869.8199,233746.324,Yellow
+6309,Blessington Street,49 P&D / DP (Total),Number 68,€3.20,Mon-Sat 07.00-24.00,FALSE,315438.3661,235399.4628,Yellow
+6310,Carlingford Road,117  + 3 disabled,Jct Glenarm Avenue,€1.60,Mon-Sun 07.00-24.00,FALSE,316054,236522,Green
+6311,Denmark Street Great,30 P&D (Total),No 18,€3.20,Mon-Sat 07.00-19.00,FALSE,315812.9648,235311.4153,Yellow
+6312,Frederick Street North,23 P&D (Total),No 28,€3.20,Mon-Sat 07.00-19.00,FALSE,315602.6824,235281.7058,Yellow
+6313,Henrietta Street,34 P&D,Opposite King's Inns Pub,€3.20,Mon-Sat 07.00-19.00,FALSE,315294.3317,234923.8299,Yellow
+6314,Britain Street Little,4 P&D + 6 DP,Russell Court Appartments,€3.20,Mon-Sat 07.00-19.00,FALSE,315258.1636,234605.8122,Yellow
+6315,Green Street,25 P&D,,€3.20,Mon-Sat 07.00-19.00,FALSE,315222.83,234651.42,Yellow
+6316,Arran Street East,5 P&D + 12 DP,Opposite Number 3,€3.20,Mon-Sun 07.00-24.00,FALSE,315260.8528,234264.4283,Yellow
+6317,Merchant's Quay,38 P&D (Total),"Liffeyside, Opposite meter 369",€3.20,Mon-Sat 07.00-19.00,FALSE,315011.2355,234133.7328,Yellow
+6318,Hatch Street Upper,57 P&D (Total),UCD,€3.20,Mon-Sat 07.00-19.00,FALSE,315984.1656,232910.5168,Yellow
+6319,Hatch Street Upper,57 P&D (Total),Styne House,€3.20,Mon-Sat 07.00-19.00,FALSE,315847.1633,232920.9557,Yellow
+6320,Charlemont Street,27 P&D + 3 DP (Total),No 64,€3.20,Mon-Sat 07.00-19.00,FALSE,315900.5342,232600.0092,Yellow
+6321,Leeson Lane,12 P&D,Opposite Number 4 / At Entrance To TSB,€3.20,Mon-Sat 07.00-19.00,FALSE,316226,233153,Yellow
+6322,Burlington Road,144 P&D / DP (Total),Ark Life Assurance,€3.20,Mon-Fri 08.00-18.30,FALSE,316927.1994,232673.4434,Yellow
+6323,Hogan Place,12 P&D / DP,Junction Of Harmony Row,€3.20,Mon-Fri 08.00-18.30,FALSE,316968.5498,233715.7549,Yellow
+6324,Mount Street Lower,38 P&D + 1 DP (Total),American College Dublin,€3.20,Mon-Sat 07.00-19.00,FALSE,317026.8038,233457.4579,Yellow
+6325,Townsend Street,27 P&D + 1 DP (Total),at flats,€3.20,Mon-Sat 07.00-19.00,FALSE,316616.0116,234214.0017,Yellow
+6326,Burlington Road,144 P&D / DP (Total),Annabel's Club split DP,€3.20,Mon-Fri  08.00-18.30,FALSE,316800.0795,232517.1044,Yellow
+6327,Burlington Road,144 P&D / DP (Total),East of Southside Mespil Road,€3.20,Mon-Fri 08.00-18.30,FALSE,316865.0211,232752.843,Yellow
+6328,Elgin Road,112 P&D / DP (Total),The church,€3.20,Mon-Fri 08.00-18.30,FALSE,317590.2608,232518.8333,Yellow
+6329,Estate Cottages (Ballsbridge),9 P&D / DP,Junction Of Shelbourne Road / Outside Number 2,€3.20,Mon-Sun 07.00-24.00,FALSE,317858,232562,Yellow
+6330,Eastmoreland Place,26 P&D / DP,Opposite AIB Bank / Junction Of Baggot Street,€3.20,Mon-Fri 08.00-18.30,FALSE,317140,232833,Yellow
+6331,Fitzwilliam Place,94 P&D + 7 DP (Total),No 37,€3.20,Mon-Sat 07.00-19.00,FALSE,316464.65,232875.65,Yellow
+6332,Fitzwilliam Street Upper,86 P&D + 7 DP (Total),No 36,€3.20,Mon-Fri 07.00-19.00,FALSE,316661.0807,233187.4906,Yellow
+6333,Baggot Street Lower,97 P&D + 4 DP (Total),Francis Bacon House,€3.20,Mon-Sat 07.00-19.00,FALSE,316833.0659,233110.2383,Yellow
+6334,Fitzwilliam Square North,75 P&D + 12 DP (Total),No 57,€3.20,Mon-Fri 07.00-19.00,FALSE,316493.216,233149.8779,Yellow
+6335,Fitzwilliam Square North,75 P&D + 12 DP (Total),The Park,€3.20,Mon-Sat 07.00-19.00,FALSE,316509.203,233120.6971,Yellow
+6336,Fitzwilliam Square West,24 P/D (Total),,€3.20,Mon-Sat 07.00-19.00,FALSE,316386,233075,Yellow
+6337,Earlsfort Terrace,60 P&D / DP(Total),Concert Hall,€3.20,Mon-Sat 07.00-19.00,FALSE,316079.7646,233002.8366,Yellow
+6338,Grand Canal Street Lower,29 P&D / DP (Total),Junction Of Grattan St / Opposite Number 8,€3.20,Mon-Fri 08.00-18.30,FALSE,317075.6547,233629.4098,Yellow
+6339,Erne Street Upper,30 P&D / DP,Lighting Show room,€3.20,Mon-Sat 07.00-19.00,FALSE,316946.4521,233846.9498,Yellow
+6340,Boyne Street,52 P&D / DP,Corner of Sandwith Street,€3.20,Mon-Sat 07.00 -19.00,FALSE,316845.8395,233843.9876,Yellow
+6341,Shaw Street,10 P&D,At Railway Bridge,€3.20,Mon-Sat 07.00-19.00,FALSE,316459.3396,234196.6893,Yellow
+6342,Castle Street,13 PD,O/s No. 29.,€3.20,Mon-Sat 07.00-19.00,FALSE,315419,233982,Yellow
+6343,James Joyce Street,8 P&D,At Bank Of Ireland,€2.70,Mon-Sat 07.00-19.00,FALSE,316358.1641,234853.4089,Red
+6344,Ballsbridge Terrace,9 P&D / DP,At Number 33,€2.70,Mon-Sun 07.00-24.00,FALSE,317836,232363,Red
+6345,Camden Row,23 P&D / DP,"DIT, No. 25",€3.20,Mon-Sun 07.00-24.00,FALSE,315449.2275,233158.9832,Yellow
+6346,Bishop Street,23 P&D,At Flats,€3.20,Mon-Sat 07.00-19.00,FALSE,315392.4741,233381.1772,Yellow
+6347,Golden Lane,30 P&D + 8 DP (Total),At flats,€3.20,Mon-Sat 07.00-19.00,FALSE,315394.2741,233634.5451,Yellow
+6348,Francis Street,43 P&D + 26 DP (Total),No 32,€3.20,Mon-Sat 07.00-19.00,FALSE,314948.4759,233746.1276,Yellow
+6349,Cumberland Street North,21 P&D,Opposite Hill Street,€3.20,Mon-Fri 07.00-19.00 & Sat 14.00-17.00,FALSE,316042.7598,235076.5435,Yellow
+6350,Chancery Place,13 P&D,At flats opp Four Courts,€3.20,Mon-Sat 07.00-19.00,FALSE,315113.5903,234246.7681,Yellow
+6351,Synnott Place,24 P&D / DP,Corner of Dorset St,€3.20,Mon-Fri 08.00-18.30,FALSE,315733.3144,235700.6229,Yellow
+6352,Mountjoy Square North,12 P&D / DP,"No 7-8, north side, east of Gardiner St Upr",€3.20,Mon-Sat 07.00-19.00,FALSE,316017.9854,235504.1194,Yellow
+6353,Mountjoy Square East,35 P&D / DP (Total),Opposite No. 26,€2.70,Mon-Sat 07.00-19.00,FALSE,316143.8359,235474.7825,Red
+6354,Ashfield Avenue,32 P&D / DP,Corner of Ashfield Road,€2.70,Mon-Sun 07.00-24.00,FALSE,316477.8209,231753.4185,Red
+6355,Pleasants Street,13 P&D + 19 DP (Total),replaced meter 7066 26/7/2014,€3.20,Mon-Sun 07.00-24.00,FALSE,315392.4521,233025.8325,Yellow
+6356,Pembroke Road,103 P&D / DP (Total),Number 18,€3.20,Mon-Sat 07.00-19.00,FALSE,317197,232805,Yellow
+6357,Merrion Square East,49 P&D (Total),No 47,€3.20,Mon-Sat 07.00-19.00,FALSE,316803.4406,233441.7475,Yellow
+6358,Anglesea Road,105 P&D / DP (Total),Near Public Light Number 9,€2.70,Mon-Sat 07.00-19.00,FALSE,317916.5022,232119.2588,Red
+6359,Barrow Street,85 P&D / DP (Total),South of Eastside Gordon Street,€2.70,Mon-Sat 07.00-24.00,FALSE,317526.8999,233686.4509,Red
+6360,Barrow Street,85 P&D DP (Total),Corner of Grand Canal Street,€2.70,Mon-Fri 08.00-18.30,FALSE,317485.9935,233430.6092,Red
+6361,Berkeley Road,44 P&D / DP (Total),At St. Joseph's Church,€3.20,Mon-Sat 10.00-19.00,TRUE,315316,235561,yellow
+6362,Commons Street,45 P&D / DP (Total),At Entrance To Car Park,€2.70,Mon-Fri 10.00-19.00 Sat. 07.00-19.00,TRUE,316850.22,234675.44,Red
+6363,Creighton Street,34 P&D / DP,Number 13,€2.70,Mon-Sat 07.00-24.00,FALSE,316834.3863,234293.4411,Red
+6364,Donnybrook Road,63 P&D + 51 DP (Total),Ulster Bank,€2.70,Mon-Sat 07.00-19.00,FALSE,317472.7835,231664.3617,Red
+6365,Eglinton Terrace,42 P&D / DP,Junction of Donnybrook Road,€2.70,Mon-Sun 07.00-24.00,FALSE,317680,231540,Red
+6366,Gardiner Place,22 P&D + 10 DP (Total),outside no.13,€3.20,Mon-Sat 07.00-19.00,FALSE,315907.02,235408.25,Yellow
+6367,Gardiner Place,22 P&D + 10 DP (Total),"No 25, south side, east of Grenville Lane",€3.20,Mon-Sat 07.00-19.00,FALSE,315917.2727,235395.5168,Yellow
+6368,Grattan Street,29 P&D / DP,Off Mount Street Lower,€3.20,Mon-Sat 07.00-19.00,FALSE,316997.3563,233521.4539,Yellow
+6369,Haddington Road,145 P&D / DP (Total),The Hibernian,€3.20,Mon-Sat 07.00-19.00,FALSE,317116.3514,233038.8146,Yellow
+6370,Hanbury Lane,21 P&D / DP,The Coombe,€2.70,Mon-Sat 07.00-19.00,FALSE,314505.5807,233788.5517,Red
+6372,Haymarket,45 P&D /DP,Opposite Burgess Lane,€2.70,Mon-Sat 07.00-19.00,FALSE,314637,234413,Red
+6374,Hume Street,42 P&D + 9 DP (Total),No 2/3,€3.20,Mon-Sat 07.00-19.00,FALSE,316270.6503,233358.7387,Yellow
+6378,King's Inns Street,45 P&D (Total),At College,€3.20,Mon-Sat 07.00-19.00,FALSE,315382.4179,234861.496,Yellow
+6379,Mark Street,25 P&D,Opp no 12,€3.20,Mon-Sat 07.00-19.00,FALSE,316515.8352,234199.4848,Yellow
+6380,Merrion Square East,59 P&D (Total),Opp no 47,€3.20,Mon-Sat 07.00-19.00,FALSE,316779.6608,233437.314,Yellow
+6381,Merrion Square North,35 P&D (Total),Opp no 22,€3.20,Mon-Sat 07.00-19.00,FALSE,316707.01,233629.74,Yellow
+6382,Merrion Square West,65 P&D (Total),Opp Leinster House,€3.20,Mon-Sat 07.00-19.00,FALSE,316544.0709,233662.0238,Yellow
+6383,Merrion Square West,65 P&D (Total),No 88,€3.20,Mon-Sat 07.00-19.00,FALSE,316520.2136,233670.7559,Yellow
+6384,Merrion Street Upper,20 P&D,Opp no 80,€3.20,Mon-Sat 07.00-19.00,FALSE,316511,233605,Yellow
+6385,Mount Eden Road,81 P&D / DP,Opp No. 1,€2.70,Mon-Sat 07.00-19.00,FALSE,317340.913,231752.1681,Red
+6386,North Great Georges Street,81 P&D / DP,Number 46,€3.20,Mon-Sun 07.00-24.00,FALSE,315824.4952,235246.6188,Yellow
+6387,Nutley Lane,46 P&D / DP (Total),At St. Vincent's Hospital,€1.60,Mon-Sat 07.00-19.00,FALSE,318879.59,231071.63,Green
+6388,Oliver Bond Street,76 P&D / DP (Total),Good Counsel Centre,€2.70,Mon-Fri  08.00-18.30,FALSE,314815.7991,234007.6431,Red
+6389,St. Mary's Road South,108 P&D / DP (Total),Junction Of Northumberland Road,€3.20,Mon-Sat 07.00-19.00,FALSE,317477.0752,233019.4672,Yellow
+6390,Shelbourne Road,16 P&D + 34,opposite meter 290,€3.20,Mon-Sat 07.00-19.00,FALSE,317857.12,232731.29,Yellow
+6391,Smithfield North (North King St End),45 P&D / DP (Total),Opposite The Cobblestone Pub,€2.70,Mon-Sat 07.00-19.00,FALSE,314729.11,234621.76,Red
+6392,St. Joseph's Street,21 P&D,replaced 7314-31/7/2014,€3.20,Mon-Sun 07.00-24.00,FALSE,315620,235742,Yellow
+6393,Sussex Road,9 P&D + 45 DP (Total),At the flats,€3.20,Mon-Sat 07.00-19.00,FALSE,316551.4731,232610.9584,Yellow
+6394,Synge Street,112 P&D / DP (Total),At Grantham Street / No 50,€3.20,Mon-Sun 07.00-24.00,FALSE,315504.3837,232926.741,Yellow
+6395,Temple Street North,34 P&D (Total),Opp Belveder College Car Park,€3.20,Mon-Sat 07.00-19.00,FALSE,315805.1119,235390.7209,Yellow
+6396,Wilton Place,12 P&D + 60 DP (Total),Opp Number 6,€3.20,Mon-Sat 07.00-19.00,FALSE,316755,232938,Yellow
+6397,Wolfe Tone Street,16 P&D + 14 DP (Total),New Apartments,€3.20,Mon-Sun 07.00-24.00,FALSE,315416.3007,234617.9421,Yellow
+6398,Peter Row,14 P&D,At Light-Stand 2,€3.20,Mon-Sat 07.00-19.00,FALSE,315500.0554,233468.6521,Yellow
+6399,Percy Place,121 P&D / DP (Total),Opp no 3,€3.20,Mon-Sat 07.00-19.00,FALSE,317245.764,233296.7051,Yellow
+7954,Richmond Cottages,50 P+D/DP,back in service 13/01/2017,€1.60,Mon-Sun 07.00-24.00,FALSE,316570,235591,Green
+9004,Pearse Street,90spaces in total,Opposite Machine #839,€2.70,Mon-Sat 07.00-19.00,FALSE,317257,233896,Red
+9012,The Crescent (Marino),31 P&D / DP,Opposite No. 11,€1.00,Mon-Sat 07.00-24.00,FALSE,317992.7003,236421.6473,Orange
+9023,Ballymun Main Street,,,€0.60,Mon-Fri 07.00-19.00,FALSE,315494.27,239746.73,Blue
+9032,Simmonscourt Road,72 P&D / DP (Total),Entrance to RDS showgrounds,€2.70,Mon-Fri 08.00-18.30,FALSE,318062,231941,Red
+9033,Glenarm Avenue,34 P&D / DP,Opposite Jct Hollybank Road,€1.60,Mon-Sun 07.00-24.00,FALSE,316078,236581,Green
+9041,Donnybrook Road,63 P&D + 51 DP (Total),First Active,€2.70,Mon-Sat 07.00-19.00,FALSE,317524.4735,231659.3915,Red
+9042,Donnybrook Road,63 P&D + 51 DP (Total),Near Shell Station at Brookvale Rd,€2.70,Mon-Sat 07.00-19.00,FALSE,317701.0636,231488.1665,Red
+9045,Silogue Road,41 P&D total/ 26nose to kerb - 15 parallel,Supervalue,€1.00,Mon - Sat 07.00 - 19.00,FALSE,315410.37,239726.38,Orange
+9056,Leinster Square,50 P&D,Across from number 7,€2.70,Mon-Sun 07.00-24.00,FALSE,315561,231735,Red
+9070,Rathdown Road,130 P&D/DP total,,€2.70,Mon-Fri 07.00-19.00,FALSE,314539,235641,Red
+9071,Greenmount Lane,11 P&D / DP,At Number 18,€1.60,Mon-Sat 07.00-24.00,FALSE,314748.4574,232286.6166,Green
+9076,Hatch Street Upper,57 P&D (Total),Near College of Music,€3.20,Mon-Sat 07.00-19.00,FALSE,,,Yellow
+9086,Victoria Quay,10 P&D,West Of Watling Street Bridge,€1.60,Mon-Sat 07.00-19.00,FALSE,314235.61,234276.63,Green
+9088,South Circular Road,10 P&D / DP (Total),At Number 599,€1.60,Mon-Sat 07.00-19.00,FALSE,312847,233423,Green
+9093,St. Mary's Place North,14 P&D (Total),At Christian Brothers' School,€3.20,Mon-Sat 07.00-19.00,FALSE,315423.7486,235175.9939,Yellow
+9097,Marlborough Street,26 P&D (Total),Opp Car Park- At college,€3.20,,FALSE,315983.6377,234894.3615,Yellow
+9099,Marlborough Place,13 P&D,"Parking suspended, Taxi's only",€3.20,Mon-Sat 07.00-19.00,FALSE,,,Yellow
+9101,Anglesea Road,105 P&D / DP (Total),North of W'side Ailesbury Drive,€2.70,Mon-Sat 07.00-19.00,FALSE,317941.1413,231547.0652,Red
+9107,Cork Street,76 P&D / DP (Total),Opposite Coombe Hospital,€1.60,Mon-Sat 07.00-19.00,FALSE,313972.1375,232989.3805,Green
+9108,Cork Street,76 P&D / DP (Total),At Morrisey's Pub,€1.60,Mon-Sat 07.00-19.00,FALSE,314121.4265,233189.0698,Green
+9110,Simmonscourt Road,72 P&D / DP (Total),Near Entrance To RDS Showgrounds,€2.70,Mon-Fri 08.00-18.30,FALSE,318192.0019,232037.0941,Red
+9112,Elm Park Terrace,8 P&D / DP,Mayfield Road,€1.00,Mon-Sat 07.00-24.00,FALSE,314474.36,230327.8148,Orange
+9114,Sandymount Village,46 P&D / DP (Total),At the Green / Takeaway,€1.00,Mon-Sat 07.00-19.00,FALSE,318975.6119,232779.0323,Orange
+9116,Crawford Avenue,54 P&D / DP,at junct with Iona Rd grounds of Church,€1.60,Mon-Sun 07.00-24.00,FALSE,315668.09,236443.73,Green
+9119,Martins Row,10,At Pharmacy,€1.00,Mon-Sat 07.00-19.00,FALSE,310290,234482,Orange
+9121,Grosvenor Place,89 P&D / DP (Total),Opposite Number 31,€2.70,Mon-Fri 08.00-18.30,FALSE,315134.8931,231536.5772,Red
+9123,Strand Road(North Car Park),41 P&D 4 Disabled Bays,,€0.60,Mon-Fri  11.00-17.00,FALSE,319394.6,232372.57,Blue
+9124,Innisfallen Parade,102 P&D / DP,Corner of Killarney Parade,€1.60,Mon-Sun 07.00-24.00,FALSE,315553.6094,235950.6324,Green
+9126,Kenilworth Park,118 P&D/PP,,€1.60,Mon-Sun 07.00-24.00,FALSE,314430.49,231481.69,Green
+9128,Grattan Crescent,23 P&D (Total),At the park entrance,€1.00,Mon-Sat 10.00-16.00,TRUE,311943,233559,Orange
+9129,Finglas Road,34 P/D,Opposite Cemetry,€1.00,Mon-Sat 07.00-19.00,FALSE,314694.63,236845.9,Orange
+9132,Kenilworth Park,118 P&D / PP,O/s No. 14,€1.60,Mon-Sun 07.00-24.00,FALSE,314646,231201,Green
+9138,Crawford Avenue,54 P/D & PP,Opp. No. 28,€1.60,Mon-Fri 07.00-19.00,FALSE,315709,236579,Green
+9149,Jervis Street,12 P&D (Total),Wolfe Tone Park opp Jervis Centre,€3.20,Mon-Fri 07.00-19.00 Sun 14.00-18.00,FALSE,315500.024,234478.4021,Yellow
+9151,Orwell Mews,26 P&D / DP,At Tennis Court updated 4/12/2014,€1.00,Mon-Fri 07.00-19.00,FALSE,315050,230284,Orange
+9152,Dunville Avenue,8 P&D + 34 DP,Near shops & Beechwood Avenue,€2.70,Mon-Sat 07.00-19.00,FALSE,316223,231476,Red
+9158,Ailesbury Road,169 P&D / DP (Total),At St. Anne's,€1.60,Mon-Fri 07.00-19.00,FALSE,317995.2526,231349.5122,Green
+9160,Sandymount Village,46 P&D / DP (Total),At Sandymount Road / No 85 / Xtra Vision,€1.00,Mon-Sat 07.00-19.00,FALSE,318862.25,232886.72,Orange
+9167,Lombard Street East,25 P&D + 18 DP (Total),Junction Of Quays,€2.70,Mon-Sat 07.00-19.00,FALSE,316723.3168,234318.1003,Red
+9170,Erne Street Lower,42 P&D / DP,At Worldcom,€2.70,Mon-Sat 07.00-19.00,FALSE,316986.7953,234036.1437,Red
+9171,Foley Street,14 P&D,At Five-Lamps,€2.70,Mon-Sat 07.00-19.00,FALSE,316630.8078,235022.4853,Red
+9172,Gardiner Street Upper,9 P&D,Near the church,€3.20,Mon-Sat 07.00-19.00,FALSE,315883.8566,235586.1128,Yellow
+9174,Church Ave (Drumcondra),58 P&D/DP,,€1.00,Mon -Sat 07.00-19.00,FALSE,316424.17,237043.36,Orange
+9175,Catherine Street,12 P&D / DP,Off Swift's Alley,€2.70,Mon-Fri 08.00-18.30,FALSE,314787.7399,233686.5071,Red
+9179,Seán McDermott Street,71 P&D / DP (Total),Opposite Rutland Street Lower,€2.70,Mon-Sat 07.00-19.00,FALSE,316472.1944,235140.4085,Red
+9182,Thomas Street,17 P&D (Total),At Vicar Street,€2.70,Mon-Sat 10.00-16.00,TRUE,314767.7491,233853.3778,Red
+9189,Church Avenue (Rathmines),29 P&D / DP,Near corner of Rathmines Rd Upr,€2.70,Mon-Sat 07.00-19.00,FALSE,315717.1699,231368.6468,Red
+9191,Charleville Road (Rathmines),88 P&D / DP,At apartments / Junction of Wynnefield Rd,€2.70,Mon-Fri 08.00-18.30,FALSE,315482,231563,Red
+9194,Sandymount Village,46 P&D / DP (Total),At Sandymount Road / Post office,€1.00,Mon-Sat 07..00-19.00,FALSE,318885.46,232879.14,Orange
+9197,Wynnefield Road,12 P&D / PP,Outside Toilets,€2.70,Mon-Sat07.00-19.00,FALSE,315519,231576,Red
+9199,Mount Joy Street,58 P&D / PP,,€3.20,Mon-Sun 07.00-24.00,FALSE,315294,235175,Yellow
+9203,New Church Street,9 P&D on north side,changed 31/10/2014,€2.70,Mon-Sat 07.00-19.00,FALSE,314762.94,234419.64,Red
+9206,Earl Street South,6 P&D + 20 DP,East of Marrowbone Lane,€2.70,Mon-Sat 07.00-24.00,FALSE,314551.4185,233706.5211,Red
+9208,Bath Avenue,77 P&D / DP (Total),Opposite Number 83,€2.70,Mon-Fri 08.00-18.30,FALSE,318037.0243,233358.1655,Red
+9210,Rathmines Road Upper,70 Spaces,Opposite no 183,€1.60,Mon-Sat 07.00-19.00,FALSE,315700,230819,Green
+9211,Infirmary Road,33 P&D + 15 DP (Total),At Number 20,€1.60,Mon-Sat 07.00-19.00,FALSE,313476,234721,Green
+9212,Kelly's Row,16 P&D / DP,At Flats,€3.20,Mon-Sat 08.30-19.00,FALSE,315758.3131,235592.8622,Yellow
+9213,Connaught Street,62 P&D / DP (Total),Number 29,€1.60,Mon-Fri 08.00-18.30,FALSE,314913.2166,236091.738,Green
+9216,Woodstock Gardens,18 P&D / DP,Corner of Ranelagh Rd,€2.70,Mon-Sun 07.00-24.00,FALSE,316705.0154,231730.3931,Red
+9218,Belgrave Square East,18 P&D / DP,Opposite Park,€2.70,Mon-Fri 08.00-18.30,FALSE,316019.5054,231626.3329,Red
+9219,Mountain View Road,95 P&D / DP (Total),Top of Anna Villa Rd,€1.60,Mon-Sat 07.00-19.00,FALSE,316545.9163,231469.7988,Green
+9220,Woodville Road,13 P&D+Permit,at side of no.203 Botanic Ave,€1.60,Mon-Sun 07.00-24.00,FALSE,315929,236749,Orange
+9221,David Road,28 P/D & PP,Whitworth Road junction,€1.60,Mon-Sun 07.00-24.00,FALSE,315320,236238,Green
+9222,Brunswick Street North,24 P&D / DP (Total),At Boys' School,€2.70,Mon-Sat 07.00-19.00,FALSE,314652.8977,234717.0463,Red
+9223,Winton Road,62 P&D / DP (Total),At Entrance To Tennis Club,€2.70,Mon-Fri 08.00-18.30,FALSE,316623,232275,Red
+9230,Rosemount Road,32 P&D / DP,At NCR Junction / At Side Of Number 284,€2.70,Mon-Fri 08.00-18.30,FALSE,314635,235720,Red
+9258,Castleforbes Road,48 PD,Junction Mayor Street Upper,€2.70,Mon-Fri 07.00-19.00,FALSE,317795,234563,Red
+9268,Clontarf Road,29 P&D / DP (Total),Near Hollybrook Road,€1.00,Mon-Sat 07.00-16.00,TRUE,318667.0534,236171.5758,Orange
+9276,Brendan Road,66 P&D / DP,At Number 1,€2.70,Mon-Fri 08.00-18.30,FALSE,317412.8354,231839.2941,Red
+9290,Stamer Street,38 P&D / DP (Total),Junction Of Harrington Street,€2.70,Mon-Sat 07.00-19.00,FALSE,315421.05,232715.7334,Red
+9298,South Lotts Road,63 P&D / DP (Total),Opp no 33,€2.70,Mon-Sat 07.00-24.00,FALSE,317736.8871,233466.9729,Red
+9302,Gray Street,34 P&D / DP,At Reginald Street Grotto,€2.70,Mon-Sun 07.00-24.00,FALSE,314664,233576,Red
+9326,O'Connell Avenue,35 P&D / DP,Opposite Number 29,€3.20,Mon-Sat 07.00-19.00,FALSE,315242.3941,235619.8264,Yellow
+9328,Geraldine Street,66 P&D / DP,Opp church on Berkeley Street,€3.20,Mon-Fri 08.00-18.30,FALSE,315281.5765,235569.4671,Yellow
+9329,Hendrick Lane,6 P&D / DP,Eastside; middle of the lane,€2.70,Mon-Fri 08.00-18.30,FALSE,314487,234392,Red
+9330,Parkgate Street,13 P&D + 3 DP (Total),At Nancy's Pub,€1.00,Mon-Sat 07.00-19.00,FALSE,313657,234432,Orange
+9331,Fontenoy Street,77 P&D/DP updated 5/12/2014,Off Dorset Street near Black Church,€3.20,Mon-Sun 07.00-24.00,FALSE,315338.9826,235283.014,Yellow
+9332,St. Joseph's Parade,16 P&D / DP,Off Dorset Street Lower,€3.20,Mon-Sat 07.00-24.00,FALSE,315490,235499,Yellow
+9333,Carman's Hall,14 P&D + 14 DP (Total),Off Meath St,€2.70,Mon-Sat 07.00-19.00,FALSE,314832.7719,233627.7972,Red
+9349,John Street West,8 P&D + 9 DP,Junction of Thomas Street,€2.70,Mon-Sat 07.00-19.00,FALSE,314799,233889,Red
