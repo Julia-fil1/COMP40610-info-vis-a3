@@ -1,0 +1,345 @@
+latitude,longitude,altitude,geometry,Meter_Number,Identifier,Location,Area_Ref,Number_of_Paid_Parking_Spaces_,Hours_of_operation,Days_of_operation,Hourly_Tarrif,Restrictions
+53.257303593020445,-6.113304352682142,0,Point,325,M325,Killiney Dart Station Car Park,Killiney,52,0800 - 1900,Monday to Saturday,1,
+53.25652466872867,-6.113286687990372,0,Point,326,M326,Killiney Dart Station Car Park,Killiney,36,0800 - 1900,Monday to Saturday,1,
+53.25585547666982,-6.113148168249332,0,Point,730,M730,Station Road,Killiney,17,0800 - 1900,Monday to Saturday,1,
+53.24732130506838,-6.146266854337264,0,Point,781,M781,Valley Drive,Cherrywood,84,0800 - 1900,Monday to Saturday,1,
+53.24585523693611,-6.143430101320742,0,Point,780,M780,Valley Drive,Cherrywood,22,0800 - 1900,Monday to Saturday,1,
+53.241227093104925,-6.144335648259644,0,Point,782,M782,Cherrywood Park,Cherrywood,56,0800 - 1900,Monday to Saturday,1,
+53.241608612821466,-6.146258761785267,0,Point,783,M783,Cherrywood Park,Cherrywood,48,0800 - 1900,Monday to Saturday,1,
+53.266878911046675,-6.184568434377772,0,Point,63,M63,Westminster Court,Foxrock,4,0800 - 1900,Monday to Saturday,1,
+53.26664573839531,-6.183832243446708,0,Point,690,M690,Brighton Road,Foxrock,14,0800 - 1900,Monday to Saturday,1.5,
+53.28745083936753,-6.247722361000814,0,Point,279,M279,Ailesbury Grove,Ailesbury,8,0800 - 1900,Monday to Saturday,1,
+53.28646745799516,-6.249147863004683,0,Point,280,M280,Ailesbury Lawn,Ailesbury,23,0800 - 1900,Monday to Saturday,1,
+53.2851932775388,-6.248130264164329,0,Point,281,M281,Ailesbury Lawn,Ailesbury,36,0800 - 1900,Monday to Saturday,1,
+53.30194982653389,-6.244985931310543,0,Point,621,M621,Arbourfield,Arbourfield,19,0800 - 1900,Monday to Saturday,1.5,
+53.28436726056186,-6.238837990405442,0,Point,287,M287,Ardglas,Ardglas,54,0800 - 1900,Monday to Saturday,1,
+53.28830089011637,-6.24678430788113,0,Point,611,M611,Ballinteer Road,Dundrum,6,0800 - 1900,Monday to Saturday,1.5,
+53.28863635672583,-6.246411187033368,0,Point,610,M610,Ballinteer Road (Close to Bridge),Dundrum,7,0800 - 1900,Monday to Saturday,1.5,
+53.287376541633336,-6.246375974779068,0,Point,609,M609,Ballinteer Road (The Gables),Dundrum,7,0800 - 1900,Monday to Saturday,1.5,
+53.29611203530913,-6.260173265692668,0,Point,627,M627,Braemor Road,Dundrum,45,0800 - 1900,Monday to Saturday,1,
+53.27901339408427,-6.223189375913347,0,Point,630,M630,Drummartin Link Road,Dundrum,36,0800 - 1900,Monday to Saturday,1,
+53.28068008855296,-6.224044883871747,0,Point,631,M631,Drummartin Link Road,Dundrum,35,0800 - 1900,Monday to Saturday,1,
+53.284231529069324,-6.225162477169712,0,Point,632,M632,Drummartin Link Road,Dundrum,22,0800 - 1900,Monday to Saturday,1,
+53.28242809870974,-6.236732668402429,0,Point,624,M624,Dun Emer,Dundrum,56,0800 - 1900,Monday to Saturday,1,
+53.293198119652295,-6.245655094930043,0,Point,603,M603,Dundrum Road (Shops Jct Taney Road),Dundrum,19,0800 - 1900,Monday to Saturday,1.5,
+53.29012940732014,-6.245670845863549,0,Point,306,M306,Dundrum Shopping Centre CP,Dundrum,12,0800 - 1900,Monday to Saturday,1.2,
+53.2901243362198,-6.245673903719158,0,Point,327,M327,Dundrum Shopping Centre CP,Dundrum,15,0800 - 1900,Monday to Saturday,1.2,
+53.29505614335562,-6.251873032938257,0,Point,265,M265,Glenbower Park,Dundrum,8,0800 - 1900,Monday to Saturday,1,
+53.28419759893968,-6.242738565140973,0,Point,625,M625,Lynnwood,Dundrum,53,0800 - 1900,Monday to Saturday,1,
+53.28494783269194,-6.244062962332426,0,Point,626,M626,Lynnwood,Dundrum,25,0800 - 1900,Monday to Saturday,1,
+53.29111286507053,-6.2454401238414325,0,Point,601,M601,Main Street (AIB),Dundrum,11,0800 - 1900,Monday to Saturday,1.5,
+53.29003714757709,-6.244309699467243,0,Point,602,M602,Main Street (PTSB),Dundrum,13,0800 - 1900,Monday to Saturday,1.5,
+53.29294842073011,-6.243751071154862,0,Point,622,M622,Old Rectory Park,Dundrum,19,0800 - 1900,Monday to Saturday,1.5,
+53.28839013769297,-6.2400511913344285,0,Point,302,M302,Sandyford Road Car Park,Dundrum,32,0800 - 1900,Monday to Saturday,1.2,
+53.28806455314425,-6.24107935282805,0,Point,303,M303,Sandyford Road Car Park,Dundrum,30,0800 - 1900,Monday to Saturday,1.2,
+53.28806153637478,-6.241071897480512,0,Point,304,M304,Sandyford Road Car Park,Dundrum,23,0800 - 1900,Monday to Saturday,1.2,
+53.288121539632556,-6.241408364645572,0,Point,305,M305,Sandyford Road Car Park,Dundrum,20,0800 - 1900,Monday to Saturday,1.2,
+53.290649468999185,-6.2377018735477066,0,Point,623,M623,Stoney Road,Dundrum,33,0800 - 1900,Monday to Saturday,1.5,
+53.29020256813258,-6.250890873903666,0,Point,606,M606,Sweetmount Avenue,Dundrum,16,0800 - 1900,Monday to Saturday,1.5,
+53.29194515327574,-6.24718847512529,0,Point,604,M604,Sweetmount Avenue (opp. 10),Dundrum,19,0800 - 1900,Monday to Saturday,1.5,
+53.291246663869146,-6.247854308643798,0,Point,605,M605,Sweetmount Avenue (opp. 24),Dundrum,28,0800 - 1900,Monday to Saturday,1.5,
+53.289092894814075,-6.251745203506469,0,Point,608,M608,Sweetmount Drive,Dundrum,14,0800 - 1900,Monday to Friday,1,
+53.29117768629735,-6.242317375954246,0,Point,620,M620,Taney Manor,Dundrum,12,0800 - 1900,Monday to Saturday,1.5,
+53.293225600522376,-6.247971196700009,0,Point,615,M615,Uppr. Churchtown Road (slip to Sweetmount),Dundrum,7,0800 - 1900,Monday to Saturday,1.5,
+53.29805470770219,-6.250723448492415,0,Point,618,M618,Woodlawn Park,Dundrum,17,0800 - 1900,Monday to Saturday,1.5,
+53.299266570690826,-6.251468156510832,0,Point,619,M619,Woodlawn Park,Dundrum,12,0800 - 1900,Monday to Saturday,1.5,
+53.295740446813795,-6.250246322327738,0,Point,617,M617,Woodlawn Park (13A),Dundrum,31,0800 - 1900,Monday to Saturday,1.5,
+53.2943237720009,-6.250809031981145,0,Point,616,M616,Woodlawn Terrace/Park,Dundrum,15,0800 - 1900,Monday to Saturday,1.5,
+53.303825086352454,-6.245207753165236,0,Point,628,M628,Olivemount,Olivemount,5,0800 - 1900,Monday to Saturday,1,
+53.28991787176575,-6.253547533060815,0,Point,607,M607,Sweetmount Avenue,Dundrum,9,0800 - 1900,Monday to Saturday,1.5,
+53.30613338751236,-6.1885160143236,0,Point,930,M930,Seafort Parade,Seafort Parade,32,0800 - 1900,Monday to Friday,1,
+53.261988300759946,-6.153285643403987,0,Point,761,M761,Bray Road,Cabinteely,16,0800 - 1900,Monday to Friday,1,
+53.26160510366992,-6.1523317485259925,0,Point,762,M762,Bray Road,Cabinteely,10,0800 - 1900,Monday to Friday,1,
+53.26142196689742,-6.15149604182188,0,Point,763,M763,Bray Road,Cabinteely,7,0800 - 1900,Monday to Friday,1,
+53.26062219448496,-6.149880971641556,0,Point,764,M764,Bray Road,Cabinteely,5,0800 - 1900,Monday to Friday,1,
+53.26000390735899,-6.149120766322429,0,Point,766,M766,Bray Road,Cabinteely,14,0800 - 1900,Monday to Friday,1,
+53.25951003896006,-6.148631788345113,0,Point,767,M767,Bray Road,Cabinteely,11,0800 - 1900,Monday to Friday,1,
+53.259806346672754,-6.149149972367745,0,Point,272,M272,"Bray Road, outside Library",Cabinteely,4,0800 - 1900,Monday to Friday,1,
+53.257479002684114,-6.146358980078992,0,Point,769,M769,Bray Road,Cabinteely,29,0800 - 1900,Monday to Friday,1,
+53.25853479721267,-6.147926872603025,0,Point,765,M765,Bray Road,Cabinteely,9,0800 - 1900,Monday to Friday,1,
+53.262225688388234,-6.153338616036626,0,Point,760,M760,Bray Road,Cabinteely,9,0800 - 1900,Monday to Friday,1,
+53.23642022436816,-6.11779567603109,0,Point,330,M330,Shankill Dart Station Car Park,Shankill,72,0800 - 1900,Monday to Friday,1,
+53.23643969392483,-6.11747489293165,0,Point,329,M329,Shankill Dart Station Car Park,Shankill,65,0800 - 1900,Monday to Friday,1,
+53.30750551429262,-6.197005080470256,0,Point,932,M932,Beech Grove,Booterstown,45,0800 - 1900,Monday to Friday,1,
+53.304611012564706,-6.198397129538752,0,Point,935,M935,Booterstown Avenue,Booterstown,22,0800 - 1900,Monday to Friday,1,
+53.30684051896109,-6.197148296636572,0,Point,933,M933,Booterstown Avenue,Booterstown,17,0800 - 1900,Monday to Friday,1,
+53.30532157487973,-6.197761113136899,0,Point,934,M934,Willow Place (Gleesons Pub),Booterstown,32,0800 - 1900,Monday to Friday,1,
+53.309571444125446,-6.198016633864018,0,Point,931,M931,Rock Road,Booterstown,41,0800 - 1900,Monday to Friday,1,
+53.31097859736888,-6.204873067965334,0,Point,904,M904,Dornden Park,Trimleston,42,0800 - 1900,Monday to Friday,1,
+53.310390681856184,-6.199864907669198,0,Point,905,M905,St. Helen's road,Booterstown,131,0800 - 1900,Monday to Friday,1,
+53.27524631953126,-6.102251106649771,0,Point,720,M720,Ardeveen Road,Dalkey,7,0800 - 1900,Monday to Saturday,1.5,Max Charge €5
+53.27903609189011,-6.104428491757386,0,Point,46,M46,Carysfort Road,Dalkey,19,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27721040261201,-6.10344704487559,0,Point,704,M704,Castle Street,Dalkey,3,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27764097222814,-6.10474104057979,0,Point,705,M705,Castle Street,Dalkey,6,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.278379047084464,-6.107204382369552,0,Point,706,M706,Castle Street,Dalkey,3,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27849728323456,-6.107703535340815,0,Point,707,M707,Castle Street,Dalkey,6,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27729905111055,-6.10288376689083,0,Point,714,M714,Coliemore Road,Dalkey,16,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27796212770657,-6.1028049721344475,0,Point,713,M713,Convent Road,Dalkey,21,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27922207922737,-6.102841464194529,0,Point,51,M51,Corrig Road (2),Dalkey,10,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.279930414289105,-6.104197856507995,0,Point,37,M37,Corrig Road (24),Dalkey,12,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27538623268511,-6.104447245238816,0,Point,136,M136,Cunningham Road,Dalkey,5,0800 - 1900,Monday to Saturday,1.5,Max Charge €5
+53.28049058757372,-6.109206710948241,0,Point,709,M709,Hyde Road,Dalkey,15,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27993849760701,-6.10900350636814,0,Point,708,M708,Hyde Road (GAA Club),Dalkey,35,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27771363763126,-6.1063320090203375,0,Point,721,M721,Kilbegnet Close,Dalkey,7,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27872847940754,-6.10569912382386,0,Point,41,M41,Ormeau Drive,Dalkey,19,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.275895796708284,-6.1034671570476275,0,Point,700,M700,Railway Road,Dalkey,12,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27847699241498,-6.103313730414948,0,Point,701,M701,Saint Patrick's Road,Dalkey,27,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27774313680728,-6.103593260260225,0,Point,702,M702,Saint Patrick's Road,Dalkey,11,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27563106244081,-6.102124582063401,0,Point,128,M128,Sorento Drive,Dalkey,14,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.275726052702396,-6.100300184069257,0,Point,179,M179,Sorento Road,Dalkey,3,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27671244159429,-6.104723470463339,0,Point,321,M321,St. Patrick's Avenue Car Park,Dalkey,12,0800 - 1900,Monday to Saturday,1.2,Max stay 3 Hours
+53.27670679574599,-6.104680262133852,0,Point,328,M328,St. Patrick's Avenue Car Park,Dalkey,15,0800 - 1900,Monday to Saturday,1.2,Max stay 3 Hours
+53.27617001456969,-6.1007894873638575,0,Point,176,M176,Tubbermore Road/Avenue,Dalkey,10,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.27681029849949,-6.1026794580805035,0,Point,715,M715,Tubbermore Road,Dalkey,17,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.2764922535312,-6.104200546606308,0,Point,703,M703,Saint Patrick's Avenue,Dalkey,23,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.28658696302411,-6.118072226676313,0,Point,489,,Ballygihen Avenue,Ballygihan Avenue,,0800 - 1900,Monday to Saturday,1,
+53.29101221161594,-6.132261797282409,0,Point,435,,Adelaide Street,Dún Laoghaire,22,0800 - 1900,Monday to Saturday,1.5,
+53.291530369111555,-6.131469789242325,0,Point,436,,Adelaide Street,Dún Laoghaire,20,0800 - 1900,Monday to Saturday,1.5,
+53.29225378726756,-6.130722456401083,0,Point,437,,Adelaide Street (Jct Haddington Tce),Dún Laoghaire,36,0800 - 1900,Monday to Saturday,1.5,
+53.29500278291104,-6.1378402728175345,0,Point,443,,Charlemont Avenue,Dún Laoghaire,18,0800 - 1900,Monday to Saturday,1.5,
+53.288887558228105,-6.130716804137219,0,Point,426,,Clarinda Park East (1),Dún Laoghaire,21,0800 - 1900,Monday to Saturday,1.5,
+53.28787081258382,-6.131393993104055,0,Point,427,,Clarinda Park East (18),Dún Laoghaire,25,0800 - 1900,Monday to Saturday,1.5,
+53.287038378531165,-6.132075238142348,0,Point,428,,Clarinda Park East (40),Dún Laoghaire,24,0800 - 1900,Monday to Saturday,1.5,
+53.28911347213476,-6.132028743912008,0,Point,312,,Clarinda Park East Car Park,Dún Laoghaire,37,0800 - 1900,Monday to Saturday,1.5,
+53.289430568639055,-6.131142041705558,0,Point,423,,Clarinda Park North,Dún Laoghaire,35,0800 - 1900,Monday to Saturday,1.5,
+53.28905086560432,-6.132301639195813,0,Point,424,,Clarinda Park West,Dún Laoghaire,50,0800 - 1900,Monday to Saturday,1.5,
+53.287398201345695,-6.133714365113667,0,Point,425,,Clarinda Park West (opp. 30),Dún Laoghaire,28,0800 - 1900,Monday to Saturday,1.5,
+53.28879866763441,-6.131141163286445,0,Point,311,,Clarinda Park West Car Park,Dún Laoghaire,56,0800 - 1900,Monday to Saturday,1.5,
+53.29606586759931,-6.140057972644472,0,Point,442,,Connaught Place (off Crofton Road),Dún Laoghaire,11,0800 - 1900,Monday to Saturday,1.5,
+53.293115042636984,-6.138976743249757,0,Point,406,,Convent Lane (Tesco Bloomfields),Dún Laoghaire,13,0800 - 1900,Monday to Saturday,1.5,
+53.29166731993242,-6.1381888077539575,0,Point,409,,Convent Road,Dún Laoghaire,12,0800 - 1900,Monday to Saturday,1.5,
+53.291907938607324,-6.138045667820209,0,Point,410,,Convent Road,Dún Laoghaire,17,0800 - 1900,Monday to Saturday,1.5,
+53.290840755472246,-6.133070391052722,0,Point,419,,Corrig Avenue,Dún Laoghaire,9,0800 - 1900,Monday to Saturday,1.5,
+53.28925615628821,-6.133915190399684,0,Point,48,,Corrig Avenue (26/27),Dún Laoghaire,14,0800 - 1900,Monday to Saturday,1.5,
+53.287980951972095,-6.134426053768377,0,Point,49,,Corrig Avenue (7),Dún Laoghaire,10,0800 - 1900,Monday to Saturday,1.5,
+53.29028385031449,-6.133476051542,0,Point,47,,Corrig Avenue (opp. 3),Dún Laoghaire,6,0800 - 1900,Monday to Saturday,1.5,
+53.28751187674628,-6.13588079349188,0,Point,400,,Corrig Park,Dún Laoghaire,8,0800 - 1900,Monday to Saturday,1.5,
+53.295269986951276,-6.138455696025206,0,Point,444,,Crofton Avenue,Dún Laoghaire,15,0800 - 1900,Monday to Saturday,1.5,
+53.295724713936735,-6.137505081262648,0,Point,440,,Crofton Road,Dún Laoghaire,16,0800 - 1900,Monday to Saturday,1.5,
+53.29600135645906,-6.1386975594703035,0,Point,441,,Crofton Road,Dún Laoghaire,14,0800 - 1900,Monday to Saturday,1.5,
+53.29128218302553,-6.139334677301928,0,Point,459,,Cross Avenue (Jct Desmond Ave),Dún Laoghaire,43,0800 - 1900,Monday to Saturday,1.5,
+53.286208550550114,-6.1338110139812585,0,Point,77,,Crosthwaite Park East,Dún Laoghaire,27,0800 - 1900,Monday to Friday,1,
+53.28454358529161,-6.1345383325900045,0,Point,79,,Crosthwaite Park South,Dún Laoghaire,11,0800 - 1900,Monday to Friday,1,
+53.286009543388566,-6.134873569765299,0,Point,78,,Crosthwaite Park West,Dún Laoghaire,33,0800 - 1900,Monday to Friday,1,
+53.2950440090145,-6.144511653555077,0,Point,449,,Cumberland Street,Dún Laoghaire,20,0800 - 1900,Monday to Saturday,1.5,
+53.293821499502016,-6.136588816106589,0,Point,408,,Elbana Avenue,Dún Laoghaire,15,0800 - 1900,Monday to Saturday,1.5,
+53.29473225917132,-6.139047114834621,0,Point,446,,George's Place,Dún Laoghaire,8,0800 - 1900,Monday to Saturday,1.5,
+53.29532068216767,-6.1416349034524815,0,Point,448,,George's Place,Dún Laoghaire,20,0800 - 1900,Monday to Saturday,1.5,
+53.29493213828194,-6.142245992516294,0,Point,450,,George's Street Lower,Dún Laoghaire,11,0800 - 1900,Monday to Saturday,1.5,
+53.29118864269526,-6.133663287528848,0,Point,418,,George's Street Upper,Dún Laoghaire,11,0800 - 1900,Monday to Saturday,1.5,
+53.291433239076596,-6.1331862379137,0,Point,438,,Haigh Terrace,Dún Laoghaire,28,0800 - 1900,Monday to Saturday,1.5,
+53.29543470021374,-6.139247042257845,0,Point,445,,Kelly's Avenue,Dún Laoghaire,11,0800 - 1900,Monday to Saturday,1.5,
+53.29008961431266,-6.146679373348973,0,Point,213,,Knapton Road,Dún Laoghaire,44,0800 - 1900,Monday to Friday,1,
+53.29273889471391,-6.140993422530446,0,Point,456,,Library Road (21),Dún Laoghaire,8,0800 - 1900,Monday to Saturday,1.5,
+53.29185362121914,-6.14059576221368,0,Point,455,,Library Road (3),Dún Laoghaire,63,0800 - 1900,Monday to Saturday,1.5,
+53.29358334099269,-6.134812704558248,0,Point,431,,Marine Road,Dún Laoghaire,6,0800 - 1900,Monday to Saturday,1.5,
+53.29149079747456,-6.129104841056183,0,Point,439,,Marine Terrace (6),Dún Laoghaire,7,0800 - 1900,Monday to Saturday,1.5,
+53.29137159849148,-6.130181197955961,0,Point,432,,Mellifont Avenue,Dún Laoghaire,26,0800 - 1900,Monday to Saturday,1.5,
+53.29077238807445,-6.130681837698297,0,Point,433,,Mellifont Avenue,Dún Laoghaire,19,0800 - 1900,Monday to Saturday,1.5,
+53.29034140404422,-6.131387406785357,0,Point,434,,Mellifont Avenue,Dún Laoghaire,16,0800 - 1900,Monday to Saturday,1.5,
+53.290807478372116,-6.136800633188664,0,Point,412,,Mulgrave Street,Dún Laoghaire,10,0800 - 1900,Monday to Saturday,1.5,
+53.291392957698754,-6.13616874484717,0,Point,411,,Mulgrave Street,Dún Laoghaire,19,0800 - 1900,Monday to Saturday,1.5,
+53.28926565863113,-6.137088450528807,0,Point,413,,Mulgrave Street (39),Dún Laoghaire,29,0800 - 1900,Monday to Saturday,1.5,
+53.28479350827751,-6.136633649353808,0,Point,470,,Myrtle Park,Dún Laoghaire,15,0800 - 1900,Monday to Friday,1,
+53.291775348454394,-6.142453666249738,0,Point,56,,Northcote Avenue,Dún Laoghaire,9,0800 - 1900,Monday to Saturday,1.5,
+53.29122966956494,-6.135184403904365,0,Point,414,,Northumberland Avenue,Dún Laoghaire,20,0800 - 1900,Monday to Saturday,1.5,
+53.29092600347509,-6.135303516893068,0,Point,415,,Northumberland Avenue,Dún Laoghaire,16,0800 - 1900,Monday to Saturday,1.5,
+53.28945949948622,-6.136016742955435,0,Point,417,,Northumberland Avenue (20),Dún Laoghaire,37,0800 - 1900,Monday to Saturday,1.5,
+53.29047593012603,-6.135530625445311,0,Point,416,,Northumberland Avenue (41),Dún Laoghaire,8,0800 - 1900,Monday to Saturday,1.5,
+53.288380448951905,-6.143869746900453,0,Point,259,,Oakwood (off Tivoli Road),Dún Laoghaire,7,0800 - 1900,Monday to Friday,1,
+53.290937704557294,-6.12868645697113,0,Point,430,,Park Road (2),Dún Laoghaire,17,0800 - 1900,Monday to Saturday,1.5,
+53.28980508285383,-6.1294617745956765,0,Point,429,,Park Road,Dún Laoghaire,13,0800 - 1900,Monday to Saturday,1.5,
+53.29175310435401,-6.137031869663684,0,Point,404,,Patrick Street,Dún Laoghaire,18,0800 - 1900,Monday to Saturday,1.5,
+53.290938585674056,-6.137981695947747,0,Point,405,,Patrick Street,Dún Laoghaire,25,0800 - 1900,Monday to Saturday,1.5,
+53.28952753577511,-6.1383602234623,0,Point,465,,Patrick Street (46A),Dún Laoghaire,11,0800 - 1900,Monday to Saturday,1.5,
+53.28828119963065,-6.138489374371732,0,Point,466,,Patrick Street (56),Dún Laoghaire,10,0800 - 1900,Monday to Saturday,1.5,
+53.29209408626103,-6.129223074147259,0,Point,401,,Queens Road,Dún Laoghaire,22,0800 - 1900,Monday to Saturday,1.5,
+53.28821980265731,-6.1296810426221695,0,Point,14,,Rosmeen Gardens,Dún Laoghaire,33,0800 - 1900,Monday to Friday,1,
+53.28616196816843,-6.1363574422106995,0,Point,80,,Royal Terrace East,Dún Laoghaire,43,0800 - 1900,Monday to Friday,1,
+53.28699984372453,-6.136922933651623,0,Point,15,,Royal Terrace North,Dún Laoghaire,10,0800 - 1900,Monday to Friday,1,
+53.28637208606198,-6.137451687268546,0,Point,82,,Royal Terrace West,Dún Laoghaire,82,0800 - 1900,Monday to Friday,1,
+53.291751630493664,-6.141358140815724,0,Point,22,,St. Mary's Street,Dún Laoghaire,42,0800 - 1900,Monday to Saturday,1.5,
+53.293257566325885,-6.136889772211422,0,Point,402,,Sussex Street,Dún Laoghaire,17,0800 - 1900,Monday to Saturday,1.5,
+53.29324091572515,-6.136909870039851,0,Point,403,,Sussex Street,Dún Laoghaire,12,0800 - 1900,Monday to Saturday,1.5,
+53.29341370975358,-6.1364722671720315,0,Point,407,,Sussex Street,Dún Laoghaire,7,0800 - 1900,Monday to Saturday,1.5,
+53.290443203706246,-6.139765484078826,0,Point,461,,Tivoli Terrace East (16),Dún Laoghaire,24,0800 - 1900,Monday to Saturday,1.5,
+53.289007266519256,-6.139826109602142,0,Point,17,,Tivoli Terrace East (4/5),Dún Laoghaire,17,0800 - 1900,Monday to Saturday,1.5,
+53.290789505768835,-6.14096802972994,0,Point,460,,Tivoli Terrace North,Dún Laoghaire,32,0800 - 1900,Monday to Saturday,1.5,
+53.28938895040406,-6.142528828151512,0,Point,463,,Tivoli Terrace South,Dún Laoghaire,28,0800 - 1900,Monday to Saturday,1.5,
+53.29228790254097,-6.143209091138542,0,Point,12,,Vesey Place,Dún Laoghaire,5,0800 - 1900,Monday to Friday,1,
+53.29430561727588,-6.139863046988514,0,Point,451,,Wellington Street,Dún Laoghaire,10,0800 - 1900,Monday to Saturday,1.5,
+53.292822596293185,-6.14466288675222,0,Point,215,,Willow Bank,Dún Laoghaire,17,0800 - 1900,Monday to Friday,1,
+53.29402938477897,-6.1426280972590765,0,Point,11,,York Road (71),Dún Laoghaire,21,0800 - 1900,Monday to Saturday,1.5,
+53.29453465435132,-6.14279101405796,0,Point,10,,York Road (Jct Barrett St),Dún Laoghaire,9,0800 - 1900,Monday to Saturday,1.5,
+53.29286350158276,-6.142631126789009,0,Point,13,,York Road (Jct St. Michael's Tce),Dún Laoghaire,14,0800 - 1900,Monday to Saturday,1.5,
+53.285001095202595,-6.127263773052736,0,Point,276,,Coldwell Street,EFCH,47,0800 - 1900,Monday to Friday,1,
+53.28521260551441,-6.125349409700957,0,Point,275,,Harold Crescent,EFCH,95,0800 - 1900,Monday to Friday,1,
+53.288099403380144,-6.140840606425023,0,Point,274,,Eglington Park,Eglinton Park,23,0800 - 1900,Monday to Friday,1,
+53.286288054865636,-6.123588799267282,0,Point,482,,Adelaide Road,Glasthule,14,0800 - 1900,Monday to Friday,1,
+53.287246838474,-6.124242304363434,0,Point,317,,Cowshed Car Park,Glasthule,17,0800 - 1900,Monday to Saturday,1.2,
+53.28727837383708,-6.124399459217998,0,Point,318,,Cowshed Car Park,Glasthule,19,0800 - 1900,Monday to Saturday,1.2,
+53.287341099799825,-6.126159424208294,0,Point,478,,Eden Park (housing side),Glasthule,17,0800 - 1900,Monday to Friday,1,
+53.287766989119795,-6.126703506812534,0,Point,313,,Eden Park Car Park,Glasthule,23,0800 - 1900,Monday to Saturday,1.2,
+53.28755811760238,-6.126565616169694,0,Point,314,,Glasthule Car Park,Glasthule,31,0800 - 1900,Monday to Saturday,1.2,
+53.28506942699735,-6.119437251797907,0,Point,73,,Hudson Road (Jct Albert Rd),Glasthule,4,0800 - 1900,Monday to Friday,1,
+53.285427562325395,-6.122061341599017,0,Point,483,,Hudson Road (Sports Ground),Glasthule,34,0800 - 1900,Monday to Friday,1,
+53.28825682480962,-6.126328959531053,0,Point,62,,Islington Avenue,Glasthule,13,0800 - 1900,Monday to Friday,1,
+53.28756109156964,-6.123021490282957,0,Point,64,,Link Road,Glasthule,6,0800 - 1900,Monday to Friday,1,
+53.28634670502429,-6.128003667308561,0,Point,74,,Magenta Place,Glasthule,18,0800 - 1900,Monday to Friday,1,
+53.288922907066514,-6.12762636681356,0,Point,23,,Martello Avenue,Glasthule,10,0800 - 1900,Monday to Friday,1,
+53.28871927124584,-6.1241906157272314,0,Point,477,,Newtownsmith,Glasthule,13,0800 - 1900,Monday to Saturday,1.5,
+53.28819321161584,-6.127955461522685,0,Point,75,,Rosmeen Park,Glasthule,14,0800 - 1900,Monday to Friday,1,
+53.28721084455152,-6.123896514277693,0,Point,65,,Summerhill Road,Glasthule,4,0800 - 1900,Monday to Saturday,1,
+53.28659895908886,-6.120527956141473,0,Point,67,,Wilmount Avenue,Glasthule,4,0800 - 1900,Monday to Friday,1,
+53.28983945089855,-6.125641184142648,0,Point,315,,Windsor Terrace Car Park,Glasthule,46,0800 - 1900,Monday to Friday,1.2,
+53.29020509685836,-6.126245501955965,0,Point,316,,Windsor Terrace Car Park,Glasthule,39,0800 - 1900,Monday to Friday,1.2,
+53.28571525288804,-6.118788385316229,0,Point,70,,Albert Road,Sandycove,22,0800 - 1900,Monday to Friday,1,
+53.28644671811732,-6.119146417239501,0,Point,69,,Burdett Avenue,Sandycove,20,0800 - 1900,Monday to Friday,1,
+53.28680854208563,-6.119934341224362,0,Point,486,,Marine Avenue,Sandycove,15,0800 - 1900,Monday to Friday,1,
+53.29521389316085,-6.140487324897509,0,Point,447,,George's Place,Dún Laoghaire,17,0800 - 1900,Monday to Saturday,1.5,
+53.28700409656475,-6.122449375022167,0,Point,480,,Glasthule Road (56),Glasthule,16,0800 - 1900,Monday to Saturday,1.5,
+53.279594841147606,-6.123552437143237,0,Point,495,M495,Marlbrough Road,Glenageary,30,0800 - 1900,Monday to Friday,1,
+53.27870745815534,-6.1251443075995065,0,Point,494,M494,Marlbrough Road,Glenageary,19,0800 - 1900,Monday to Friday,1,
+53.280321072650466,-6.123454524036743,0,Point,496,M496,Marlbrough Road,Glenageary,31,0800 - 1900,Monday to Friday,1,
+53.282761584280294,-6.1295646074218455,0,Point,191,M191,Silchester Road,Glenageary,16,0800 - 1900,Monday to Friday,1,
+53.28345907001135,-6.131934255853308,0,Point,193,M193,Silchester Road,Glenageary,34,0800 - 1900,Monday to Friday,1,
+53.28137555975859,-6.126579195881022,0,Point,491,M491,Silchester Road,Glenageary,52,0800 - 1900,Monday to Friday,1,
+53.27970015405361,-6.1185178081885505,0,Point,499,M499,St. Catherine's Road,Glenageary,42,0800 - 1800,Monday to Friday,1,
+53.28153203353585,-6.124427629765297,0,Point,497,M497,Station Road,Glenageary,34,0800 - 1900,Monday to Friday,1,
+53.280740315102584,-6.121969246307142,0,Point,498,M498,Station Road,Glenageary,13,0800 - 1900,Monday to Friday,1,
+53.27958183926811,-6.164273053098365,0,Point,880,M880,Deansgrange Road,Deansgrange,9,0800 - 1900,Monday to Saturday,1,
+53.278139675563125,-6.163419200556087,0,Point,881,M881,Clonkeen Road,Deansgrange,7,0800 - 1900,Monday to Saturday,1.5,
+53.296596916895446,-6.1660678573944105,0,Point,833,M833,Alma Road (14),Seapoint,35,0800 - 1900,Monday to Friday,1,
+53.29759649064505,-6.165974734063298,0,Point,834,M834,Alma Road (3),Seapoint,36,0800 - 1900,Monday to Friday,1,
+53.297955670310806,-6.164027282124792,0,Point,110,M110,Belgrave Road (Avalon Hse.),Seapoint,48,0800 - 1900,Monday to Friday,1,
+53.29559899724421,-6.162997556392588,0,Point,107,M107,Belgrave Sqaure (West),Seapoint,25,0800 - 1900,Monday to Friday,1,
+53.29556768106517,-6.1612364142038265,0,Point,827,M827,Belgrave Square (Jct South/East),Seapoint,82,0800 - 1900,Monday to Friday,1,
+53.296592299411216,-6.1630263414589725,0,Point,111,M111,Belgrave Terrace (3),Seapoint,15,0800 - 1900,Monday to Friday,1,
+53.29813834983511,-6.160432839264944,0,Point,840,M840,Brighton Vale,Seapoint,17,0800 - 1900,Monday to Friday,1,
+53.29566630537251,-6.164388830146386,0,Point,831,M831,Eaton Square (Jct South/East),Seapoint,25,0800 - 1900,Monday to Friday,1,
+53.29674092560234,-6.1643069395574335,0,Point,108,M108,Eaton Square (opp. Scoil Lorcain),Seapoint,9,0800 - 1900,Monday to Friday,1,
+53.29524266992291,-6.165757674417394,0,Point,832,M832,Montpellier Parade,Seapoint,25,0800 - 1900,Monday to Friday,1,
+53.29581133266148,-6.159589211392863,0,Point,105,M105,Seafield Avenue,Seapoint,23,0800 - 1900,Monday to Friday,1,
+53.298599003548524,-6.168271407268144,0,Point,838,M838,Seapoint Avenue,Seapoint,17,0800 - 1900,Monday to Friday,1,
+53.296982447352335,-6.168940111664244,0,Point,32,M32,Temple Crescent (8),Seapoint,20,0800 - 1900,Monday to Friday,1,
+53.297401400760315,-6.169797448475545,0,Point,149,M149,Temple Park Avenue (30),Seapoint,11,0800 - 1900,Monday to Friday,1,
+53.29817437069316,-6.1677811875297515,0,Point,147,M147,Temple Park Avenue (Jct Temple Cres.),Seapoint,16,0800 - 1900,Monday to Friday,1,
+53.29741831580872,-6.161069808252717,0,Point,841,M841,Trafalgar Terrace,Seapoint,35,0800 - 1900,Monday to Friday,1,
+53.26928210794018,-6.212164483379621,0,Point,271,M271,Mount Eagle Lawn,Leopardstown Heights,4,0800 - 1900,Monday to Saturday,1,
+53.292384517002176,-6.272049899509031,0,Point,277,M277,Nutgrove Avenue,Nutgrove Avenue,17,0800 - 1900,Monday to Saturday,1,
+53.2952509840263,-6.15743968748443,0,Point,104,M104,Albany Avenue,Monkstown,17,0800 - 1900,Monday to Friday,1.5,
+53.29488476291492,-6.156518327608923,0,Point,103,M103,Brighton Avenue,Monkstown,25,0800 - 1900,Monday to Friday,1.5,
+53.292815042828146,-6.152084805131404,0,Point,99,M99,Carrickbrennan Road,Monkstown,76,0800 - 1900,Monday to Friday,1.5,
+53.2909342992486,-6.151081690857142,0,Point,182,M182,Carrickbrennan Road,Monkstown,22,0800 - 1900,Monday to Friday,1.5,
+53.29060620811097,-6.151390816158976,0,Point,183,M183,Carrickbrennan Road,Monkstown,22,0800 - 1900,Monday to Friday,1.5,
+53.29265032867862,-6.152099933953044,0,Point,815,M815,Carrickbrennan Road,Monkstown,6,0800 - 1900,Monday to Friday,1.5,
+53.29338524849823,-6.153681763288825,0,Point,813,M813,Carrickbrennan Road (Post Office),Monkstown,21,0800 - 1900,Monday to Friday,1.5,
+53.294380774905896,-6.153724309310816,0,Point,812,M812,Clifton Avenue,Monkstown,11,0800 - 1900,Monday to Friday,1.5,
+53.2949034467064,-6.154137568358432,0,Point,102,M102,Clifton Terrace,Monkstown,17,0800 - 1900,Monday to Friday,1.5,
+53.29445107649088,-6.145450001026706,0,Point,822,M822,De Vesci Terrace,Monkstown,22,0800 - 1900,Monday to Friday,1.5,
+53.29508333018207,-6.146147208183338,0,Point,800,M800,Dun Leary Hill (bus stop to DL),Monkstown,21,0800 - 1900,Monday to Friday,1.5,
+53.294969014591295,-6.145749841999664,0,Point,801,M801,Dun Leary Hill (Ramp to De Vesci Tce),Monkstown,20,0800 - 1900,Monday to Friday,1.5,
+53.29412105469566,-6.15159953823878,0,Point,809,M809,Link Road,Monkstown,16,0800 - 1900,Monday to Friday,1.5,
+53.2946155193828,-6.147741346191527,0,Point,88,M88,Longford Place (De Vesci House),Monkstown,19,0800 - 1900,Monday to Friday,1.5,
+53.2942338610972,-6.148477982481628,0,Point,804,M804,Longford Place (Side to Dublin),Monkstown,21,0800 - 1900,Monday to Friday,1.5,
+53.29468654573733,-6.152681863774408,0,Point,94,M94,Longford Terrace,Monkstown,11,0800 - 1900,Monday to Friday,1.5,
+53.29459250692476,-6.150326396924431,0,Point,805,M805,Longford Terrace,Monkstown,44,0800 - 1900,Monday to Friday,1.5,
+53.2942842723439,-6.149271134182994,0,Point,808,M808,Longford Terrace,Monkstown,14,0800 - 1900,Monday to Friday,1.5,
+53.295017130258024,-6.147323914350837,0,Point,802,M802,Opp. The Purty Kitchen,Monkstown,11,0800 - 1900,Monday to Friday,1.5,
+53.29290141011266,-6.1498022742710114,0,Point,161,M161,Pakenham Road,Monkstown,18,0800 - 1900,Monday to Friday,1.5,
+53.29155826803896,-6.152726484611415,0,Point,818,M818,Richmond Hill,Monkstown,23,0800 - 1900,Monday to Friday,1,
+53.294983677380124,-6.152060871578924,0,Point,319,M319,Salthill/Monkstown Car Park,Monkstown,48,0800 - 1900,Monday to Friday,1.2,
+53.29516648116001,-6.152663217534033,0,Point,320,M320,Salthill/Monkstown Car Park,Monkstown,49,0800 - 1900,Monday to Friday,1.2,
+53.293454295381146,-6.146624074267361,0,Point,821,M821,Sloperton,Monkstown,13,0800 - 1900,Monday to Friday,1.5,
+53.29369610659883,-6.150879754102294,0,Point,807,M807,The Crescent,Monkstown,24,0800 - 1900,Monday to Friday,1.5,
+53.293914434708604,-6.152628814569673,0,Point,810,M810,The Crescent,Monkstown,10,0800 - 1900,Monday to Friday,1.5,
+53.29396894779182,-6.149826804431824,0,Point,806,M806,The Crescent (25),Monkstown,7,0800 - 1900,Monday to Friday,1.5,
+53.29380787947109,-6.152740130053711,0,Point,811,M811,The Crescent (Church Of Ire.),Monkstown,16,0800 - 1900,Monday to Friday,1.5,
+53.295570210320626,-6.150489081838856,0,Point,324,M324,The Gut Car Park,Monkstown,53,0800 - 1900,Monday to Friday,1.2,
+53.29259863385522,-6.149168014203865,0,Point,162,M162,The Hill,Monkstown,13,0800 - 1900,Monday to Friday,1.5,
+53.29627620378668,-6.1479599766347315,0,Point,323,M323,West Pier Car Park,Monkstown,53,0800 - 1900,Monday to Friday,1.2,
+53.273395754404696,-6.207980880264968,0,Point,85,M85,Arena Road,Sandyford IE,12,0800 - 1900,Monday to Friday,1,
+53.274478990512016,-6.207115140875741,0,Point,87,M87,Arena Road,Sandyford IE,17,0800 - 1900,Monday to Friday,1,
+53.27785815630932,-6.208914069315483,0,Point,217,M217,Arkle Road,Sandyford IE,12,0800 - 1900,Monday - Friday,1,
+53.277289415814195,-6.209448187457315,0,Point,218,M218,Arkle Road,Sandyford IE,9,0800 - 1900,Monday - Friday,1,
+53.27867859097356,-6.210585290297578,0,Point,219,M219,Ballymoss Road,Sandyford IE,11,0800 - 1900,Monday - Friday,1,
+53.27797126444724,-6.211250351356851,0,Point,671,M671,Ballymoss Road,Sandyford IE,17,0800 - 1900,Monday - Friday,1,
+53.274968600909915,-6.217138115889697,0,Point,666,M666,Bracken Road,Sandyford IE,18,0800 - 1900,Monday - Friday,1,
+53.27509351594173,-6.205913732690149,0,Point,659,M659,Burton Hall Avenue,Sandyford IE,10,0800 - 1900,Monday - Friday,1,
+53.27629595763839,-6.208708714769751,0,Point,260,M260,Carmanhall Road,Sandyford IE,20,0800 - 1900,Monday to Friday,1,
+53.274256378946134,-6.215660172397566,0,Point,664,M664,Furze Road,Sandyford IE,23,0800 - 1900,Monday - Friday,1,
+53.273395937108205,-6.216140022508417,0,Point,665,M665,Furze Road,Sandyford IE,20,0800 - 1900,Monday - Friday,1,
+53.272188192573424,-6.213796512593216,0,Point,224,M224,Heather Road,Sandyford IE,23,0800 - 1900,Monday - Friday,1,
+53.27405174621155,-6.213187434100188,0,Point,662,M662,Heather Road,Sandyford IE,18,0800 - 1900,Monday - Friday,1,
+53.28071055731863,-6.218110272667112,0,Point,236,M236,Holly Avenue,Sandyford IE,13,0800 - 1900,Monday - Friday,1,
+53.276234492915826,-6.2112929415574705,0,Point,669,M669,Raven Rock Road,Sandyford IE,17,0800 - 1900,Monday - Friday,1,
+53.277966530958714,-6.2195710238703725,0,Point,232,M232,Rowan Avenue,Sandyford IE,7,0800 - 1900,Monday - Friday,1,
+53.279260364759736,-6.219918785256989,0,Point,233,M233,Spruce Road,Sandyford IE,32,0800 - 1900,Monday - Friday,1,
+53.2759139095644,-6.213263897849034,0,Point,668,M668,Tree Rock Road,Sandyford IE,27,0800 - 1900,Monday - Friday,1,
+53.27377982984512,-6.218000671411378,0,Point,231,M231,Bracken Road,Sandyford IE,18,0800 - 1900,Monday - Friday,1,
+53.28800504837761,-6.195575733850583,0,Point,950,M950,The Hill,Stillorgan Road,13,0800 - 1900,Monday to Saturday,1.5,
+53.28821472013012,-6.1965907109839815,0,Point,951,M951,The Hill,Stillorgan Road,6,0800 - 1900,Monday to Saturday,1.5,
+53.31056242282357,-6.219076422669682,0,Point,900,M900,"Stillorgan Road, at Montrose Hotel",Stillorgan Road,12,0800 - 1900,Monday to Saturday,1,
+53.30983501969421,-6.2175603862905575,0,Point,901,M901,"Stillorgan Road, at Montrose Hotel",Stillorgan Road,24,0800 - 1900,Monday to Saturday,1,
+53.30865352288574,-6.215675539396879,0,Point,902,M902,"Stillorgan Road, at Montrose Hotel",Stillorgan Road,28,0800 - 1900,Monday to Saturday,1,
+53.30750074308211,-6.213751008828184,0,Point,903,M903,"Stillorgan Road, at Montrose Hotel",Stillorgan Road,28,0800 - 1900,Monday to Saturday,1,
+53.30045815541954,-6.218073354496212,0,Point,940,M940,Owenstown Park,Owenstown Park,9,0800 - 1900,Monday to Friday,1,
+53.3007944682329,-6.263878333883032,0,Point,627,M627,Braemor Road 117A-125A,Braemor Road,15,0800 - 1900,Monday to Saturda,1,
+53.298378358224326,-6.182390300346542,0,Point,531,M531,Sydney Avenue Jct. Avoca Place,Blackrock,23,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.298123062650156,-6.180645891572381,0,Point,172,M172,Angleasea Avenue,Blackrock,33,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.29853917278815,-6.174687626611662,0,Point,140,M140,Barclay Court,Blackrock,26,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.3022833831232,-6.1776528871564,0,Point,310,M310,Bath Place Car Park,Blackrock,23,0800 - 1900,Monday to Saturday,1.2,Max stay 3 Hours
+53.30311728895064,-6.184424024420924,0,Point,156,M156,Ben Inagh Park,Blackrock,13,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.302597563831036,-6.178873968107641,0,Point,300,M300,Blackrock Dart Station Car Park,Blackrock,26,0800 - 1900,Monday to Saturday,1.2,Max Charge €6
+53.30259575729476,-6.178863910742036,0,Point,301,M301,Blackrock Dart Station Car Park,Blackrock,36,0800 - 1900,Monday to Saturday,1.2,Max Charge €6
+53.29736715603676,-6.180408418017271,0,Point,145,M145,Brookfield Avenue,Blackrock,14,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.297151427918685,-6.178825127793523,0,Point,518,M518,Brookfield Terrace,Blackrock,11,0800 - 1900,Monday to Friday,1,Max Charge €5
+53.29575464780091,-6.178756697230082,0,Point,519,M519,Brookfield Terrace,Blackrock,28,0800 - 1900,Monday to Friday,1,Max Stay 3 Hours
+53.29887033977608,-6.1799997742898976,0,Point,515,M515,Carysfort Avenue,Blackrock,30,0800 - 1900,Monday to Friday,1,Max Charge €5
+53.30052526935733,-6.178217758483598,0,Point,513,M513,Carysfort Avenue,Blackrock,4,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.30069542723208,-6.1774630411871865,0,Point,514,M514,Carysfort Avenue,Blackrock,4,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.29744691261852,-6.182081747348041,0,Point,146,M146,Convent Road (64),Blackrock,13,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.298452788743866,-6.172234726586315,0,Point,530,M530,Craigmore Gardens,Blackrock,5,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.30088206608003,-6.189217812513933,0,Point,157,M157,Cross Avenue,Blackrock,14,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.301623358947445,-6.191401168045633,0,Point,261,M261,Cross Avenue,Blackrock,8,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.301984340107225,-6.192772748786335,0,Point,262,M262,Cross Avenue,Blackrock,31,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.302582685813995,-6.19568652294511,0,Point,263,M263,Cross Avenue,Blackrock,14,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.30307412588135,-6.197356696745556,0,Point,264,M264,Cross Avenue,Blackrock,13,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.30006880352291,-6.183574567346242,0,Point,533,M533,Frascati Park (41),Blackrock,13,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.301293903185396,-6.184042816697222,0,Point,151,M151,Frascati Park (Beside Church),Blackrock,24,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.29996668070946,-6.181154927580894,0,Point,532,M532,George's Avenue (68A),Blackrock,31,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.30133069150501,-6.178989327981767,0,Point,511,M511,George's Avenue (HSE),Blackrock,5,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.30089618975795,-6.179120665596842,0,Point,512,M512,George's Place,Blackrock,5,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.300706504922296,-6.178846291064055,0,Point,308,M308,George's Place Car Park,Blackrock,20,0800 - 1900,Monday to Saturday,1.2,Max Charge €6
+53.30034765446604,-6.178812793100167,0,Point,309,M309,George's Place Car Park,Blackrock,27,0800 - 1900,Monday to Saturday,1.2,Max Charge €6
+53.29799523032217,-6.185951381261714,0,Point,121,M121,Green Road (26/28),Blackrock,43,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.298793011654475,-6.183938084118474,0,Point,152,M152,Green Road (Jct Sydney Ave),Blackrock,10,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.30212454969395,-6.17672777704858,0,Point,508,M508,Idrone Terrace,Blackrock,51,0800 - 1900,Monday to Saturday,1.5,Max Charge €10
+53.301258955964634,-6.17435071094929,0,Point,509,M509,Idrone Terrace,Blackrock,29,0800 - 1900,Monday to Saturday,1.5,Max Charge €10
+53.30080263721623,-6.176125146262839,0,Point,501,M501,Main Street,Blackrock,14,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.30126413515423,-6.1771926380821895,0,Point,503,M503,Main Street,Blackrock,10,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.30094788467287,-6.176288482698236,0,Point,504,M504,Main Street,Blackrock,18,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.300472202752395,-6.1749045184929665,0,Point,510,M510,Main Street (Jct Idrone Tce),Blackrock,4,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.29992000357434,-6.169940785185263,0,Point,526,M526,Maretimo Gardens East,Blackrock,21,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.30166455092914,-6.185541984168452,0,Point,178,M178,Mount Merrion Avenue,Blackrock,17,0800 - 1900,Monday to Saturday,1,Max stay 3 Hours
+53.301328037930524,-6.186787966967417,0,Point,247,M247,Mount Merrion Avenue,Blackrock,7,0800 - 1900,Monday to Saturday,1,Max stay 3 Hours
+53.30048609292326,-6.189368280514166,0,Point,248,M248,Mount Merrion Avenue,Blackrock,2,0800 - 1900,Monday to Saturday,1,Max stay 3 Hours
+53.30179036447728,-6.184612479555965,0,Point,155,M155,Mount Merrion Avenue,Blackrock,8,0800 - 1900,Monday to Saturday,1,Max stay 3 Hours
+53.301014025886325,-6.187520391969288,0,Point,158,M158,Mount Merrion Avenue,Blackrock,8,0800 - 1900,Monday to Saturday,1,Max stay 3 Hours
+53.2992716070488,-6.1702633446183235,0,Point,527,M527,Newtown Avenue (Blkrock Hse.),Blackrock,18,0800 - 1900,Monday to Saturday,1.5,Max Charge €10
+53.29984392046358,-6.172309943946229,0,Point,529,M529,Newtown Avenue ,Blackrock,14,0800 - 1900,Monday to Saturday,1.5,Max Charge €10
+53.30015411977575,-6.173846277229174,0,Point,528,M528,Newtown Avenue (Junction Maretimo Gds. East),Blackrock,18,0800 - 1900,Monday to Saturday,1.5,Max Charge €10
+53.29669039510671,-6.180465732206584,0,Point,141,M141,Prince Edward Terrace,Blackrock,11,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.301912499829434,-6.178477666614398,0,Point,506,M506,Rock Hill,Blackrock,3,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.30237946742026,-6.17972099265152,0,Point,507,M507,Rock Hill,Blackrock,13,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.29743977689885,-6.177840792551899,0,Point,521,M521,Sweetmans Avenue (Jct Brookfield Ave),Blackrock,18,0800 - 1900,Monday to Friday,1,Max Charge €5
+53.29910186078896,-6.177676912837449,0,Point,143,M143,Sweetmans Avenue (opp. 56),Blackrock,10,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.2996110444036,-6.184847148721391,0,Point,153,M153,Sydney Avenue (28),Blackrock,12,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.300460143063916,-6.185211335507304,0,Point,540,M540,Sydney Avenue (42),Blackrock,21,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.298001416318186,-6.184203944258115,0,Point,159,M159,Sydney Terrace (6),Blackrock,17,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.30008221748187,-6.175849619473729,0,Point,502,M502,Temple Road,Blackrock,26,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.300412772695175,-6.176633084680856,0,Point,505,M505,Sweetmans Avenue (Temple Road Jct),Blackrock,5,0800 - 1900,Monday to Saturday,1.5,Max stay 3 Hours
+53.299770283675905,-6.175056711933039,0,Point,307,M307,Temple Road Car Park,Blackrock,31,0800 - 1900,Monday to Saturday,1.2,Max Charge €6
+53.29934297883453,-6.189335164893628,0,Point,131,M131,Waltham Terrace,Blackrock,31,0800 - 1900,Monday to Friday,1,Max stay 3 Hours
+53.30451268590714,-6.186477477830099,0,Point,322,M322,Blackrock Park Car Park,Blackrock,16,0800 - 1900,Monday to Friday,1.2,Max stay 3 hours
+53.29636867589392,-6.178166224725143,0,Point,520,M520,Brookfield Place,Blackrock,62,0800 - 1900,Monday to Friday,1,Max Stay 3 hours
